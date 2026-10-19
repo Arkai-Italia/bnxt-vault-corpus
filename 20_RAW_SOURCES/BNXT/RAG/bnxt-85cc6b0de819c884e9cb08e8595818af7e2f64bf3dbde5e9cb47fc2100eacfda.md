@@ -1,0 +1,34 @@
+---
+id: "bnxt-85cc6b0de819c884e9cb08e8595818af7e2f64bf3dbde5e9cb47fc2100eacfda"
+titolo: "Tread Owner's Manual - Using the Heat-Shrink Crimp Connectors"
+url: "https://www8.garmin.com/manuals/webhelp/GUID-700B8BF2-F8BB-42A2-A617-3CC00CB4CCA0/EN-US/GUID-5A556D10-BB5E-4327-900C-25BD62871364.html"
+categoria: "Approfondimenti_web"
+stato: "RAG_FONTI"
+verifica_fatti: "NON VERIFICATO"
+fonti_originali_locali: ["E:\\LIBRI BNXT COLLEGAMENTI GEN\\ORIGINALI_NON_TRATTATI\\FILE\\GEN__229e04e60b7fc6b3445ee2bb.html"]
+sha256_corpo: "b8093908c1539d0e046bce169c0352a34f5b8eb8f5b20556f8b09b1ce601b74a"
+---
+
+# Tread Owner's Manual - Using the Heat-Shrink Crimp Connectors
+
+# Using the Heat-Shrink Crimp Connectors
+
+You should use the included heat-shrink crimp connectors to make a water-tight connection between the bare wires.
+
+WARNING
+
+Only use the heat gun to apply heat to the heat-shrink crimp connectors in a well-ventilated area. Do not use the heat gun near clothing or bare skin. Doing so can result in property damage or serious injury.
+
+1. Using wire strippers, strip 6 mm (1/4 in.) off the end of each bare wire.
+2. If necessary, twist the strands of each wire  clockwise to bundle them together.
+
+3. Insert one bare wire into one end of the heat-shrink crimp connector .
+
+   The bare wires are not secure until they are crimped and sealed.
+4. Insert the corresponding bare wire into the other end of the heat-shrink crimp connector.
+5. Using pliers, crimp both sides of the center of the connector  to secure the connection.
+6. Using a heat gun, apply heat to the heat-shrink crimp connector until the connector is sealed to the wires.
+
+   Do not apply heat to the wires directly.
+
+[Home](https://www8.garmin.com/manuals/webhelp/GUID-700B8BF2-F8BB-42A2-A617-3CC00CB4CCA0/EN-US/index.html)[Appendix](https://www8.garmin.com/manuals/webhelp/GUID-700B8BF2-F8BB-42A2-A617-3CC00CB4CCA0/EN-US/GUID-E1A8D420-7F46-470B-B85D-0429910CA109.html)[Tread Audio](https://www8.garmin.com/manuals/webhelp/GUID-700B8BF2-F8BB-42A2-A617-3CC00CB4CCA0/EN-US/GUID-7930AF38-1731-46E4-997B-7A37BA986A3E.html)[Tread Audio Box Mounting Considerations](https://www8.garmin.com/manuals/webhelp/GUID-700B8BF2-F8BB-42A2-A617-3CC00CB4CCA0/EN-US/GUID-948D37CE-F67D-49BF-A85C-90E6B3FBF1C4.html)[Connections](https://www8.garmin.com/manuals/webhelp/GUID-700B8BF2-F8BB-42A2-A617-3CC00CB4CCA0/EN-US/GUID-7306F110-CE12-4C12-8281-032B7DA50BB1.html)[Using the Heat-Shrink Crimp Connectors](https://www8.garmin.com/manuals/webhelp/GUID-700B8BF2-F8BB-42A2-A617-3CC00CB4CCA0/EN-US/GUID-5A556D10-BB5E-4327-900C-25BD62871364.html)

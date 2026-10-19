@@ -1,0 +1,2592 @@
+---
+id: "bnxt-3bbfc314ba572ccbf8a2ed6d3a8e148d8f5ce736fbfc0448ed63abcf87dc0d30"
+titolo: "Circolare FMI 2026"
+url: "https://www.federmoto.it/wp-content/uploads/sites/2/2025/07/Circolare-FMI-2026-2.pdf"
+categoria: "Motoclub"
+stato: "RAG_FONTI"
+verifica_fatti: "NON VERIFICATO"
+fonti_originali_locali: ["E:\\LIBRI BNXT COLLEGAMENTI GEN\\ORIGINALI_NON_TRATTATI\\FILE\\VAULT__BNX-0060_Circolare_FMI_2026_62ee94adb4_20261016T090552709464Z.pdf", "E:\\LIBRI BNXT COLLEGAMENTI GEN\\ORIGINALI_NON_TRATTATI\\FILE\\VAULT__BNX-0125_2026_CIRCOLARE_FMI_2026_AGGIORNATA_AL_11_05_2026_103c50dfc7_20261016T091030901944Z.pdf"]
+sha256_corpo: "f4fd992ae9a0dde3bedcda38296fd40df0a7c490f1b7beda0aed8353d225eba6"
+---
+
+# Circolare FMI 2026
+
+## Pagina 1
+
+Approvata con delibera n.130 del Consiglio Federale n. 7 del 26/7/2025. Prima pubblicazione sul sito federale il 31/7/2025. Modificata con deliberazione d’urgenza n. 229 del 20/11/2025. Aggiornamento pubblicato il 20/11/2025.
+
+Modificata con deliberazione d’urgenza n. 321 dell' 11/05/2026. Aggiornamento pubblicato il 19/05/2026.
+
+
+CircolareFMI 2026
+
+## Pagina 2
+
+Sommario
+
+# **_Cari amici della FMI, Consiglieri Federali_**
+
+# **_Presidenti dei Comitati Regionali Presidenti dei Moto Club Presidenti e Coordinatori di Commissioni e Comitati Organizzatori e Promotori_**
+
+# **Presentiamo la Circolare FMI 2026**
+
+La Circolare risulta articolata nelle seguenti sezioni:
+
+- Novità
+
+- Affiliazione e riaffiliazione Moto Club
+
+- Moto Club affiliati: tesseramento annuale e Tessera Sport One Day
+
+- Moto Club Italia: tesseramento annuale e Tessera Member One Day
+
+- Licenze
+
+- Certificazione medica e coperture assicurative
+
+- MyFMI
+
+- Importi servizi e modalità di pagamento
+
+# Il Presidente FMI Giovanni Copioli
+
+
+Per quanto non esplicitamente indicato si rimanda alle norme statutarie, al Regolamento Organico Federale, al Regolamento Manifestazioni Motociclistiche ed alla Circolare Sportiva.
+
+|**NOVITÀ**........................................................................................................................................................................................................pag.  2|
+|---|
+|**AFFILIAZIONE E RIAFFILIAZIONE MOTO CLUB**|
+|INFORMAZIONI PRINCIPALI ....................................................................................................................................................pag.  6|
+|PROCEDURE............................................................................................................................................................................................pag.   8|
+|COSTITUZIONE MOTO CLUB..................................................................................................................................................pag.   8<br>|
+|MOTO CLUB GIÀ COSTITUITI ................................................................................................................................................pag. 10|
+|PRIMA AFFILIAZIONE......................................................................................................................................................................pag. 13|
+|RIAFFILIAZIONE....................................................................................................................................................................................pag. 15|
+|VARIAZIONE DATI STATUTARI M.C. ..................................................................................................................................pag. 17|
+|RAPPRESENTANTE DEI LICENZIATI ................................................................................................................................pag. 18|
+|LOGO MOTO CLUB............................................................................................................................................................................pag. 19|
+|FOCUS REGISTRI ASD/SSD......................................................................................................................................................pag. 20|
+|FOCUS AGEVOLAZIONI FISCALI M.C. ..........................................................................................................................pag. 22|
+|DOCUMENTI UTILI..............................................................................................................................................................................pag. 25|
+
+
+# **TESSERAMENTO MOTO CLUB AFFILIATI**
+
+|TESSERAMENTO TRAMITE M.C. AFFILIATI..............................................................................................................pag. 28|
+|---|
+|TESSERAMENTO ONLINE M.C. ADERENTI AL SERVIZIO..........................................................................pag. 35|
+|PASSAGGIO DA TESSERA MEMBER A TESSERA SPORT/MINISPORT ......................................pag. 37|
+|PASSAGGIO DA TESSERA SPORT A LICENZA AGONISTICA ................................................................pag. 38|
+|TRASFERIMENTO AD ALTRO M.C.....................................................................................................................................pag. 38|
+|TESSERA SPORT ONE DAY ......................................................................................................................................................pag. 39|
+|FOCUS HOBBY CARD ....................................................................................................................................................................pag. 41|
+|DOCUMENTI UTILI..............................................................................................................................................................................pag. 41|
+
+
+# **TESSERAMENTO MOTO CLUB ITALIA**
+
+|TESSERAMENTO ONLINE M.C. ITALIA..........................................................................................................................pag. 44|
+|---|
+|TESSERA MEMBER ONE DAY................................................................................................................................................pag. 46|
+|DOCUMENTI UTILI..............................................................................................................................................................................pag. 47<br>**LICENZE**|
+|LICENZE AGONISTICHE................................................................................................................................................................pag. 50|
+|MODALITÀ DI RILASCIO................................................................................................................................................................pag. 60|
+|SOSPENSIONE LICENZE..............................................................................................................................................................pag. 60|
+|TABELLA LICENZE AGONISTICHE ....................................................................................................................................pag. 61|
+|SERVIZI AGGIUNTIVI........................................................................................................................................................................pag. 62|
+|VELOCITÀ ....................................................................................................................................................................................................pag. 63|
+|FUORISTRADA........................................................................................................................................................................................pag. 64|
+|ATTIVITÀ INTERNAZIONALE......................................................................................................................................................pag. 69|
+|**CERTIFICAZIONE MEDICA E COPERTURE ASSICURATIVE**<br>CERTIFICAZIONE MEDICA ........................................................................................................................................................pag. 78|
+|COPERTURE ASSICURATIVE ..................................................................................................................................................pag. 86|
+|**MyFMI**............................................................................................................................................................................................................pag. 90|
+|**IMPORTI SERVIZI E MODALITÀ DI PAGAMENTO**............................................................................pag. 96|
+
+
+1
+
+## Pagina 3
+
+Novità 2026
+
+# <mark>Novità</mark>
+
+## **AFFILIAZIONE E RIAFFILIAZIONE MOTO CLUB**
+
+- **Termini richiesta prima affiliazione: 03 novembre 2025 - 31 luglio 2026**
+
+- **Termini richiesta riaffiliazione: 01 ottobre 2025 - 31 dicembre 2025**
+
+- **Semplificazione della procedura di firma dei documenti**
+
+## **TESSERAMENTO MOTO CLUB AFFILIATI**
+
+- **Termini tesseramento annuale: dal 1 ottobre 2025 (previa regolare 1° affiliazione/riaffiliazione del Moto Club)**
+
+- **Possibilità di acquisto Tessere da parte dei Moto Club fino al 31 dicembre 2026**
+
+- **Tessera Member rilasciata online dai Moto Club aderenti al servizio € 60,00**
+
+- **Nuova Tessera Sport One Day: rilascio dal 1 gennaio al 31 dicembre 2026**
+
+## **TESSERAMENTO MOTO CLUB ITALIA**
+
+- **Termini tesseramento annuale: dal 1 ottobre 2025 al 30 settembre 2026**
+
+- **Nuova Tessera Member One Day: rilascio dal 1 gennaio al 31 dicembre 2026**
+
+## **LICENZE**
+
+- **Non esistono più la Licenza Training e la Licenza Fuoristrada Elite**
+
+- **La Licenza Agonistica Fuoristrada si divide in Fuoristrada Nazionale e Fuoristrada Regionale**
+
+- **Vengono introdotte le Licenze Fuoristrada Nazionale One Event e Regionale One Event**
+
+2
+
+3
+
+## Pagina 4
+
+FMI2026
+
+Affiliazione e Riaffiliazione Moto Club
+
+## Pagina 5
+
+Moto Club
+
+Informazioni principali
+
+# **<u>INFORMAZIONI PRINCIPALI</u>**
+
+acquisiti e del diritto di voto in occasione di Assemblee federali (se svolte in periodo inferiore ai 12 mesi antecedenti l’affiliazione).
+
+# **<u>PRIMA AFFILIAZIONE</u>**
+
+- Termini: 03 novembre 2025 – 31 luglio 2026
+
+- Validità affiliazione: dal 01 gennaio 2026 (oppure dalla data di affiliazione, se avvenuta dopo il 31 dicembre 2025)
+
+- Costo affiliazione: € 200,00
+
+<u>Prenotazione della riaffiliazione: entro il 31 dicembre 2025 la richiesta di riaffiliazione</u> deve essere inviata al Comitato Regionale completa di tutta la documentazione richiesta, compreso il pagamento dell’importo dovuto.
+
+Non saranno ritenute conformi le richieste di riaffiliazione incomplete della documentazione richiesta o mancanti di parte dell’importo dovuto.
+
+- Validità titoli federali emessi: data ed ora indicate sulla tessera - 31 dicembre 2026
+
+# <u>Documenti:</u>
+
+Per potersi affiliare alla FMI, il Moto Club deve acquistare un quantitativo **pari o superiore a 25 Tessere federali** . Per il raggiungimento del quantitativo minimo previsto possono essere acquistate contestualmente sia le Tessere Member sia le Tessere Sport (sono escluse le Tessere MiniSport).
+
+**Per le procedure relative alla prima affiliazione del Moto Club si rimanda ai successivi articoli 1 e 2.**
+
+- 1 Certificato di attribuzione del codice fiscale societario, rilasciato dall’Agenzia delle Entrate (o ultimo aggiornamento)
+
+- 2 Eventuali moduli richiesta Tessera Sport  per i componenti dell’Organo Direttivo (i moduli richiesta Tessera Member sono facoltativi)
+
+- 3 Logo del Moto Club in formato jpg (se in possesso – per maggiori dettagli si rimanda all’art. 7)
+
+- 4 Ricevuta di versamento della quota di affiliazione e delle Tessere nel numero minimo precedentemente indicato.
+
+# **<u>RIAFFILIAZIONE</u>**
+
+- Termini: 01 ottobre 2025 – 31 dicembre 2025
+
+- Validità riaffiliazione: dal 01 gennaio 2026
+
+**<u>Componenti del Consiglio Direttivo: tutti i componenti del Consiglio Direttivo devono</u> essere regolarmente tesserati alla FMI anche in caso di variazioni nella composizione**
+
+**deliberate dall’Assemblea dei soci del Moto Club nel corso dell’anno sportivo.**
+
+- Costo riaffiliazione: € 100,00
+
+- Validità titoli federali emessi: data ed ora indicate sulla tessera - 31 dicembre 2026
+
+Per potersi affiliare alla FMI, il Moto Club deve acquistare un quantitativo **pari o superiore a 25 Tessere federali** . Per il raggiungimento del quantitativo minimo previsto possono essere acquistate contestualmente sia le Tessere Member sia le Tessere Sport (sono escluse le Tessere MiniSport).
+
+Trascorsi i termini sopra indicati, il Moto Club dovrà inviare una richiesta di prima affiliazione con conseguente perdita dell’anzianità di affiliazione, dei diritti sportivi
+
+Tutte le Tessere sono in formato digitale, ma possono essere rilasciate anche in formato card: il Moto Club, su richiesta dell’interessato, stampa l’etichetta adesiva, che riporta i dati anagrafici del tesserato con numero di Tessera e codice a barre. <u>Le Tessere Member acquistate direttamente dal tesserato tramite procedura online sono in formato esclusivamente digitale (non possono essere materializzate).</u> Per maggiori informazioni si rimanda all’art.8 - pag.33.
+
+Tutti i documenti in originale devono essere conservati dal **Rappresentante Legale** del Moto Club per 10 anni.
+
+6
+
+7
+
+## Pagina 6
+
+Moto Club
+
+Procedure
+
+# **PROCEDURE**
+
+**1. COSTITUZIONE MOTO CLUB, RILASCIO NULLA OSTA DI CONFORMITÀ DEI DOCUMENTI E RICHIESTA PRIMA AFFILIAZIONE**
+
+**Di seguito viene riportata la procedura che deve essere seguita dalle ASD/SSD** **<u>non ancora costituite.</u>**
+
+- **COSTITUZIONE DI UN MOTO CLUB**
+
+Un sodalizio che intenda presentare domanda di affiliazione alla FMI deve essere costituito in forma di Associazione o Società Sportiva Dilettantistica, nel rispetto delle vigenti disposizioni di legge e secondo le indicazioni degli Statuti del CONI e della FMI. L’Atto costitutivo e lo Statuto devono essere redatti in conformità ai principi enunciati nello Statuto Federale ed ai requisiti fissati dal CONI e dalla normativa vigente per l’iscrizione al Registro Nazionale delle Attività Sportive Dilettantistiche, istituito presso il Dipartimento dello Sport e gestito da Sport e Salute. Dal sito federale è possibile scaricare i seguenti modelli: verbale di Assemblea costitutiva ASD, Statuto ASD, Statuto SSD. In caso di ASD, Il Consiglio Direttivo deve essere composto da almeno cinque persone, compreso il Rappresentante Legale.
+
+- **DENOMINAZIONE DEL MOTO CLUB**
+
+La denominazione del Moto Club non può contenere i termini Scuola/School/Accademia/Accademy e similari, in quanto l’utilizzo di tali termini è prerogativa delle Scuole di Motociclismo certificate dalla Federazione e degli organizzatori di eventi formativi tecnico-sportivi autorizzati dalla Federazione stessa (come da Regolamento delle Scuole di Motociclismo della FMI). Inoltre:
+
+- Obbligo di ricomprendere la locuzione “Moto Club”
+
+- Indicazione della ragione sociale (Associazione o Società Sportiva Dilettantistica)
+
+Nel caso di Polisportiva la sezione motociclistica dovrà utilizzare la denominazione “Moto Club Sezione Polisportiva......................ASD/SSD”.
+
+- **RILASCIO NULLA OSTA DI CONFORMITÀ DEI DOCUMENTI E RICHIESTA PRIMA AFFILIAZIONE**
+
+   - 1 Le bozze del verbale dell’Assemblea costitutiva e dello Statuto devono essere inviate al Comitato Regionale di competenza
+
+   - 2 Entro 10 giorni lavorativi la FMI rilascerà il nulla osta di conformità o, in alternativa, indicherà le criticità da risolvere
+
+   - 3 Ricevuto il nulla osta, i documenti devono essere registrati all’Agenzia delle Entrate
+
+Il verbale dell’Assemblea costitutiva e lo Statuto devono essere trasmessi in **formato pdf** e scritti in modo **leggibile** , pena il rigetto della documentazione da parte del Comitato Regionale e/o **dell’Ufficio Affiliazioni e Tesseramento** .
+
+Dopo aver ricevuto il nulla osta di conformità dei documenti ed averli registrati all’Agenzia delle Entrate, il Rappresentante Legale del Moto Club deve inviare al Comitato Regionale competente:
+
+- Modulo di richiesta prima affiliazione ed attivazione dell’utenza federale
+
+- Verbale dell’Assemblea costitutiva e Statuto, comprensivi di estremi di registrazione dell’Agenzia delle Entrate
+
+- Certificato di attribuzione del codice fiscale societario rilasciato dall’Agenzia delle Entrate
+
+- Logo del Moto Club in formato jpg (se la ASD/SSD ne è in possesso – per maggiori dettagli si rimanda all’art. 7)
+
+- Verbale della riunione del Consiglio Direttivo (o dell’Assemblea dei soci) riportante la nomina del Responsabile contro abusi, violenze e discriminazioni del Moto Club (il modello del verbale è scaricabile da federmoto.it)
+
+- Modello organizzativo e Codice di condotta adottati dal Moto Club e conformi alle Linee Guida FMI (il modello organizzativo è scaricabile da federmoto.it)
+
+- Copia dell’avvenuto pagamento della quota di Affiliazione e delle Tessere
+
+8
+
+9
+
+## Pagina 7
+
+Moto Club
+
+Prima Affiliazione
+
+Nel modulo di richiesta di attivazione dell’utenza federale è obbligatorio indicare:
+
+- Denominazione del Moto Club
+
+- Sede legale ed indirizzo e-mail del Moto Club
+
+- Codice fiscale, ed eventualmente partita IVA, del Moto Club
+
+- Indirizzo PEC del Moto Club (riconducibile al Moto Club, obbligatorio e vincolante per finalizzare l'affiliazione)
+
+- Natura giuridica del Moto Club e specialità sportive praticate
+
+      - Eventuale ultimo verbale dell’Assemblea elettiva dei soci al fine della determinazione del Consiglio Direttivo in carica
+
+   2. <u>Entro 10 giorni lavorativi la FMI rilascerà il nulla osta di conformità o, in</u> alternativa, indicherà le criticità da risolvere
+
+      - In caso di modifica dello Statuto del Moto Club, il documento dovrà essere registrato all’Agenzia delle Entrate (le indicazioni specifiche verranno fornite dall’Ufficio Affiliazioni e Tesseramento)
+
+- Dati anagrafici del Rappresentante Legale
+
+- Cellulare ed e-mail del Rappresentante Legale
+
+Questi dati, ad eccezione dei contatti e dell’indirizzo @pec, sono riportati nel Certificato di attribuzione del codice fiscale societario rilasciato dall’Agenzia delle Entrate.
+
+Tutti i documenti precedentemente indicati vengono verificati dall’Ufficio Affiliazioni e Tesseramento entro 10 giorni lavorativi. In seguito al rilascio del nulla osta di conformità, le credenziali per accedere al sistema informativo federale vengono inviate all’indirizzo e-mail del Rappresentante Legale del Moto Club.
+
+**2. MOTO CLUB GIÀ COSTITUITI: RILASCIO NULLA OSTA DI CONFORMITÀ DEI DOCUMENTI E RICHIESTA PRIMA AFFILIAZIONE**
+
+**Di seguito viene riportata la procedura che deve essere seguita dalle ASD/SSD** **<u>già costituite (in possesso di codice fiscale societario).</u>**
+
+Tutti i documenti devono essere trasmessi in **formato pdf** e scritti in modo **leggibile** , pena il rigetto della documentazione da parte del Comitato Regionale e/o **dell’Ufficio Affiliazioni e Tesseramento** .
+
+Si specifica che:
+
+- In caso di ASD, il Consiglio Direttivo deve essere composto da almeno cinque persone, compreso il **Rappresentante Legale**
+
+- Nella denominazione è obbligatorio ricomprendere la locuzione “Moto Club” e la ragione sociale (Associazione o Società Sportiva Dilettantistica)
+
+Dopo aver ricevuto il nulla osta di conformità dei documenti (e, se necessario, averli registrati all’Agenzia delle Entrate), il Rappresentante Legale del Moto Club deve inviare al Comitato Regionale competente:
+
+- Modulo di richiesta di attivazione dell’utenza federale
+
+Le ASD/SSD già costituite devono:
+
+1. Inviare al Comitato Regionale di competenza i seguenti documenti:
+
+   - Atto costitutivo e Statuto, riportanti gli estremi di registrazione all’Agenzia delle Entrate
+
+   - Eventuale ultimo aggiornamento dello Statuto, comprensivo del verbale dell’Assemblea dei soci che ha approvato le modifiche, riportante gli estremi di registrazione all’Agenzia delle Entrate
+
+   - Certificato di attribuzione del codice fiscale societario rilasciato dall’Agenzia delle Entrate (o ultimo aggiornamento)
+
+- Verbale dell’Assemblea costitutiva e Statuto, comprensivi di estremi di registrazione dell’Agenzia delle Entrate
+
+- Eventuale ultimo aggiornamento dello Statuto, comprensivo del verbale dell’Assemblea dei soci che ha approvato le modifiche, riportante gli estremi di registrazione all’Agenzia delle Entrate
+
+- Eventuale ultimo verbale dell’Assemblea elettiva dei soci al fine della determinazione del Consiglio Direttivo in carica
+
+- Certificato di attribuzione del codice fiscale societario rilasciato dall’Agenzia delle Entrate (o ultimo aggiornamento)
+
+10
+
+11
+
+## Pagina 8
+
+Moto Club
+
+Prima Affiliazione
+
+- Logo del Moto Club in formato jpg (se la ASD/SSD ne è in possesso – per maggiori dettagli si rimanda all’art. 7)
+
+- Verbale della riunione del Consiglio Direttivo (o dell’Assemblea dei soci) riportante la nomina del Responsabile contro abusi, violenze e discriminazioni del Moto Club (il modello del verbale è scaricabile da federmoto.it)
+
+- Modello organizzativo e Codice di condotta adottati dal Moto Club e conformi alle Linee Guida FMI (il modello organizzativo è scaricabile da federmoto.it)
+
+# **3. PRIMA AFFILIAZIONE**
+
+- **INVIO RICHIESTA DI PRIMA AFFILIAZIONE TRAMITE IL SISTEMA INFORMATIVO FEDERALE**
+
+Dopo aver effettuato l’accesso nel sistema informativo federale con le credenziali del Moto Club, nella sezione “ _Affiliazion_ e c _Richiesta nuova affiliazione_ ” il Rappresentante Legale troverà la procedura per l’invio della richiesta di prima affiliazione al proprio Comitato Regionale.
+
+- Copia dell’avvenuto pagamento della quota di Affiliazione e delle Tessere
+
+# Si specifica che:
+
+Nel modulo di richiesta di attivazione dell’utenza federale è obbligatorio indicare:
+
+- Denominazione del Moto Club
+
+- Sede legale ed indirizzo e-mail del Moto Club
+
+- Codice fiscale, ed eventualmente partita IVA, del Moto Club
+
+- Indirizzo PEC del Moto Club (riconducibile al Moto Club, obbligatorio e vincolante per finalizzare l'affiliazione)
+
+- Natura giuridica del Moto Club e specialità sportive praticate
+
+- Dati anagrafici del Rappresentante Legale
+
+- Cellulare ed e-mail del Rappresentante Legale
+
+Questi dati, ad eccezione dei contatti e dell’indirizzo @pec, sono riportati nel Certificato di Attribuzione del codice fiscale societario rilasciato dall’Agenzia delle Entrate.
+
+Tutti i documenti precedentemente indicati vengono verificati dall’Ufficio Affiliazioni e Tesseramento entro **10 giorni lavorativi** . In seguito al rilascio del nulla osta di conformità, le credenziali per accedere al sistema informativo federale vengono inviate all’indirizzo e-mail del Rappresentante Legale del Moto Club.
+
+- Sezione “Richiesta Tessere”: il quantitativo da indicare deve essere pari o superiore a 25 Tessere federali (per il raggiungimento del quantitativo minimo previsto possono essere acquistate contestualmente sia le Tessere Member sia le Tessere Sport)
+
+- Sezione per l’inserimento dei documenti necessari per l’affiliazione: è necessario inserire i moduli di richiesta di tesseramento del Rappresentante Legale e dei componenti dell’Organo Direttivo e le copie delle tessere sanitarie del Rappresentante Legale e dei componenti dell’Organo Direttivo
+
+- Sezione per l’inserimento dei dati anagrafici di ciascun componente dell’Organo Direttivo:
+
+   - Contatti (cellulare ed e-mail) – non si può usare lo stesso numero di cellulare e lo stesso indirizzo e-mail per più persone
+
+   - Dati Tessera: indicare la tipologia di Tessera da assegnare (Member o Sport), la qualifica CD (come risulta dall’Atto costitutivo o dal verbale dell’Assemblea dei soci), la scadenza certificato medico e l’attività predominante (in caso di Tessera Sport)
+
+- Sezione “Contratto tesseramento online”: è possibile aderire al servizio “Tesseramento online” sottoscrivendo l’apposito contratto. Diversamente, è necessario inserire il flag “Non voglio aderire adesso”. Per maggiori informazioni sul servizio consultare l’art.9
+
+- Sezione “Dichiarazione sostitutiva”: è possibile sottoscriverla compilando il campo “istituto bancario”. Diversamente, è necessario inserire il flag “Non voglio compilare ora questo modulo”
+
+12
+
+13
+
+## Pagina 9
+
+Moto Club
+
+Riaffiliazione
+
+- Sezione “Safeguarding”: è obbligatorio indicare il Responsabile contro abusi, violenze e discriminazioni del Moto Club
+
+Il **Rappresentante Legale** del Moto Club, dopo aver verificato ed inserito tutti i dati e la documentazione richiesta, deve inoltrare al Comitato Regionale la richiesta di affiliazione (cliccando su “ _Invia richiesta_ ”).
+
+- **FIRMA DIGITALE DEI DOCUMENTI ED ACCETTAZIONE DELLA RICHIESTA DI PRIMA AFFILIAZIONE**
+
+Il Comitato Regionale, se non evidenzia irregolarità nella domanda e nella documentazione allegata, invia la richiesta di firma dei documenti al Rappresentante Legale del Moto Club (diversamente, indica le modifiche da effettuare).
+
+Le modalità per procedere alla firma digitale dei documenti sono indicate nel manuale operativo presente nell’utenza del Moto Club. Quando il Rappresentante Legale del Moto Club ha completato la procedura di firma dei documenti, il sistema affilierà automaticamente il Moto Club ed emetterà la Tessera per ciascun componente del Consiglio Direttivo. Il Comitato Regionale, ad affiliazione completata, rilascia: a) KIT Moto Club
+
+- b) All Access Presidente Moto Club, stampato dal Comitato Regionale: in alternativa, può essere scaricato in formato digitale tramite il portale MyFMI
+
+c) Tessere in formato card, se richieste (*)
+
+- d) Etichette da applicare sulle Tessere in formato card, se richieste (*)
+
+   - (*) da utilizzare per coloro che richiedono la materializzazione della Tessera.
+
+Una volta firmati digitalmente i documenti di prima affiliazione, si invitano i Moto Club a contattare il proprio Comitato Regionale e recarsi presso la sede per ritirare il materiale per la stagione sportiva 2026.
+
+L’ **Attestato di affiliazione 2026** può essere scaricato e stampato in qualunque momento dall’utenza federale del Moto Club.
+
+# **4. RIAFFILIAZIONE**
+
+- **INVIO RICHIESTA DI RIAFFILIAZIONE TRAMITE IL SISTEMA INFORMATIVO FEDERALE**
+
+Prima di salvare o inviare la richiesta di riaffiliazione al Comitato Regionale tramite la propria utenza federale, è necessario che il Presidente del Moto Club verifichi che la denominazione sociale, il codice fiscale e/o partita IVA, la sede legale ed il Rappresentante Legale coincidano tra FMI, Registro Nazionale delle Attività Sportive Dilettantistiche (Dipartimento per lo Sport) e Agenzia delle Entrate. In caso di difformità di uno o più di questi dati, o in caso di modifica degli stessi, si rimanda all’art.5. Per maggiori informazioni il Moto Club deve contattare il Comitato Regionale di appartenenza.
+
+Dopo aver effettuato l’accesso nel sistema informativo federale con le credenziali del Moto Club, nella sezione _“Affiliazione_ c _Richiesta Riaffiliazione_ ” il Rappresentante Legale troverà la procedura per l’invio della richiesta di riaffiliazione al proprio Comitato Regionale. Si specifica che:
+
+- Sezione “Richiesta Tessere”: il quantitativo da indicare deve essere pari o superiore a 25 Tessere federali (per il raggiungimento del quantitativo minimo previsto possono essere acquistate contestualmente sia le Tessere Member sia le Tessere Sport)
+
+- Sezione per l’inserimento dei documenti necessari per la riaffiliazione: tutti i documenti richiesti – indicati a pagina 7 – sono obbligatori
+
+- Sezione “Consiglio Direttivo consensi”: indicare i consensi privacy e la tipologia di Tessera da assegnare
+
+- Sezione “Contratto tesseramento online”: è possibile aderire al servizio “Tesseramento online” sottoscrivendo l’apposito contratto. Diversamente, è necessario inserire il flag “Non voglio aderire adesso”
+
+- Sezione “Dichiarazione sostitutiva”: è possibile sottoscriverla compilando il campo “istituto bancario”. Diversamente, è necessario inserire il flag “Non voglio compliare ora questo modulo”
+
+14
+
+15
+
+## Pagina 10
+
+Moto Club
+
+Variazione dei dati
+
+- Sezione “Safeguarding”: vengono riportati il nominativo del Responsabile contro abusi, violenze e discriminazioni del Moto Club, il verbale di nomina del Responsabile ed il Modello Organizzativo del Moto Club comunicati alla FMI
+
+Il Rappresentante Legale del Moto Club, dopo aver verificato ed inserito tutti i dati e la documentazione richiesta, deve inoltrare al Comitato Regionale la richiesta di riaffiliazione (cliccando su “Invia richiesta”).
+
+- **FIRMA DIGITALE DEI DOCUMENTI ED ACCETTAZIONE DELLA RICHIESTA DI RIAFFILIAZIONE**
+
+Il Comitato Regionale, se non evidenzia irregolarità nella domanda e nella documentazione allegata, invia la richiesta di firma dei documenti al Rappresentante Legale del Moto Club (diversamente, indica le modifiche da effettuare).
+
+Le modalità per procedere alla firma digitale dei documenti sono indicate nel manuale operativo presente nell’utenza del Moto Club.
+
+**5. VARIAZIONE DEI DATI STATUTARI, DEL RESPONSABILE CONTRO ABUSI VIOLENZE E DISCRIMINAZIONI E DEL MODELLO ORGANIZZATIVO DEL MOTO CLUB**
+
+   - **TERMINI E MODALITÀ DI COMUNICAZIONE ALLA FMI**
+
+Il Moto Club deve comunicare al <u>Comitato Regionale territorialmente</u> competente ogni variazione dei dati statutari, deliberata con specifico verbale di Assemblea. Tale verbale deve essere trasmesso al Comitato Regionale **<u>entro e non oltre 20 giorni</u>** <u>dalla riunione assembleare. Il Co.Re.</u> trasmette il verbale di Assemblea all'Ufficio Affiliazioni e Tesseramento che, qualora sia conforme, rilascia il nulla osta per apportare le necessarie modifiche nel sistema informativo federale e per consentire al Moto Club di procedere all’eventuale variazione dei dati registrati all’Agenzia delle Entrate. Il certificato rilasciato dall’Agenzia delle Entrate deve essere inviato tramite e-mail  dal Moto Club a:
+
+- Comitato Regionale di competenza
+
+- affiliazioni@federmoto.it
+
+Quando il Rappresentante Legale del Moto Club ha completato la procedura di firma dei documenti,il sistema riaffilierà automaticamente il Moto Club ed emetterà la Tessera per ciascun componente del Consiglio Direttivo. Il Comitato Regionale, a riaffiliazione completata, rilascia:
+
+- a) KIT Moto Club
+
+- b) All Access Presidente Moto Club, stampato dal Comitato Regionale: in alternativa, può essere scaricato in formato digitale tramite il portale MyFMI
+
+- c) Tessere in formato card, se richieste (*)
+
+- d) Etichette da applicare sulle Tessere in formato card, se richieste (*);
+
+(*) da utilizzare per coloro che richiedono la materializzazione della Tessera.
+
+Una volta firmati digitalmente i documenti per la riaffiliazione, si invitano i Moto Club a contattare il proprio Comitato Regionale e recarsi presso la sede per ritirare il materiale per la stagione sportiva 2026.
+
+L’ **Attestato di affiliazione 2026** può essere scaricato e stampato in qualunque momento dall’utenza federale del Moto Club.
+
+**<u>Componenti del Consiglio Direttivo: tutti i componenti del Consiglio</u> Direttivo devono essere regolarmente tesserati alla FMI anche in caso di variazioni nella composizione deliberate dall’Assemblea dei soci del Moto Club nel corso dell’anno sportivo.**
+
+- **TIPOLOGIE DI VARIAZIONI DATI DA COMUNICARE ALLA FMI**
+
+L’organo sociale competente per le delibere relative alla variazione dei dati è indicato nello statuto di ciascun Moto Club.
+
+Le variazioni da comunicare alla FMI riguardano:
+
+- a) **Variazione/integrazione cariche dell’Organo Direttivo: si ricorda che, come da normativa vigente, è fatto divieto ai componenti dell’Organo Direttivo di un Moto Club di ricoprire qualsiasi altra carica societaria in altre ASD/SSD nell’ambito della FMI.**
+
+**In caso di dimissioni del Presidente e/o dei Consiglieri è necessario trasmettere, oltre al verbale, anche le dimissioni scritte**
+
+16
+
+17
+
+## Pagina 11
+
+Moto Club
+
+Logo MC
+
+- b) **Trasferimento sede legale del Moto Club** : il trasferimento di sede del Moto Club in altra Regione, Provincia e/o Comune non può essere richiesto prima di 12 mesi dall’Affiliazione. Il trasferimento di sede in altra Regione comporta la perdita dell’anzianità di affiliazione e, di conseguenza, dei diritti sportivi acquisiti
+
+- c) **Modifica denominazione del Moto Club** : per variare la denominazione sociale, il Moto Club dovrà presentare alla FMI il verbale di Assemblea dei Soci, il nuovo Statuto e la copia del versamento di €100,00 effettuato nelle modalità indicate a pag. 96. Per i Moto Club di prima affiliazione la variazione della denominazione è tassativamente preclusa durante lo svolgimento della stagione sportiva in corso
+
+- d) **Aggiornamento statuto Moto Club, anche in caso di variazione della natura giuridica**
+
+Per comunicare i nominativi il Moto Club deve accedere al sistema
+
+informativo federale con le proprie credenziali e seguire questa procedura:
+
+- Cliccare su “ _Affiliazione_ c _Consultazione/Modifica_ c _Cerca_ ”
+
+- Aprire l’anagrafica di affiliazione e cliccare sulla sezione:
+
+   - “ _Rappresentante Licenziati_ ”
+
+- Inserire il numero di Licenza del Rappresentante e del suo Supplente. Diversamente, deve inserire il flag:
+
+- “ _Non è stato eletto alcun Rappresentante dei Licenziati_ ”
+
+Per eventuali successive modifiche, il Moto Club deve inviare il verbale dell’Assemblea di categoria al proprio Comitato Regionale.
+
+**Non è possibile eleggere come Rappresentante dei Licenziati o come suo Supplente i titolari di Licenza One Event** .
+
+- **e) Nominativo del Responsabile contro abusi, violenze e discriminazioni**
+
+# **f) Modello organizzativo adottato**
+
+# **7. LOGO MOTO CLUB**
+
+<u>In caso di aggiornamento dello Statuto per adeguamento a requisiti anche di altre Federazioni Sportive Nazionali o di Enti di Promozione Sportiva a cui la ASD/SSD si sta affiliando, è necessario ricevere l’approvazione dello stesso anche dalla FMI.</u>
+
+# **6. RAPPRESENTANTE DEI LICENZIATI**
+
+<u>Entro il 30 aprile ciascun Moto Club affiliato – che abbia almeno un Licenziato –</u> deve comunicare il nominativo del Rappresentante dei Licenziati.
+
+Il Rappresentante dei Licenziati e, eventualmente, il suo Supplente vengono eletti in occasione dell’Assemblea di categoria del Moto Club. (Qualora il Moto Club richieda il rilascio della prima Licenza dopo il 30 aprile, potrà comunicare il nominativo del Rappresentante dei Licenziati anche oltre tale data).
+
+Il Moto Club in sede di affiliazione o riaffiliazione può inviare, se ne è in possesso ed insieme agli altri documenti richiesti, anche il logo dell’Associazione/Società. Il logo viene verificato dagli Uffici Federali competenti e, una volta ricevuto il nulla osta di conformità, viene riportato sul sito federale. Qualora il logo venga presentato successivamente all’affiliazione/riaffiliazione, l’immagine dovrà essere inviata al Comitato Regionale competente per il rilascio del nulla osta di conformità.
+
+Si informa che nei loghi dei Moto Club non devono essere riportati: logo FMI, logo CONI, scritta FMI, scritta CONI e 5 Cerchi Olimpici. Per quanto riguarda l’utilizzo del logo del Moto Club in abbinamento al logo FMI, si rimanda al “ **Regolamento Logo FMI - Manuale di utilizzo** ” pubblicato sul sito federale.
+
+<u>N.B.: il logo deve essere inviato esclusivamente in formato jpg (dimensioni pari o superiori a 400 pixel di larghezza e 304 pixel di altezza).</u>
+
+18
+
+19
+
+## Pagina 12
+
+Moto Club
+
+Focus
+
+# **FOCUS - REGISTRO NAZIONALE DELLE ATTIVITÀ SPORTIVE DILETTANTISTICHE (RASD)**
+
+Il Registro Nazionale delle Attività Sportive Dilettantistiche, istituito presso il Dipartimento dello Sport e gestito con il supporto di Sport e Salute, certifica la natura dilettantistica di Società ed Associazioni Sportive per tutti gli effetti che l’ordinamento statale ricollega a tale qualifica (D.lgs. 39/2021). Soltanto le Associazioni/Società impegnate nel settore sportivo dilettantistico, e regolarmente iscritte al Registro, possono beneficiare delle agevolazioni previste dalla legge.
+
+- Inserire tutti i dati richiesti, la dichiarazione sostitutiva, il documento del Rappresentante Legale ed inserire i consensi privacy. Successivamente, cliccare su “ _Crea utenza_ ”
+
+- All’indirizzo e-mail indicato precedentemente verranno inviate le credenziali di accesso al portale
+
+Per eventuali approfondimenti in merito all’iscrizione al Registro RASD si rimanda al Regolamento **“Disciplina sulla tenuta, conservazione e gestione del Registro Nazionale delle Attività Sportive Dilettantistiche”** ed al **Manuale operativo.**
+
+# **FOCUS - REGISTRO 2.0 CONI**
+
+**Solo da questo Registro è possibile scaricare il documento che certifica la natura dilettantistica della ASD/SSD. È possibile scaricare il Certificato di regolare iscrizione al Registro 2026 fino al 31 dicembre 2026. Dopo questa data, in caso di mancanza di una Affiliazione valida, non sarà possibile scaricare alcun Certificato.**
+
+Come da Comunicato del Consiglio Nazionale del CONI del 15 settembre 2022, l’iscrizione al Registro Nazionale Società Sportive Dilettantistiche (Registro 2.0 CONI) consente – tra gli altri – l’acquisizione del diritto di voto nelle Assemblee federali e l’accesso agli Organi di giustizia sportiva.
+
+   - **RAPPRESENTANTE LEGALE  GIÀ ACCREDITATO**
+
+- **RAPPRESENTANTE LEGALE GIÀ ACCREDITATO**
+
+Da gennaio 2026 il Rappresentante Legale del Moto Club affiliato e registrato al RASD può accedere al portale del Registro di Sport e Salute (https://registro.sportesalute.eu) e scaricare il Certificato di regolare iscrizione al Registro 2026.
+
+- **REGISTRAZIONE PER RAPPRESENTANTE LEGALE**
+
+Da gennaio 2026 il Rappresentante Legale del Moto Club affiliato, **non in possesso di credenziali per l’accesso al RASD** , deve accreditarsi sul portale del Registro Nazionale delle Attività Sportive Dilettantistiche (https://registro.sportesalute.eu) seguendo questa procedura:
+
+- Cliccare su “ _Crea utenza come Rappresentante Legale ASD/SSD_ ” presente nell’homepage del portale
+
+- Inserire il codice fiscale della ASD/SSD ed il codice fiscale del Rappresentante Legale e cliccare su “ _Verifica dati_ ”
+
+Da gennaio 2026 il Rappresentante Legale del Moto Club affiliato può accedere al portale del Registro 2.0 CONI (https://rssd.coni.it/) e verificare la correttezza dei dati presenti sul Registro.
+
+- **REGISTRAZIONE PER RAPPRESENTANTE LEGALE**
+
+Da gennaio 2026 il Rappresentante Legale del Moto Club affiliato deve accreditarsi sul portale del Registro 2.0 CONI (https://rssd.coni.it), seguendo questa procedura:
+
+- Cliccare su “ _Modulo per la registrazione online_ ” nell’homepage del portale
+
+- Cliccare su “ _Ho preso visione_ ” dopo aver letto l’informativa
+
+- Inserire tutti i dati richiesti, la dichiarazione sostitutiva, il documento del Rappresentante Legale e cliccare su “ _Invia richiesta_ ”
+
+- All’indirizzo e-mail indicato precedentemente verranno inviate le credenziali di accesso al portale
+
+Una volta effettuato il login, è possibile verificare la correttezza dei dati presenti sul Registro.
+
+20
+
+21
+
+## Pagina 13
+
+Moto Club
+
+Focus
+
+# **FOCUS - AGEVOLAZIONI FISCALI PER MOTO CLUB**
+
+Per usufruire delle agevolazioni fiscali, il Moto Club dovrà procedere alla redazione di uno Statuto conforme alle disposizioni di cui agli artt. 6, 7 ed 8 del D.lgs. 36/2021 (in vigore a decorrere dal 1° luglio 2023), affiliarsi alla FMI, e verificare la propria regolare iscrizione al Registro Nazionale delle Attività Sportive Dilettantistiche del Dipartimento per lo Sport - Presidenza del Consiglio dei Ministri, attestante la natura dilettantistica dell’attività dell’ente.
+
+Le seguenti clausole devono essere obbligatoriamente recepite nello Statuto del Moto Club:
+
+- la denominazione dovrà contenere la locuzione: “Moto Club Associazione Sportiva Dilettantistica” (o altra Ragione Sociale, es: Società Sportiva Dilettantistica a r.l.)
+
+- lo scopo sociale dovrà fare riferimento all’esercizio in via stabile e principale dell’organizzazione e gestione di attività sportive dilettantistiche, compresa la formazione, la didattica, la preparazione e l’assistenza all’attività sportiva dilettantistica individuate tra quelle riconosciute dal CONI nell’ambito del motociclismo (Enduro, Motocross, Motorally, Motoslitte, Quad, Speedway, Supermoto, Trial, Velocità, Mototurismo, Moto d’epoca, E-bike, E-Games motociclistici). Le ASD e SSD potranno esercitare attività diverse da quelle sopramenzionate a condizione che l’atto costitutivo o lo Statuto lo consentano e che abbiano carattere secondario e strumentale rispetto alle attività istituzionali. Un Decreto del Presidente del Consiglio dei Ministri o dell’Autorità delegata in materia di Sport definirà i criteri ed i limiti per l’attività secondaria e strumentale
+
+- l’attribuzione della rappresentanza legale
+
+- l’assenza di fini di lucro e la previsione del divieto della distribuzione, anche indiretta, di utili ed avanzi di gestione, fondi e riserve comunque denominati, a soci o associati, lavoratori e collaboratori, amministratori ed altri componenti degli organi sociali, anche nel caso di recesso o di qualsiasi altra ipotesi di scioglimento individuale del rapporto, salvo quanto previsto dall’art. 8 del D.lgs. 36/2021 in materia di parziale distribuzione degli utili e di rimborso della quota di capitale versata
+
+- le norme sull’ordinamento interno ispirato a principi di democrazia, **di pari opportunità** e di uguaglianza dei diritti di tutti gli associati, con la previsione dell’elettività delle cariche sociali, fatte salve le Società Sportive Dilettantistiche che assumono la forma di società di capitali o di persone o cooperative per le quali si applicano le disposizioni del libro V, Titolo V del codice civile. Il principio di democraticità, **di pari opportunità e di uguaglianza dei diritti di tutti i soci, con la previsione dell’elettività delle cariche sociali,** non è richiesto per i Moto Club costituiti in forma di società di capitali o di persone **ai quali si applicano le disposizioni del codice civile**
+
+- l’obbligo di redazione dei rendiconti economico-finanziari, nonché la modalità di approvazione degli stessi da parte degli organi statutari
+
+- la modalità di scioglimento dell’Associazione e della Società
+
+- l’obbligo di devoluzione ai fini sportivi del patrimonio in caso di scioglimento delle Società e delle Associazioni
+
+- **l’esercizio delle attività con lealtà sportiva e l’osservanza di principi, norme e consuetudini sportive del CONI e del CIP, salvaguardando la funzione popolare, educativa, sociale e culturale dello sport**
+
+- l’accettazione espressa delle Norme e delle decisioni del CONI e della FMI
+
+- Le agevolazioni fiscali di cui potrà usufruire il Moto Club sono di seguito riassunte:
+
+- defiscalizzazione dei corrispettivi specifici attinenti alle finalità istituzionali versati da soci o Tesserati FMI a fronte di servizi resi (ad esempio quota di iscrizione ad un motoraduno) nel caso in cui lo Statuto sia conforme a quello tipo pubblicato sul sito federale o comunque contenga quelli indicati dall’art. 148, comma 8 del TUIR
+
+- legge 398/91 (semplificazioni contabili e determinazione forfettaria delle imposte sui redditi e dell’IVA da versare)
+
+- agevolazioni fiscali, previdenziali e assicurative nei confronti dei lavoratori sportivi e dei collaboratori di Moto Club con funzioni amministrativo gestionali come disciplinate dal D.lgs. 36/2021
+
+- presunzione di spesa pubblicitaria dei corrispettivi per sponsorizzazioni fino a €200.000,00 (cioè certezza che le aziende sponsor possano dedurre integralmente come spesa l’investimento promo pubblicitario fatto dal proprio reddito)
+
+22
+
+23
+
+## Pagina 14
+
+Moto Club
+
+Documenti Utili
+
+- esclusione da imposta sulla pubblicità della cartellonistica collocata all’interno di impianti, con capienza certificata non superiore a 3.000 posti
+
+- esclusione dall’applicazione della norma sulla perdita della natura di ente non commerciale, ossia solo per le A.S.D. non si corre il rischio, in presenza di proventi commerciali superiori a quelli istituzionali, che l’amministrazione finanziaria non consideri più l’ente non commerciale con conseguente perdita di ogni agevolazione, fermi i limiti relativi alle attività secondarie e strumentali che verranno fissati con apposito Decreto
+
+# **DOCUMENTI UTILI**
+
+Tutti i documenti utili per i Moto Club sono pubblicati sul sito federale; il link di riferimento è il seguente:
+
+https://www.federmoto.it/tipologia-documento/affiliazione-e-tesseramento-2026/
+
+FAQ Moto Club: https://www.federmoto.it/faq/domande-frequenti-mc/ FAQ aspetti legali: https://www.federmoto.it/faq/aspetti-legali-moto-club/
+
+- esclusione dall’applicazione della tassa sulle concessioni governative e dall’imposta di bollo
+
+- applicazione dell’imposta di registro a tassa fissa
+
+- riduzione dell’imposta sul gas metano prevista dal D.Lg.s 26.10.1995 n.504, art.26, per l’utilizzo in impianti sportivi da parte di associazioni sportive
+
+- detrazione dall’imposta per contributi erogati ad un massimo di €1.500,00; l’articolo 15 comma 1, lett. i-ter, d.p.r. n. 917/1986 (TUIR) consente la detrazione del 22% dei contributi erogati da persone fisiche ad Associazioni o Società Sportive dilettantistiche fino ad un massimo di €1.500,00 annui, fermo l’obbligo di tracciabilità delle operazioni
+
+24
+
+25
+
+## Pagina 15
+
+FMI2026
+
+Moto Club affiliati: tesseramento annuale e Tessera Sport One Day
+
+## Pagina 16
+
+Tesseramento M.C. Affiliati
+
+Tesseramento
+
+# **8. TESSERAMENTO TRAMITE MOTO CLUB AFFILIATI**
+
+# **(Tessera richiesta ed emessa direttamente dal Moto Club)**
+
+- Termini emissione tessere: dalla data di 1° affiliazione/riaffiliazione Moto Club al 31 dicembre 2026
+
+- Validità: data ed ora indicate sulla Tessera – 31 dicembre 2026
+
+- I Moto Club possono acquistare ed assegnare le Tessere federali <u>fino al 31 dicembre 2026. Non sarà possibile lo storno ed il reso delle Tessere acquistate.</u>
+
+- Costi:
+
+   - Tessera Member € 40,00
+
+   - Tessera Sport € 120,00
+
+- **REQUISITI PER IL RILASCIO DELLE TESSERE FEDERALI**
+
+||**TESSERA MEMBER**|**TESSERA SPORT**|**TESSERA**<br>**MINISPORT**|
+|---|---|---|---|
+|**Età**|nessun limite|8 anni compiuti –<br>75 anni|6 anni compiuti –<br>9 anni|
+|**Certificato medico**|Se previsto dai<br>Regolamenti Sportivi<br>di Specialità|Certificazione medica<br>non agonistica|Certificazione medica<br>non agonistica|
+
+
+Nel corso dell’anno sportivo è consentito il passaggio da Tessera Member a Tessera Sport/MiniSport e da Tessera Sport/MiniSport a Licenza Agonistica. Non è consentito tesserarsi contemporaneamente a più Moto Club nel corso della stagione sportiva, ma può essere autorizzato un solo trasferimento ad altro Moto Club.
+
+   - Tessera MiniSport € 35,00
+
+- Gadget: portachiavi + adesivo
+
+   - N.B.: l’importo è da intendersi riferito alla sola quota dovuta per il tesseramento alla FMI e non comprende eventuali ulteriori quote associative o di iscrizione al Moto Club.
+
+**Non si può procedere all’annullamento della Tessera federale di qualsiasi tipologia o alla modifica dell’intestatario una volta emessa la Tessera dal sistema informativo federale.**
+
+Il Moto Club può rilasciare le Tessere federali solo a fronte di richiesta dell’interessato ed ha l’obbligo di registrare tutti i dati del richiedente sul sistema informativo federale, nel rispetto della Normativa in materia di Privacy. Il Presidente del Moto Club ha l’obbligo di **conservare la documentazione di richiesta tesseramento (compreso l’eventuale certificato medico) per almeno dieci anni** .
+
+Tutte le Tessere sono in formato **digitale** . Il tesserato può richiedere la Tessera in formato **card** direttamente al proprio Moto Club, che dovrà stampare l’etichetta adesiva generata dal sistema informativo federale comprensiva del riepilogo dati del tesserato, data ed ora di emissione, codice a barre, numero di Tessera e l’eventuale scadenza del certificato medico (ove previsto).
+
+- **COPERTURE ASSICURATIVE ED ATTIVITÀ CONSENTITE**
+
+Il tesseramento e l’efficacia delle garanzie assicurative e di assistenza derivanti dal tesseramento federale hanno inizio a partire dalla data ed orario di validità riportati sulla Tessera fino al 31/12/2026.
+
+||**TESSERA**<br>**MEMBER**|**TESSERA**<br>**SPORT**|**TESSERA**<br>**MINISPORT**|
+|---|---|---|---|
+|**Registrazione al portale MyFMI**<br>(vedi art.26per ulteriori dettagli)||||
+|**Assistenza stradale e sanitaria**||||
+|**Copertura assicurativa (infortuni ed RCT)**<br>**durante attività istituzionali e sociali**<br>**autorizzate dalla FMI**||||
+|**Copertura assicurativa**<br>**(infortuni e RCT) in allenamento**||||
+|**Partecipazione attività turistica FMI**(verificare<br>Regolamenti Specialità)||||
+|**Conseguimento Licenza Agonistica**||||
+|**Partecipazione a corsi FMI**per il<br>conseguimento delle qualifiche previste dai<br>Regolamenti FMI||||
+|**Servizi Registro Storico**<br>(verificare la specifica normativa federale)||||
+|**Sottoscrizione polizze assicurative**<br>**convenzionate**(per moto d’epoca iscritte al<br>Registro Storico FMI, moto moderne, …)||||
+
+
+28
+
+29
+
+## Pagina 17
+
+Tesseramento M.C. Affiliati
+
+# Tesseramento
+
+|g<br>)<br>**Utilizzo convenzioni**<br>(l’elenco completo è disponibile sul portale<br>MyFMI–voce“Convenzioni”)<br>**Diritto di voto all’Assemblea**|
+|---|
+|**Nazionale/Regionale**(solo per i maggiorenni)**in**<br>**rappresentanza del proprio Moto Club**<br>(secondo le specifiche normative federali)<br>**Candidatura cariche elettive federali**|
+
+
+# Si specifica che:
+
+1. La polizza assicurativa relativa all’assistenza stradale e sanitaria sarà scaricabile dalla sezione “Assicurazioni 2026” presente su federmoto.it
+
+2. La **Tessera Sport** e la **Tesssera MiniSport** possono essere utilizzate alle seguenti condizioni:
+
+   - che gli Impianti/Piste/Autodromi siano omologati dalla FMI per il 2026 (obbligatoria la presenza del Responsabile di Pista). L’elenco aggiornato degli Impianti Omologati e degli Organizzatori iscritti alla FMI per il 2026 sarà consultabile su federmoto.it.
+
+La  sola Tessera Sport ha validità all’Estero nei seguenti Autodromi: Aragon
+
+      - Area Trial (obbligatoria la presenza dell’Istruttore/Tecnico Sportivo)
+
+      - Crossodromi omologati: accesso consentito solo a partire dal compimento degli 8 anni di età (obbligatoria la presenza del Responsabile di Pista)
+
+   - Per la specialità velocità:
+
+      - Minimotodromi (obbligatoria la presenza del Responsabile di Pista)
+
+**4. Per l’attivazione della copertura assicurativa in allenamento fuoristrada – riservata ai possessori di Tessera Sport o MiniSport – è obbligatorio inviare il giorno dell’allenamento (prima dell’inizio dello stesso) un SMS al numero 339.9958551.**
+
+Il testo, indicato anche sulla Tessera, deve essere così composto:
+
+# **nome-cognome-T-numero Tessera**
+
+# **(il numero di Tessera va editato senza ”/” e “S” o “K”).**
+
+Si invitano tutti gli interessati a verificare con l’operatore telefonico le condizioni del proprio piano tariffario, dal momento che l’invio degli SMS potrebbe essere soggetto ad un costo extra-bundle.
+
+      - Barcelona - Cartagena - Jerez - Portimao - Valencia
+
+   - che siano rispettati i criteri e le limitazioni riportati nel Documento di Omologa FMI e nei Regolamenti interni stabiliti dai singoli circuiti
+
+   - che l’Organizzatore delle sessioni di allenamento/prove libere sia un Moto Club con l’affiliazione in corso di validità o una Società in possesso di Licenza Organizzatore FMI per l’anno 2026
+
+3. Inoltre la **Tessera MiniSport** può essere utilizzata alle seguenti condizioni:
+
+La Tessera MiniSport gode degli stessi massimali assicurativi garantiti dalla Tessera Sport. Per ulteriori dettagli riguardo alla copertura assicurativa si rimanda all’art.25.
+
+         - **DOCUMENTI CHE IL RICHIEDENTE** **<u>MAGGIORENNE</u> DEVE PRESENTARE OBBLIGATORIAMENTE AL M.C. PER IL RILASCIO DELLE TESSERE FEDERALI**
+
+- Per le specialità fuoristrada:
+
+   - Piste prova omologate
+
+      - (obbligatoria la presenza del Responsabile di Pista)
+
+   - Piste omologate come Easy Cross (obbligatoria presenza del Responsabile di Pista)
+
+   - Piste omologate come Baby Cross (obbligatoria presenza del Responsabile di Pista)
+
+   - Area Enduro – Fettucciati
+
+      - (obbligatoria la presenza dell’Istruttore/Tecnico Sportivo)
+
+|**TIPOLOGIA DOCUMENTO**|**TESSERA**<br>**MEMBER**|**TESSERA**<br>**SPORT**|
+|---|---|---|
+|**Modulo di richiesta**<br>**tesseramento**|||
+|**Copia documento identità**(in<br>corso di validità)|||
+|**Copia tessera sanitaria**|||
+|**Certificato medico**|Se previsto dai<br>Regolamenti<br>Sportivi di<br>Specialità|Certificazione<br>medica<br>non agonistica|
+
+
+30
+
+31
+
+## Pagina 18
+
+Tesseramento M.C. Affiliati
+
+Tesseramento
+
+- **DOCUMENTI CHE IL RICHIEDENTE** **<u>MINORENNE</u> DEVE PRESENTARE OBBLIGATORIAMENTE AL M.C. PER IL RILASCIO DELLE TESSERE FEDERALI**
+
+|**TIPOLOGIA DOCUMENTO**|**TESSERA**<br>**MEMBER**|**TESSERA**<br>**SPORT**|**TESSERA**<br>**MINISPORT**|
+|---|---|---|---|
+|**Modulo di richiesta tesseramento**<br>(firmato da almeno un esercente<br>la responsabilità genitoriale)||||
+|**Copia documento identità del minore**<br>**(in corso di validità)**||||
+|**Copia tessera sanitaria del minore**||||
+|**Certificato medico del minore**|Se previsto dai<br>Regolamenti<br>S<br>S<br>po<br>pec<br>rt<br>i<br>i<br>a<br>v<br>li<br>i<br>t<br>d<br>à<br>i|Certificazione<br>medica non<br>agonistica|Certificazione<br>medica non<br>agonistica|
+|**Modulo assenso genitori**<br>(firmato da almeno un esercente<br>la responsabilità genitoriale)||||
+|**Copia documento identità** **dialmeno**<br>**unesercente la** **responsabilità**<br>**genitoriale** ����������������������||||
+|**Copia tessera sanitaria** **di**<br>**almeno unesercente**<br>**la responsabilità genitoriale**||||
+|**Tesseramento FMI di almeno un**<br>**esercente l**<br>**gen**<br>**a r**<br>**itoriale**<br>**esponsabilità**||||
+
+
+Come da normativa vigente, il minore, che abbia compiuto i 14 anni di età, non può essere tesserato se non presta personalmente il proprio assenso. Pertanto, in caso di Tessera Member o Sport, nel modulo di richiesta del tesseramento è obbligatoria la firma anche del minore di età compresa tra 14 e 18 anni.
+
+Come documento di identità è possibile presentare la carta di identità, la patente ed il passaporto. Non sono ritenute valide le autodichiarazioni.
+
+Qualora la **validità della certificazione medica** scada nel corso dell’anno sportivo, il tesserato dovrà consegnare il nuovo certificato medico in originale al proprio Moto Club. Il Moto Club deve modificare la data di validità del certificato medico nel sistema informativo federale; successivamente, il tesserato deve scaricare la Tessera aggiornata.
+
+**In assenza del rinnovo del certificato medico, la Tessera Sport/MiniSport si trasformerà automaticamente in Tessera Member, quindi non permetterà alcun tipo di attività di allenamento e sarà sospesa la relativa copertura assicurativa.** Per maggiori informazioni, si rimanda all’art.24.
+
+- **ACQUISTO, ASSEGNAZIONE E MATERIALIZZAZIONE TESSERE**
+
+# **ACQUISTO TESSERE**
+
+Il Moto Club deve acquistare le Tessere attraverso la propria utenza federale, seguendo questa procedura:
+
+- Accesso al sistema informativo federale con le credenziali del Moto Club ed acquisto delle Tessere dall’apposita sezione ( _Tesseramento_ c _Acquisto Tessere_ ). Le modalità di pagamento sono indicate a pag.98.
+
+- Effettuato il pagamento, e previa verifica da parte del sistema del buon esito della transazione, il Moto Club riceve una e-mail attestante l’avvenuto acquisto: nella comunicazione sono indicate la quantità, la tipologia ed i numeri di Tessera assegnati
+
+- Nell’utenza federale del Moto Club sono riportati i dettagli di acquisto e gestione delle Tessere.
+
+Non sarà possibile lo storno ed il reso delle Tessere acquistate.
+
+# **ASSEGNAZIONE TESSERE**
+
+Il Moto Club deve:
+
+- Stampare i moduli di richiesta tesseramento tramite la propria utenza federale e farli firmare al richiedente
+
+   - Per il tesseramento dei minori è necessario che lo specifico modulo di richiesta sia firmato da almeno un esercente la responsabilità genitoriale. Il minore, che abbia compiuto i 14 anni di età deve prestare  personalmente <u>il proprio assenso al tesseramento</u>
+
+- Inserire a sistema, per ogni tipologia di tesseramento:
+
+   - Tipologia Tessera da assegnare (successivamente, il programma assegnerà automaticamente il numero)
+
+32
+
+33
+
+## Pagina 19
+
+Tesseramento
+
+Tesseramento online
+
+- Dati anagrafici del tesserato, compreso il codice fiscale
+
+# **9. TESSERAMENTO ONLINE  MOTO CLUB ADERENTI AL SERVIZIO**
+
+- Dati residenza del tesserato
+
+- Contatti (numero cellulare ed indirizzo e-mail) – non è possibile utilizzare lo stesso numero di cellulare e lo stesso indirizzo e-mail per più tesserati.
+
+- Dati Tessera:
+
+   - Data di scadenza della certificazione medica: necessaria per il rilascio di Tessere Sport, MiniSport e di Tessere Member (dove previsto dai Regolamenti Sportivi di Specialità)
+
+   - Flag relativi al consenso al trattamento dei dati personali rilasciati dal tesserato
+
+Con la procedura di tesseramento online ai Moto Club, presente sul sito federmoto.it, è possibile tesserarsi tramite i Moto Club che aderiscono al servizio. È possibile acquistare esclusivamente la Tessera Member, da pagare con carta di credito.
+
+- Termini emissione tessere: dalla data di 1° affiliazione/riaffiliazione Moto Club al 30 settembre 2026
+
+- Validità: data ed ora indicate sulla Tessera – 31 dicembre 2026
+
+- Costo Tessera Member online “Moto Club aderenti” € 60,00
+
+Quando il Moto Club conferma il tesseramento sul sistema informativo federale, il tesserato riceve automaticamente una e-mail con il numero di Tessera e le indicazioni per scaricarla in formato pdf dal portale MyFMI.
+
+I tesserati FMI sono soggetti al Regolamento di Giustizia Federale. Il Rappresentante Legale del Moto Club è responsabile dell’eventuale Tesseramento di soggetti con provvedimenti disciplinari in corso ostativi al rilascio della Tessera FMI.
+
+- Gadget: portachiavi + adesivo
+
+**Non si può procedere all’annullamento della Tessera federale di qualsiasi tipologia o alla modifica dell’intestatario una volta emessa la Tessera dal sistema informativo federale.**
+
+Il Tesseramento e l’efficacia delle garanzie assicurative e di assistenza derivanti dal Tesseramento federale hanno inizio a partire dalla data ed orario di validità riportati sulla Tessera fino al 31 dicembre 2026.
+
+# **MATERIALIZZAZIONE TESSERE**
+
+Il Moto Club all’atto dell’affiliazione/riaffiliazione può richiedere al Comitato Regionale un quantitativo di Tessere in formato card. Tramite la funzione “ _Stampe_ c _Tessere_ c _Su etichette_ ” presente nella propria utenza federale, il Moto Club può materializzare la Tessera stampando l’etichetta con i dati anagrafici del tesserato ed il codice a barre da applicare sulla Tessera fornita dal Comitato Regionale.
+
+Le Tessere Member acquistate direttamente dal tesserato tramite procedura online sono in formato esclusivamente digitale (non possono essere materializzate).
+
+**Le coperture assicurative e le attività consentite per la Tessera Member sono le medesime indicate nella tabella «COPERTURE ASSICURATIVE ED ATTIVITÀ CONSENTITE» a pag.29-30.**
+
+Tutte le Tessere richieste tramite la procedura online sono in formato esclusivamente **digitale e scaricabili dal portale MyFMI** .
+
+- **PROCEDURA DI TESSERAMENTO TRAMITE IL SITO FEDERMOTO.IT**
+
+La procedura di tesseramento tramite il sito federmoto.it è la seguente:
+
+- 1 Cliccare su link:
+
+https://www.federmoto.it/tesseramento-online-mc-aderenti/
+
+34
+
+35
+
+## Pagina 20
+
+Tesseramento
+
+Passaggi
+
+- 2 Cliccare su “ _Cerca il Moto Club aderente più vicino a te_ ” e selezionare uno tra i Moto Club affiliati aderenti al servizio
+
+- 3 Completare la richiesta di tesseramento su **MyFMI** , a cui il sistema reindirizza in automatico:
+
+   - <u>Utenti già registrati: accedere con le proprie credenziali inserendole nella</u> schermata “ _Accesso utente già registrato_ ”
+
+   - <u>Utenti non registrati: registrarsi provvisoriamente come “non tesserato”</u> seguendo la procedura indicata nella schermata “ _Registrazione nuovo utente_ ”. Per maggiori informazioni in merito alla registrazione al portale, si rimanda all’art.26
+
+- 4 Effettuato l’accesso al portale, verificare i dati del Moto Club prescelto ed inserire i consensi privacy; infine, cliccare su “ _Conferma_ ”. La richiesta di tesseramento verrà inviata al Moto Club
+
+- 5 In seguito all’accettazione da parte del Moto Club, il tesserato deve accedere al proprio profilo MyFMI (sezione “ _Tesseramento_ c _Tesseramento online MC_ c _<u>Elenco richieste”</u>_ ) e procedere al pagamento con carta di credito
+
+- 6 Effettuato il pagamento, il richiedente riceve una e-mail di conferma con indicato il numero di Tessera assegnato. La Tessera sarà immediatamente visualizzabile dal tesserato nella sezione “ _Tesseramento_ c _Tessera digitale_ ”
+
+- 4 In seguito all’accettazione da parte del Moto Club, il tesserato deve accedere al proprio profilo MyFMI (sezione “ _Tesseramento_ c _Tesseramento online MC_ c _<u>Elenco richieste</u>_ ”) e procedere al pagamento con carta di credito
+
+- 5 Effettuato il pagamento, il richiedente riceve una e-mail di conferma con indicato il numero di Tessera assegnato. La Tessera sarà immediatamente visualizzabile dal tesserato nella sezione “ _Tesseramento_ c _Tessera digitale_ ”
+
+# **10. PASSAGGIO DA TESSERA MEMBER A TESSERA SPORT/MINISPORT**
+
+Il passaggio da Tessera Member a Tessera Sport/MiniSport viene effettuato dal Moto Club, che deve:
+
+   - 1 Accedere al sistema informativo federale con le credenziali del Moto Club
+
+   - 2 Cliccare su “ _Tesseramento_ c _Passaggi Tessera_ ”
+
+   - 3 Selezionare il tipo di passaggio da effettuare tra “Member-Sport” o “MemberMiniSport”
+
+   - 4 Cercare la Tessera che deve essere modificata e cliccare su “ _Passaggio_ ” presente accanto al nominativo
+
+   - 5 Inserire la data di scadenza del certificato medico e l’attività predominante (il numero di Tessera viene assegnato automaticamente dal sistema). Dopo aver inserito i dati richiesti, cliccare su “ _Conferma_ ”
+
+- **PROCEDURA DI TESSERAMENTO TRAMITE MYFMI**
+
+- **PASSAGGIO DA TESSERA MEMBER A TESSERA SPORT**
+
+È possibile visualizzare i Moto Club aderenti al servizio di tesseramento online direttamente sul portale MyFMI (qualora si volessero conoscere maggiori informazioni riguardo alle attività del Moto Club, è necessario visualizzare la Vetrina dei Moto Club presente sul sito federale).
+
+Il Moto Club deve essere già in possesso della Tessera Sport da assegnare. Il sistema informatico, in seguito al passaggio, compensa automaticamente il valore della Tessera Member nella scheda contabile del Moto Club.
+
+La procedura di tesseramento è la seguente:
+
+- 1 Accedere al portale MyFMI con le proprie credenziali: (https://myfmi.federmoto.it/myfmi/myfmilogon.aspx)
+
+- 2 Cliccare nel menù laterale “ _Tesseramento_ ” e successivamente “ _Tesseramento online Moto Club_ ”
+
+- 3 Cliccare su “ _<u>Nuova richiesta</u>_ ”, selezionare la Regione desiderata e scegliere il Moto Club. Dopo aver inserito i consensi privacy e cliccato su “ _Conferma_ ”, la richiesta di tesseramento verrà inviata al Moto Club
+
+- **PASSAGGIO DA TESSERA MEMBER A TESSERA MINISPORT**
+
+Il Moto Club deve essere già in possesso della Tessera MiniSport da assegnare. Il sistema informatico, in seguito al passaggio, compensa automaticamente il valore della Tessera MiniSport nella scheda contabile del Moto Club (non viene restituita la differenza di importo versato per la Tessera Member).
+
+36
+
+37
+
+## Pagina 21
+
+Trasferimento ad altro Moto Club
+
+Tesseramento
+
+**A seguito del passaggio, la Tessera Member viene bloccata e perde la sua efficacia. Non è previsto il passaggio da Tessera MiniSport a Tessera Sport vista l’analogia di utilizzo.**
+
+Qualora la Tessera Member sia stata materializzata, il tesserato deve consegnarla al Moto Club di appartenenza.
+
+# **11. PASSAGGIO DA TESSERA SPORT A LICENZA AGONISTICA**
+
+Il passaggio da Tessera Sport a Licenza Agonistica è previsto per tutte le tipologie di Licenze, ad eccezione di:
+
+- Licenza E-Bike annuale
+
+- Licenze One Event (Velocità One Event, Fuoristrada One Event ed E-Bike One Event), in quanto trattasi di titoli validi unicamente per la manifestazione per la quale vengono richiesti e rilasciati
+
+Il passaggio da Tessera Sport a Licenza prevede:
+
+- l’adeguamento della certificazione medica (per maggiori informazioni si rimanda all’art.24)
+
+- l’invio tramite @pec della documentazione per la richiesta della Licenza al proprio Comitato Regionale
+
+- l’acquisto della Licenza con un’agevolazione economica pari ad € 80,00
+
+- Nel caso di passaggio dalla Tessera Sport a Licenze di importo inferiore ad €80,00 si applica il credito di cui sopra, ma non si genera alcun credito per l’eventuale maggior importo versato.
+
+Ai fini del rilascio della Licenza, la Tessera MiniSport viene equiparata alla Member. Pertanto non si applica quanto sopra indicato.
+
+# **12. TRASFERIMENTO AD ALTRO MOTO CLUB**
+
+- **Il Tesserato richiede per iscritto al Moto Club di appartenenza il nulla osta al trasferimento, indicando anche il nuovo Moto Club**
+
+- **Il Rappresentante Legale del Moto Club, dopo aver effettuato l’accesso al sistema informativo federale, nella sezione dedicata deve inserire: numero di Tessera della persona che ha richiesto il trasferimento ad un altro Moto Club, indicare il Motoclub prescelto dal tesserato stesso e la tipologia di Tessera da assegnare. Dopo aver confermato, il sistema genera automaticamente il nulla osta per il trasferimento di Moto Club**
+
+- **Alla casella di posta elettronica del tesserato (presente nel sistema informativo federale) viene inviata una comunicazione per confermare la richiesta di trasferimento ad un altro Moto Club**
+
+- **In seguito a conferma di trasferimento fornita dal tesserato, il Rappresentante Legale del “nuovo" Moto Club riceve e conferma la richiesta di tesseramento**
+
+- **Una volta finalizzata la procedura, il tesserato riceve una e-mail riportante il nuovo numero di Tessera FMI**
+
+La nuova Tessera deve essere pagata per intero, anche nel caso di passaggio da Tessera Member a Sport/MiniSport. La Tessera precedentemente rilasciata viene bloccata e perde la sua efficacia. Qualora la Tessera sia stata materializzata, il tesserato deve riconsegnare la Tessera non più valida al precedente Moto Club. Il Moto Club che rilascia il nulla osta non può riutilizzare il numero della Tessera bloccata. Per il trasferimento ad altro Moto Club di un Licenziato, la nuova Tessera va pagata per intero, mentre la Licenza è rilasciata gratuitamente.
+
+# **13. TESSERA SPORT ONE DAY**
+
+La **Tessera Sport One Day,** in formato esclusivamente digitale, è il titolo federale che consente di allenarsi in pista e fuoristrada per un solo giorno.
+
+**Le condizioni di utilizzo sono le medesime della Tessera Sport (ad eccezione della validità all’estero, non prevista).** Il titolo viene rilasciato esclusivamente da un Moto Club affiliato (no online e no Moto Club Italia) ed è acquistabile al massimo una volta nel corso della medesima stagione sportiva, **sia dai non tesserati che dai titolari di Tessera Member.**
+
+Può essere assegnata sia il giorno stesso che nei giorni precedenti (indicando il giorno per la quale è necessaria).
+
+38
+
+39
+
+## Pagina 22
+
+FOCUS
+
+# Tesseramento
+
+- Termini per la richiesta 01 gennaio 2026 – 31 dicembre 2026
+
+# **FOCUS – HOBBY CARD**
+
+- Costo € 40,00
+
+- Scadenza 23:59 del giorno di utilizzo
+
+- Età 8 anni compiuti - 75 anni
+
+- Certificato medico certificato idoneità sportiva non agonistica
+
+- Copertura assicurativa medesima prevista con la Tessera Sport, ma circoscritta alla sola giornata
+
+La Hobby Card Italia serve per partecipare unicamente ai Corsi Hobby Sport Young (eventi ludici-amatoriali volti ad avviare i principianti alla pratica delle diverse specialità motociclistiche). Viene rilasciata dalla CSAS solamente ai minori di 15 <u>anni di età non tesserati alla FMI.</u>
+
+- Validità: dalla data di rilascio fino al 31 dicembre 2026
+
+**Il costo della Tessera Sport One Day non può essere oggetto di maggiorazione da parte delle Società Sportive.**
+
+- Costo: gratuita
+
+La Hobby Card non prevede gadget.
+
+**Non è prevista la restituzione dell’importo per il mancato utilizzo della Tessera. In caso di successiva sottoscrizione della Tessera Sport, la stessa dovrà essere pagata per intero.**
+
+- **ATTIVITÀ CONSENTITE**
+
+Allenamento in pista e fuoristrada
+
+Per le modalità di rilascio si rimanda al **<u>Regolamento Commissione Sviluppo Attività Sportive (CSAS)</u>** , annualmente approvato dal Consiglio Federale.
+
+Il titolare di Hobby Card si deve rivolgere ad un Moto Club affiliato (non è consentito tesserarsi al MC Italia).
+
+Il Presidente/Legale Rappresentante del Moto Club, dopo aver acquisito tutta la documentazione prevista per il rilascio della Tessera, accede al sistema informativo federale con le credenziali del Moto Club e successivamente:
+
+   - Acquista la Tessera (Member, Sport o MiniSport)
+
+- N.B. La Tessera Sport One Day non prevede:
+
+- la richiesta di titoli federali per lo svolgimento di attività agonistica (comprese le Licenze One Event)
+
+- le convenzioni con i Partner FMI e i gadget
+
+- l’assistenza stradale (tecnica e sanitaria) - Polizza IMA Assistance
+
+   - Effettua il passaggio da Hobby Card a Tessera FMI cliccando su “ _Tesseramento_
+
+      - c _Passaggi Tessera_ ” e selezionando la tipologia di passaggio desiderato
+
+   - A passaggio avvenuto, il sistema informativo federale genera nella scheda contabile del Moto Club un credito di €10,00 che il Moto Club potrà utilizzare come saldo totale o parziale per altri servizi erogabili dal Comitato Regionale
+
+- l’iscrizione al Registro Storico FMI e la partecipazione ai corsi/eventi federali
+
+- il diritto di voto alle Assemblee Nazionali e Regionali FMI
+
+# **DOCUMENTI UTILI**
+
+- la possibilità di candidarsi alle Cariche Elettive federali
+
+Tutti i documenti relativi al tesseramento sono pubblicati sul sito federale; il link di riferimento è il seguente:
+
+Le specifiche operative per il rilascio della Tessera Sport One Day saranno disponibili sul Sistema Informativo federale.
+
+I titolari di Tessera Sport One Day sono tenuti al rispetto delle Norme Federali e sono soggetti al Regolamento di Giustizia Federale.
+
+https://www.federmoto.it/tipologia-documento/affiliazione-e-tesseramento-2026/
+
+FAQ Tesseramento: https://www.federmoto.it/faq/domande-frequenti-tesseramento/ FAQ MyFmi: https://www.federmoto.it/faq/myfmi/
+
+40
+
+41
+
+## Pagina 23
+
+FMI2026
+
+Moto Club Italia: tesseramento annuale e Tessera Member One Day
+
+## Pagina 24
+
+Tesseramento online Moto Club Italia
+
+# **14. TESSERAMENTO ONLINE  MOTO CLUB ITALIA**
+
+Con la procedura di tesseramento online ai Moto Club Italia, presente sul sito federmoto.it,  è possibile acquistare esclusivamente la Tessera Member, da pagare con carta di credito.
+
+- Termini emissione tessere: 01 ottobre 2025 – 30 settembre 2026
+
+- Validità: data ed ora indicate sulla Tessera – 31 dicembre 2026
+
+- Costo Tessera Member “Moto Club Italia” € 80,00
+
+**Non si può procedere all’annullamento della Tessera federale di qualsiasi tipologia o alla modifica dell’intestatario una volta emessa la Tessera dal sistema informativo federale.**
+
+Il Tesseramento e l’efficacia delle garanzie assicurative e di assistenza derivanti dal Tesseramento federale hanno inizio a partire dalla data ed orario di validità riportati sulla Tessera fino al 31 dicembre 2026.
+
+**Le coperture assicurative e le attività consentite per la Tessera Member Moto Club Italia sono le medesime indicate nella tabella «COPERTURE ASSICURATIVE ED ATTIVITÀ CONSENTITE» a pag. 29-30 ad esclusione del conseguimento della Licenza Agonistica, del diritto di voto alle Assemblee Nazionali e Regionali FMI e della possibilità di candidarsi alle Cariche Elettive federali.**
+
+Inoltre la Tessera Member Moto Club Italia non prevede gadget, non consente il passaggio a Tessera Sport/MiniSport, l’iscrizione ai Corsi di Formazione del Settore Tecnico ed agli Albi dei Tecnici Sportivi e degli Istruttori di Tecniche di Guida. Per la partecipazione ai Corsi FMI è necessario verificare le specifiche indicate nei Regolamenti specifici di settore.
+
+La polizza assicurativa relativa all’assistenza stradale e sanitaria è scaricabile dalla sezione “Assicurazioni 2026” presente su federmoto.it
+
+Tutte le Tessere richieste tramite la procedura online sono in formato esclusivamente **digitale e scaricabili dal portale MyFMI** .
+
+- **PROCEDURA DI TESSERAMENTO TRAMITE FEDERMOTO.IT**
+
+Il sito federale reindirizza in automatico al portale **MyFMI** :
+
+- <u>Utenti già registrati: accedere con le proprie credenziali inserendole nella</u> schermata “ _Accesso utente già registrato_ ”
+
+- <u>Utenti non registrati: registrarsi provvisoriamente come “non tesserato”</u> seguendo la procedura indicata nella schermata “ _Registrazione nuovo utente_ ”. Per maggiori informazioni in merito alla registrazione al portale, si rimanda all’art.26
+
+Effettuato l’accesso al portale MyFMI, è sufficiente verificare i dati del Moto Club Italia, inserire i consensi privacy e cliccare su “Conferma”. A questo punto, è possibile procedere al pagamento con carta di credito.
+
+In seguito a buon esito del pagamento, il richiedente riceve una e-mail di conferma con indicato il numero di Tessera assegnato.
+
+La Tessera sarà immediatamente visualizzabile dal tesserato nella sezione
+
+“ _Tesseramento_ c _Tessera digitale_ ”.
+
+- **PROCEDURA DI TESSERAMENTO TRAMITE MYFMI**
+
+Dal portale MyFMI, dopo aver eseguito l’accesso con le proprie credenziali, è necessario:
+
+- Cliccare sul menù laterale “ _Tesseramento_ c _Tesseramento Moto Club Italia_
+
+- Inserire i consensi privacy e cliccare su “ _Conferma_ ”
+
+- Effettuare il pagamento con carta di credito
+
+In seguito a buon esito del pagamento, il richiedente riceve una e-mail di conferma con indicato il numero di Tessera assegnato.
+
+La Tessera sarà immediatamente visualizzabile dal tesserato nella sezione “ _Tesseramento_ c _Tessera digitale_ ”.
+
+44
+
+45
+
+## Pagina 25
+
+One Day
+
+# Tesseramento
+
+# **ATTIVITÀ CONSENTITE**
+
+# **15. TESSERA MEMBER ONE DAY**
+
+- Partecipazione a tutte le attività del Settore Tecnico
+
+La **Tessera Member One Day,** in formato esclusivamente digitale, è il titolo federale che consente di entrare a far parte del mondo FMI per un solo giorno. Il titolo viene rilasciato esclusivamente dal Moto Club Italia ed è acquistabile dai non tesserati FMI **un numero illimitato di volte** nel corso della medesima stagione sportiva. Può essere assegnata sia il giorno stesso che nei giorni precedenti (indicando il giorno e l’evento per la quale è necessaria).
+
+- Motocavalcate/Mountaintrial
+
+- Hobby Sport Master
+
+- Motoraduni e Motoincontri
+
+- Ogni ulteriore attività prevista dai Regolamenti Federali approvati dal Consiglio Federale
+
+# N.B. La Tessera Member One Day non prevede:
+
+- Termini per la richiesta 01 gennaio 2026 – 31 dicembre 2026
+
+- • Costo € 10,00 • Scadenza 23:59 del giorno di utilizzo
+
+- Età
+
+   - qualsiasi età
+
+- Certificato medico nessun certificato medico richiesto (se non diversamente previsto per la specifica attività)
+
+- • Copertura assicurativa medesima  prevista con la Tessera Member, ma circoscritta alla sola giornata
+
+**Il costo della Tessera Member One Day non può essere oggetto di maggiorazione da parte delle Società Sportive.**
+
+**Non è prevista la restituzione dell’importo per il mancato utilizzo della Tessera Member One Day. In caso di annullamento o spostamento della data della manifestazione/evento/corso da parte dell’Organizzatore nei giorni antecedenti la data dell’evento, il tesserato potrà iscriversi entro il 31 dicembre 2026 ad un’altra manifestazione/evento/corso – la cui partecipazione sia consentita con la Tessera Member One Day – senza dover corrispondere la quota di tesseramento già versata.In caso di successiva sottoscrizione della Tessera Member, la stessa dovrà essere pagata per intero.**
+
+- la richiesta di titoli federali per lo svolgimento di attività agonistica (comprese le Licenze One Event)
+
+- le convenzioni con i Partner FMI e i gadget
+
+- l’assistenza stradale (tecnica e sanitaria) - Polizza IMA Assistance
+
+- l’iscrizione al Registro Storico FMI e la partecipazione ai corsi federali che prevedono il conseguimento di qualifiche
+
+- il diritto di voto alle Assemblee Nazionali e Regionali FMI
+
+- la possibilità di candidarsi alle Cariche Elettive federali
+
+Le specifiche operative per il rilascio della Tessera Member One Day saranno disponibili sul Sistema Informativo federale.
+
+I titolari di Tessera Member One Day sono tenuti al rispetto delle Norme Federali e sono soggetti al Regolamento di Giustizia Federale.
+
+# **DOCUMENTI UTILI**
+
+Tutti i documenti relativi al tesseramento sono pubblicati sul sito federale; il link di riferimento è il seguente:
+
+https://www.federmoto.it/tipologia-documento/affiliazione-e-tesseramento-2026/
+
+FAQ Tesseramento: https://www.federmoto.it/faq/domande-frequenti-tesseramento/ FAQ MyFmi: https://www.federmoto.it/faq/myfmi/
+
+46
+
+47
+
+## Pagina 26
+
+FMI2026
+
+Licenze
+
+## Pagina 27
+
+Licenze
+
+Licenze Agonistiche
+
+# **16.  LICENZE AGONISTICHE**
+
+La Licenza Agonistica  (Nazionale, Regionale, E-Bike) è il requisito amministrativo che consente ai tesserati di allenarsi e prendere parte a manifestazioni, in accordo con quanto previsto dai Regolamenti Sportivi di Specialità che sanciscono i criteri ed i limiti di utilizzo delle varie Licenze ed ai quali si rimanda per quanto di seguito non disposto.
+
+- **Termini emissione Licenze** : dalla data di 1° affiliazione/riaffiliazione Moto Club al 31 ottobre 2026
+
+- Validità: data ed ora indicate sulla Licenza – 31 dicembre 2026
+
+- **Costo:** vedasi Tabella Licenze Agonistiche (art.19)
+
+- **Agevolazioni:**
+
+|**VINCITORI**|**TESSERA FMI**<br>**GRATUITA**|**LICENZA FMI**<br>**GRATUITA**|**PERIODO**|
+|---|---|---|---|
+|**Campionati**<br>**Mondiali**|||4 anni a decorrere<br>da quello<br>successivo alla<br>conquista del titolo|
+|**Campionati Europei**|||1 anno a decorrere<br>da quello<br>successivo alla<br>conquista del titolo|
+|**Campionati**<br>**Mondiali ed**<br>**Europei a squadre**|||1 anno a decorrere<br>da quello<br>successivo alla<br>conquista del titolo|
+|**Campionati Italiani**|||1 anno a decorrere<br>da quello<br>successivo alla<br>conquista del titolo|
+
+
+Queste agevolazioni non vengono concesse nel caso in cui:
+
+- a) Il pilota non era titolare di Licenza FMI nell’anno di conseguimento del titolo di campione, oppure era titolare esclusivamente di Licenze FMI One Event. <u>In questo caso, oltre a non trovare applicazione le agevolazioni di cui sopra, non vengono assegnati eventuali voti plurimi.</u>
+
+- b) Il pilota abbia vinto coppe, trofei o campionati che non abbiano validità ai fini dell’assegnazione dei voti plurimi.
+
+# 16.1 CRITERI PER IL RILASCIO
+
+- **TESSERAMENTO ALLA FMI**
+
+La Licenza **può** essere rilasciata solamente a soggetti in regola con il tesseramento annuale alla Federazione:
+
+|**Tipologia Licenza**|**Tessera**<br>**Member/MiniSport**|**Tessera Member**<br>**M.C.Italia**|**Tessera Sport**|
+|---|---|---|---|
+|**Licenza Nazionale e**<br>**Licenza Regionale**||NO|Solo con<br>procedura di<br>passaggio<br>�(Art.11)|
+|**Licenze One**<br>**Event**||NO||
+|**Licenza**<br>**E-Bike**||NO|NO|
+
+
+- **ETÀ E CERTIFICAZIONE MEDICA**
+
+La Licenza **può** essere rilasciata a partire dal compimento dell’ottavo anno di età (classe 2018), previa presentazione del Certificato di Idoneità Agonistica (vedi Art. 24):
+
+|**Età**|**Licenza**<br>**Agonistica**|**Limitazioni**|**Certificazione**<br>**Medica**|
+|---|---|---|---|
+|**01.01.1951- **<br>**31.12.2018**|Qualsiasi licenza<br>agonistica sulla<br>base delle fasce<br>d’età previste per il<br>loro rilascio|Se previste dalla<br>tipologia di Licenza<br>richiesta|Certificato di Idoneità<br>Agonistica|
+|**01.01.1946-**<br>**31.12.1950**|Licenza<br>Fuoristrada (con o<br>senza estensione<br>Velocità);<br>Licenza Velocità<br>(con o senza<br>estensione<br>Fuoristrada)|Valida solo nelle<br>specialità Trial<br>d’Epoca –<br>Motocross Epoca –<br>Regolarità Epoca –<br>CIVS limitatamente<br>alle classi epoca|Certificato di Idoneità<br>Agonistica + FORM<br>(vedi Art.24.5)|
+
+
+- c) Il pilota abbia vinto coppe, trofei o campionati a livello europeo e/o internazionale in cui era ammessa la partecipazione con la sola Licenza FMI.
+
+50
+
+51
+
+## Pagina 28
+
+Licenze
+
+Licenze Agonistiche
+
+- **DOCUMENTI NECESSARI (PILOTA MAGGIORENNE)**
+
+|**TIPOLOGIA**<br>**DOCUMENTO**|**Licenza Nazionale**<br>**e Regionale**|**Licenze E-Bike**|**Licenze One Event**|
+|---|---|---|---|
+|**Modulo di richiesta**||||
+|**Copia documento di**<br>**riconoscimento**<br>(in corso di validità)||||
+|**Copia tessera sanitaria**||||
+|(non richiesta in caso di<br>presentazione della<br>Carta di identità<br>elettronica -CIE)||||
+|**Versamento**||||
+|**Certificato Medico di**<br>**Idoneità Agonistica**(da<br>non trasmettere alla||||
+|sede preposta al rilascio<br>– se non su sua esplicita<br>richiesta - ma<br>conservare a cura del<br>Moto Club per 10 anni)||||
+
+
+- **DOCUMENTI NECESSARI (PILOTA MINORENNE)**
+
+|**TIPOLOGIA**<br>**DOCUMENTO**|**Licenza Nazionale**<br>**e Regionale**|**Licenza E-Bike**|**Licenze One Event**|
+|---|---|---|---|
+|**Modulo di richiesta**||||
+|**Copia documento di**<br>**riconoscimento del**<br>**minore**||||
+|**Copia tessera sanitaria**<br>**del minore**||||
+|(non richiesta in caso di<br>presentazione della<br>Carta di identità<br>elettronica -CIE)||||
+|**Versamento**||||
+|**Certificato Medico di**<br>**Idoneità Agonistica**(da<br>non trasmettere alla<br>sede preposta al rilascio<br>– se non su sua esplicita<br>richiesta – ma<br>conservare a cura del<br>Moto Club per 10 anni)||||
+
+
+|**Modulo dichiarazione**<br>**assenso genitori per**<br>**Licenza**<br>(firmato da entrambi i<br>genitori o dall’esercente<br>la responsabilità<br>genitoriale)|
+|---|
+|**Copia documento di**<br>**riconoscimento** **di**<br>**entrambi i genitori o**<br>**dell’esercente la**<br>**responsabilità**<br>**genitoriale**<br>**Tesseramento FMI di**<br>**almeno un genitore o**<br>**dell’esercente la**<br>**responsabilità**<br>**genitoriale**|
+
+
+# **PRECISAZIONI GENERALI**
+
+- Nel caso in cui il documento risulti scaduto non può essere ritenuta valida la prenotazione fissata per il rinnovo dello stesso.
+
+- Come da Normativa vigente, il minore, che abbia compiuto i 14 anni di età, non può essere titolare di Licenza se non presta personalmente il proprio assenso. Pertanto nel modulo di richiesta Licenza sono obbligatorie anche le firme del minore di età compresa fra i 14 e i 18 anni.
+
+- Nel caso in cui il genitore o l’esercente la responsabilità genitoriale, nel corso del 2026, perda la responsabilità sul minore o sia colpito da un provvedimento disciplinare che comporti la revoca dei diritti legati al tesseramento, affinché sia prorogata la validità della Licenza del minorenne, è obbligatorio il tesseramento alla FMI dell’altro genitore. Nel caso in cui ciò non fosse percorribile, verrà sospesa la Licenza.
+
+- Nel caso di perdita o sospensione temporanea della responsabilità genitoriale, è compito dell’interessato comunicarlo al Moto Club, affinché quest’ultimo possa mettere in atto con il Co.Re. tutte le procedure necessarie.
+
+- Nel caso in cui non sia possibile presentare la dichiarazione di assenso con la sottoscrizione di entrambi gli esercenti la responsabilità genitoriale, è indispensabile presentare congrua documentazione attestante tale impossibilità come, a titolo semplificativo ma non esaustivo, eventuale certificato di morte, certificato di famiglia, sentenza del giudice, ecc.
+
+52
+
+53
+
+## Pagina 29
+
+Licenze
+
+# Licenze Agonistiche
+
+Tale documentazione verrà vagliata dal competente Ufficio Federale, il quale riceverà tale documentazione dal Comitato Regionale, il quale dovrà attendere il benestare prima di procedere all’emissione della licenza. Non sarà necessario richiedere il benestare del competente Ufficio Federale nel caso in cui la mancata sottoscrizione da parte di entrambi sia dovuta alla prematura scomparsa di uno dei due; in questo caso sarà sufficiente richiedere copia del certificato di morte e, nel caso in cui il Co.Re. lo ritenga opportuno, la copia dello stato di famiglia, oppure nel caso in cui dal documento del minore si evinca che la responsabilità genitoriale è in capo alla sola persona che ha sottoscritto la dichiarazione di assenso.
+
+|**Tesserato FMI di**<br>**cittadinanza estera**<br>**residente in Italia**|NO|Copia del Permesso di<br>Soggiorno in caso di<br>persona extra EU, la cui<br>durata deve coprire<br>tutta la stagione<br>sportiva o copia della<br>carta di soggiorno<br>elettronica nel caso di<br>persona di nazionalità<br>UK.|
+|---|---|---|
+|**Tesserato FMI di**<br>**cittadinanza estera**<br>**ma comunitario**<br>**residente all’Estero**|NO|Quitus/Release della<br>Federazione di<br>riferimento sulla base<br>della cittadinanza e/o<br>residenza|
+|<br>**Tesserato FMI di**<br>**cittadinanza estera**<br>**NO EU**|<br>NO|<br>Cfr. nel dettaglio<br>quanto indicato nel<br>paragrafo precisazioni|
+
+
+- **MODALITÀ DI PAGAMENTO**
+
+Il pagamento delle Licenze FMI deve essere effettuato nelle modalità **NO EU** paragrafo precisazioni
+
+- indicate all’Art. 27.
+
+- Il pagamento delle Licenze FMI la cui competenza per il rilascio è della sede centrale deve avvenire unicamente a mezzo bonifico bancario al seguente IBAN: **IT 47 U 01005 03309 000000010102.**
+
+# **PRECISAZIONI**
+
+   - **La Release è il documento con il quale la Federazione di appartenenza per cittadinanza e/o residenza autorizza un’altra Federazione all’emissione della Licenza a favore di un pilota di cittadinanza estera. Non è necessario acquisire la Release nei seguenti casi:**
+
+- **MOTIVI OSTATIVI AL RILASCIO**
+
+   - **a) Pilota di cittadinanza estera residente in Italia;**
+
+- Mancato pagamento di sanzioni pecuniarie, anche nei confronti di soggetti terzi con i quali la Federazione abbia stipulato accordi contrattuali e/o di partnership;
+
+   - **b) Pilota di cittadinanza estera, sia residente in Italia che non, già titolare di Licenza FMI nella precedente stagione sportiva, in accordo a quanto disciplinato dal FIM Sporting Code all’Art. 70.2.1 comma 7.**
+
+- Provvedimenti disciplinari che inibiscano lo svolgimento di attività sportiva;
+
+- Determinate disabilità (Vedi art. 24.6).
+
+   - I cittadini Sanmarinesi, **sulla base di un Protocollo d’Intesa vigente con la Federazione Sanmarinese** , possono rivolgersi al Co.Re. di pertinenza del Moto Club per la richiesta di emissione della Licenza FMI.
+
+- **SEDI PREPOSTE AL RILASCIO**
+
+- I cittadini di alcuni Paesi (Islanda, Liechtenstein, Norvegia e Svizzera) vengono equiparati ai cittadini comunitari, pur non facendo parte dell’Unione Europea: le richieste di licenza seguono lo stesso iter procedurale previsto per i cittadini comunitari.
+
+|**Richiedente**|**Comitato**<br>**Regionale**|**FMI**|**Documenti integrativi**|
+|---|---|---|---|
+|**Tesserato FMI di**<br>**cittadinanza italiana**||NO|NO|
+|**Tesserato FMI di**<br>**cittadinanza italiana**<br>**residente all’estero**||NO|Copia AIRE e<br>Quitus/Release della<br>Federazione di<br>riferimento sulla base<br>della residenza|
+
+
+- I cittadini stranieri extracomunitari, provvisti di permesso di soggiorno in corso di validità, possono tesserarsi ad un Moto Club e richiedere la Licenza FMI seguendo lo stesso iter previsto per gli stranieri comunitari.
+
+54
+
+55
+
+## Pagina 30
+
+Licenze
+
+Licenze Agonistiche
+
+   - I cittadini stranieri extracomunitari, non provvisti di permesso di soggiorno, non possono richiedere la Licenza FMI, a meno che la Società Sportiva (Moto Club) non richieda ed ottenga dalla Federazione il benestare alla dichiarazione nominativa di assenso all’attività sportiva dilettantistica, **come meglio disciplinato al successivo articolo.**
+
+   - **I cittadini stranieri extracomunitari, minori di anni 18, anche non in regola con le norme relative all’ingresso e al soggiorno, possono essere tesserati e conseguentemente titolari di Licenza alla stessa stregua dei cittadini comunitari, a condizione che siano iscritti da almeno un anno a qualsiasi classe dell’ordinamento scolastico italiano.**
+
+- 16.2.   PROCEDURA PER RICHIESTA DICHIARAZIONE NOMINATIVA DI ASSENSO PER PILOTI STRANIERI EXTRACOMUNITARI
+
+I cittadini stranieri extracomunitari possono richiedere la Licenza FMI solo se provvisti di regolare permesso di soggiorno.
+
+Le Società Sportive (Moto Club) che intendono avvalersi delle prestazioni di atleti non comunitari sprovvisti del permesso di soggiorno devono:
+
+- 1) Inviare via PEC a licenze@pec.federmoto.it la richiesta di poter avviare la procedura per la dichiarazione nominativa di assenso;
+
+- 2) allegare il curriculum ed il palmares dell’atleta;
+
+- 3) elencare i campionati nazionali ai quali il pilota intenderebbe prendere parte per la stagione sportiva 2026.
+
+Il STS alla ricezione della richiesta formulata in via preliminare potrà:
+
+- 1) respingere, a suo insindacabile giudizio, la domanda pervenuta in considerazione del numero di richieste già pervenute, delle procedure di rinnovo da evadere, del numero delle quote annualmente assegnate, del livello dell’atleta e dei campionati di interesse.
+
+- 2) Richiedere al Moto Club ulteriore documentazione integrativa.
+
+- 3) Accogliere positivamente la richiesta formulata dal Moto Club. In questo caso la Federazione riserverà la quota a sua disposizione per un lasso cronologico di al massimo 2 mesi, entro i quali il Moto Club dovrà inviare alla FMI la richiesta formale di dichiarazione nominativa di assenso utilizzando il fac-simile pubblicato sul sito del CONI.
+
+- 4) Far decadere il diritto di prelazione nel caso in cui il Moto Club non proceda ad istruire correttamente la pratica entro i due mesi dal benestare ricevuto dalla Federazione.
+
+- **PRECISAZIONI**
+
+   - **Senza il benestare della Federazione NON è possibile avviare la procedura per la richiesta del permesso di soggiorno a titolo sportivo.**
+
+   - Altri documenti, quali ad esempio i visti di ingresso, non sono validi per avviare la richiesta di Licenza.
+
+   - Per quanto concerne gli step procedurali e tutti gli adempimenti in capo alla Società Sportiva si rimanda alla Circolare che disciplina gli ingressi e i permessi di soggiorno degli sportivi non appartenenti alla UE, pubblicata sul sito del CONI: https://www.coni.it/it/block-notes/sportivi-non-comunitariingresso-e-permesso-di-soggiorno-in-italia.html.
+
+- **OBBLIGHI**
+
+   - **Il Rappresentante Legale della società che si avvale delle prestazioni di sportivi privi del permesso di soggiorno o il cui permesso sia scaduto e del quale non sia stato chiesto il rinnovo nei termini di Legge, è soggetto a sanzioni da parte dell’Autorità Giudiziaria (L.189/2002 e successive modifiche e integrazioni).**
+
+   - La Federazione è tenuta ad accertare l’effettivo ruolo sportivo di atleti o tecnici ingaggiati dai Moto Club.
+
+   - La richiesta di visto per attività sportiva dilettantistica è subordinata all’impegno della Società richiedente (Moto Club) di assumersi tutti gli oneri legati alla presenza dello sportivo straniero in Italia;
+
+   - La Federazione è tenuta ad accertare il ritiro del visto da parte del pilota, l’ingresso in Italia e la richiesta di permesso di soggiorno tramite Ufficio Postale;
+
+   - La Federazione procederà a rilasciare la Licenza Agonistica solamente a fronte dell’acquisizione della ricevuta dell’assicurata con la quale è stato richiesto il permesso di soggiorno;
+
+   - Il M.C. deve trasmettere alla Federazione la copia del permesso di soggiorno;
+
+   - Il Moto Club potrà avanzare la richiesta di dichiarazione nominativa di assenso solamente per quei tecnici che risultino impegnati nei campionati di massimo livello;
+
+56
+
+57
+
+## Pagina 31
+
+Licenze
+
+Licenze Agonistiche
+
+• La richiesta di dichiarazione nominativa dovrà essere presentata dalla Società, debitamente compilata, con largo anticipo, tenuto conto dei tempi di lavorazione sia della Questura che delle sedi diplomatiche italiane. Si precisa che la richiesta di dichiarazione nominativa per atleti minorenni potrà essere avanzata solamente per coloro che abbiano già compiuto il 15° anno di età e dovranno essere accompagnate dall’autorizzazione rilasciata dall’Ispettorato Territoriale del Lavoro competente.
+
+La Società Sportiva dovrà garantire il rispetto delle norme relative al soggiorno del minore per tutto il periodo di permanenza in Italia fino al suo rientro nella Nazione di provenienza. In caso di rinnovo del permesso di soggiorno per attività sportiva dilettantistica è necessario trasmettere la richiesta entro 60 giorni dalla data di scadenza del permesso di soggiorno.
+
+# 16.3   MODALITÀ DI RICHIESTA LICENZE AGONISTICHE
+
+|**Moto Club**|**PEC**|**UTENZA**<br>**FEDERALE**|**COMPETENZA**|
+|---|---|---|---|
+|Richieste per<br>cittadini italiani|||Comitato Regionale|
+|Richieste per piloti<br>italiani a<br>etti da<br>disabilità||NO|Comitato Regionale|
+|Richieste per piloti<br>stranieri a<br>etti da<br>disabilità||NO|FMI – Sede centrale|
+|Richieste per piloti<br>italiani over 75||NO|Comitato Regionale|
+|Richieste per piloti<br>stranieri over 75||NO|FMI – Sede centrale|
+|Richieste di<br>passaggio da<br>Tessera Sport a<br>Licenza per piloti<br>italiani||NO|Comitato Regionale|
+|Richieste di<br>passaggio da<br>Tessera Sport a<br>Licenza per piloti<br>stranieri||NO|FMI – Sede centrale|
+
+
+- **PRECISAZIONI GENERALI**
+
+   - La documentazione – al di là di quale sia la modalità di trasmissione della stessa (via PEC o tramite utenza federale) – deve essere leggibile ed inviata preferibilmente in formato pdf. Documenti giudicati non sufficientemente leggibili a giudizio dell’organo erogante il servizio non potranno essere considerati validi per procedere al rilascio di quanto spettante.
+
+   - Il Moto Club è responsabile dell’acquisizione e della conservazione agli atti presso la propria sede della documentazione in originale per un lasso cronologico di dieci anni.
+
+   - La richiesta di Licenza deve essere presentata con congruo anticipo, richiedendo l’erogazione del servizio un lasso di tempo di almeno 15 giorni per l’evasione della pratica. Il mancato rispetto della tempistica menzionata potrà comportare l’applicazione di un diritto d’urgenza, in linea con quanto stabilito da ciascun Co.Re., sia in termini di importo che di lasso cronologico.
+
+   - _La possibilità di prevedere un diritto d’urgenza è un principio di massima che non trova però applicazione nel caso delle Licenze Fuoristrada One Event ed E-Bike One Event rilasciate direttamente dal Moto Club._
+
+- **PRECISAZIONI PER RICHIESTA LICENZA TRAMITE PEC**
+
+   - La casella di posta elettronica certificata (PEC) deve coincidere con quella presente nella scheda del Moto Club e registrata nel sistema informativo federale.
+
+   - La PEC deve essere trasmessa alla PEC dell’organo deputato al rilascio.
+
+   - Nell’inviare la PEC il Moto Club attesta di essere in possesso di tutti i documenti allegati in originale.
+
+- **PRECISAZIONI PER RICHIESTA LICENZA TRAMITE UTENZA FEDERALE**
+
+   - Il Moto Club, espletate le procedure di inserimento e pagamento, invia al Comitato Regionale la richiesta di Licenza.
+
+   - Il Co.Re., esaminata la documentazione prodotta, provvede a:
+
+      - Accettare la Licenza
+
+      - Respingerla
+
+      - Richiedere modifiche, alle quali il Moto Club dovrà ottemperare prima di rinviare la pratica al Comitato Regionale, il quale sarà chiamato nuovamente a valutare quanto pervenuto.
+
+58
+
+59
+
+## Pagina 32
+
+Licenze
+
+Licenze Agonistiche
+
+- La Licenza sarà valida – anche sul piano assicurativo – solamente dopo che il Comitato Regionale avrà proceduto ad accettarla.
+
+# **17. MODALITÀ DI RILASCIO**
+
+Tutte le Licenze, comprese quelle richieste senza l’utilizzo della procedura informatica, sono in formato **digitale** . Il Licenziato può richiedere la Licenza in formato **card** direttamente al proprio Moto Club, che dovrà stampare l’etichetta adesiva generata dal sistema informativo federale ed apporla sull’apposito supporto in plastica. Solamente le Licenze Fuoristrada One Event ed E-Bike One Event non sono materializzabili.
+
+# **18. SOSPENSIONE LICENZE**
+
+La Licenza, una volta emessa, non può essere annullata. Può invece intervenire la procedura di sospensione di una Licenza in quanto la FMI, d’ufficio o su istanza della Commissione Medica Federale, si riserva il diritto di sospendere la Licenza in via cautelativa nei seguenti casi:
+
+- Comunicazione da parte degli Organi competenti di sospendere l’idoneità rilasciata;
+
+- Acquisizione di atti comprovanti la non regolarità della documentazione presentata;
+
+- Acquisizione di atti che comportino il decadere dei presupposti, che erano stati in precedenza alla base del rilascio della Licenza;
+
+- Infortunio invalidante fino al recupero dello stato di salute, certificato dalla Commissione Medica;
+
+- **Emissione, su richiesta dell’interessato, della Release da parte del STS;**
+
+- **Mancato pagamento di sanzioni pecuniarie, anche nei confronti di soggetti terzi.**
+
+- La sospensione comporta il decadimento della copertura assicurativa. La sospensione decade al venir meno delle condizioni che l’hanno causata e previa notifica ufficiale da parte della FMI.
+
+# **19.   TABELLA LICENZE AGONISTICHE FMI**
+
+**Gli importi di seguito riportati non possono essere oggetto di maggiorazione da parte delle Società Sportive.**
+
+# **LICENZE AGONISTICHE NAZIONALI**
+
+# **<u>VELOCITÀ</u>**
+
+|MINIROAD|€ 60,00|8-13 anni|
+|---|---|---|
+|VELOCITÀ|€ 200,00|14-80 anni|
+|VELOCITÀ ELITE|€ 450,00|22-75 anni|
+|VELOCITÀ ELITE FEMMINILE|€ 200,00|22-75 anni|
+|VELOCITÀ ONE EVENT|€ 80,00|14-75 anni|
+
+
+# **<u>FUORISTRADA</u>**
+
+|MINIOFFROAD|€ 60,00|8-13 anni|
+|---|---|---|
+|FUORISTRADA NAZIONALE|€ 200,00|14-80 anni|
+|FUORISTRADA NAZIONALE ONE EVENT|€ 80,00|14-75 anni|
+|ASSISTENTE TRIAL|€ 90,00|18-75 anni|
+|E-BIKE|€ 40,00|12-75 anni|
+|E-BIKE ONE EVENT|€ 10,00|14-75 anni|
+
+
+# **LICENZE AGONISTICHE REGIONALI**
+
+# **<u>FUORISTRADA</u>**
+
+FUORISTRADA REGIONALE € 100,00            14-80 anni
+
+FUORISTRADA REGIONALE ONE EVENT € 40,00            14-75 anni
+
+61
+
+60
+
+## Pagina 33
+
+Licenze
+
+Licenze Agonistiche
+
+# **20. SERVIZI AGGIUNTIVI**
+
+**Gli importi di seguito riportati non possono essere oggetto di maggiorazione da parte delle Società Sportive.**
+
+|**Servizio**|**Importo**|**Competenza**|**Specifiche**|
+|---|---|---|---|
+|**Estensione**<br>**Fuoristrada**|40,00|Co.Re./FMI a seconda<br>della sede preposta al<br>rilascio|0,00 per i titolari di<br>Licenza MiniRoad;<br>Non richiedibile dai<br>titolari di Licenza<br>Velocità One Event|
+|**Estensione**<br>**Velocità**|40,00|Co.Re./FMI a seconda<br>della sede preposta al<br>rilascio|0,00 per i titolari di<br>L<br>i<br>c<br>e<br>n<br>z<br>a<br>M<br>i<br>n<br>i<br>O<br>f<br>f<br>r<br>o<br>a<br>d<br>Non richiedibile dai<br>titolari diLicenza<br>Fuoristrada Regionalee<br>Fuoristrada One Event|
+|||Co.Re./FMI a seconda||
+|**Pseudonimo**|25,00|della sede preposta al<br>rilascio|NO|
+|**Pettorale**|Dipende da<br>ciascun Comitato<br>Regionale|Co.Re. anche nel caso<br>di Licenze emesse<br>dalla sede centrale|NO|
+
+
+- **PRECISAZIONI**
+
+   - Tutti i servizi aggiuntivi possono essere richiesti sia contestualmente che successivamente all’emissione della Licenza. In quest’ultimo caso sono necessari o la ristampa dell’etichetta da parte del Moto Club, oppure il nuovo download della Licenza tramite MyFMI.
+
+   - L’estensione Fuoristrada abilita a partecipare a tutte le manifestazioni, sia nazionali che territoriali, che fanno capo alle specialità dell’Offroad
+
+   - L’estensione Velocità NON abilita invece a prendere parte a tutte le competizioni aperte ai titolari di Licenza Velocità e/o Velocità Elite.
+
+   - In caso di Estensione è obbligatorio (si ribadisce in tal senso la piena responsabilità del richiedente e del Presidente del Moto Club) che il pilota sostenga anche gli accertamenti suppletivi previsti per la visita medico agonistica di tipo B per il Fuoristrada nel caso di Estensione Fuoristrada oppure gli accertamenti previsti per la visita medico agonistica di tipo A per la Velocità nel caso di Estensione Velocità.
+
+# **21. VELOCITÀ**
+
+# � 1.1  MINIROAD
+
+|**Età**|**Validità**|**Precisazioni**|
+|---|---|---|
+|**8 anni compiuti**|Allenamenti e partecipazione a<br>manifestazioni agonistiche<br>sulla base dei Regolamenti<br>Sportivi di Specialità.|Solo al compimento del 14° anno di<br>età, laddove necessario, è possibile<br>e<br>ettuare il passaggio a Licenza<br>Velocità, versando la relativa<br>integrazione economica|
+
+
+# � 1. � VELOCITÀ
+
+|**Età**|**Validità**|**Precisazioni**|
+|---|---|---|
+|**14 anni compiuti**|Allenamenti e<br>partecipazione a<br>manifestazioni agonistiche<br>sulla base dei Regolamenti<br>Sportivi di Specialità.|È possibile e<br>ettuare il passaggio a<br>Licenza Velocità Elite, versando la<br>relativa integrazione economica|
+
+
+- 1.3  VELOCITÀ ELITE / VELOCITÀ ELITE FEMMINILE
+
+|**Età**<br>**22 anni compiuti**|**Validità**<br>Allenamenti e partecipazione a manifestazioni agonistiche<br>sulla base dei Regolamenti Sportivi di Specialità.|
+|---|---|
+
+
+- 1.4  VELOCITÀ ONE EVENT
+
+|Età|14 anni compiuti|
+|---|---|
+|**A chi può essere rilasciata**|Tesserati Member<br>Tesserati Sport senza l’applicazione del passaggio|
+|**Quante volte può essere**<br>**rilasciata**|Massimo 2 volte nel corso della stagione sportiva, eccezion<br>fatta per i piloti a<br>etti da determinate disabilità (ved����������6�|
+|**Validità**|Solo per la manifestazione per la quale è stata rilasciata,<br>intendendo con manifestazione l’inizio delle operazioni<br>preliminari|
+|**Per quali manifestazioni**<br>**può essere richiesta**|Determinate manifestazioni indicate dai Comitati Velocità e<br>Moto Epoca nei rispettivi Regolamenti Sportivi di specialit��|
+|**Precisazioni**|�ven��al� ���ol� a����s��� da� �ossessor� d� ���en�a �elo���� �ne<br>�ven� non saranno r��en��� val�d� �er l�asse�na��one d� vo�� �l�r���|
+
+
+� 3
+
+��
+
+## Pagina 34
+
+Licenze Agonistiche
+
+Licenze
+
+- **AGEVOLAZIONI**
+
+   - Dopo il conseguimento di 2 Licenze Velocità One Event sarà obbligatorio richiedere la Licenza Velocità o la Licenza Velocità Elite. Solo in quest’ultimo caso sarà possibile usufruire di un credito corrispondente all’importo versato per le Licenze One Event conseguite:
+
+      - € 80,00 nel caso di conseguimento di una Licenza Velocità One Event
+
+      - € 160,00 nel caso di conseguimento di due Licenze Velocità One Event
+
+|**MANCATO**|**UTILIZZO LICENZA VELOCITÀ ONE EVENT**|
+|---|---|
+|CAUSE|IL MOTO CLUB POTRÀ:|
+|**Annullamento**<br>**Manifestazione**|Richiedere al Co.Re. la sostituzione con un’altra One Event<br>per lo stesso pilota;<br>Richiedere al Co.Re. l’annullamento della Licenza emessa.|
+|**Mancata partecipazione**<br>**del pilota**|Richiedere al Co.Re. solo la sostituzione con<br>One Event per lo stesso pilota<br>un’altra|
+
+
+- **PRECISAZIONI**
+
+   - La manifestazione ha inizio con l’apertura delle operazioni preliminari. Pertanto in caso di annullamento della manifestazione dopo l’apertura delle o.p., non sarà possibile richiedere né la sostituzione né l’annullamento della licenza.
+
+   - La mancata partecipazione del pilota deve essere comprovata da valide motivazioni, come ad esempio un infortunio.
+
+   - Il Co.Re. ricevuta la richiesta da parte del Moto Club dovrà interfacciarsi con la sede centrale (licenze@federmoto.it) per le opportune verifiche.
+
+# **22.   FUORISTRADA**
+
+**Contestualmente all’approvazione delle Norme Sportive 2026 verrà pubblicato l’elenco dei Campionati/Trofei  per i quali è consentita la partecipazione esclusivamente con la Licenza Fuoristrada Nazionale.**
+
+# 22.1 MINIOFFROAD
+
+|**Età**|**Validità**|**Precisazioni**|
+|---|---|---|
+|**8 anni compiuti**|Allenamenti e partecipazione<br>a manifestazioni agonistiche<br>sulla base dei Regolamenti<br>Sportivi di Specialità.|Solo al compimento del 14° anno di<br>età, laddove necessario, è possibile<br>Fuoristrada, **sia Nazionale che**<br>**Regionale**,versando la<br>relativa integrazione economica<br>effettuare il passaggio a Licenza|
+
+
+# 22.2 FUORISTRADA NAZIONALE
+
+|**Età**|**Validità**|**Precisazioni**|
+|---|---|---|
+|**14 anni compiuti**|Allenamenti e partecipazione<br>a manifestazioni agonistiche,<br>**sia Nazionali che Regionali**,<br>sulla base dei Regolamenti<br>Sportivi di Specialità.<br>Valida per svolgere il ruolo di<br>Assistente Trial al<br>compimento dei 18 anni.|**Coloro che erano titolari di**<br>**Licenza Fuoristrada Elite nel**<br>**2025 e che sono assegnatari**<br>**del titolo Elite nel 2026**<br>**devono richiedere la Licenza**<br>**Fuoristrada Nazionale**|
+
+
+# 22.3 FUORISTRADA REGIONALE
+
+|**Età**|**Validità**|**Requisiti**|
+|---|---|---|
+|**14 anni compiuti**|Allenamenti e manifestazioni<br>agonistiche di Livello regionale,<br>Valida per svolgere il ruolo di<br>Assistente Trial alcompimento<br>dei 18 anni,�**nell’ambito delle**<br>**manifestazioni regionali.**<br>Sportivi di Specialità.<br>**inserite nei Calendari Regionali**,<br>sulla base dei Regolamenti|**Può essere rilasciata**<br>**a qualsiasi pilota – al di là della**<br>**tipologia di Licenza conseguita**<br>**nelle passate stagioni –**<br>**eccezion fatta per coloro che**<br>**erano titolari di Licenza**<br>**Fuoristrada Elite nel 2025**|
+
+
+# 22.4 FUORISTRADA ONE EVENT
+
+- **REGIONALE**
+
+|Età|14 anni compiuti|
+|---|---|
+|**A chi può essere rilasciata**|Tesserati Member e/o<br>Tesserati Sport (senza l’applicazione del passaggio)<br>**che non siano già titolari nel 2026 di Licenza FMI,**<br>**eccezion fatta per eventuali altre Licenze Fuoristrada**<br>**Regionali One Event conseguite.**|
+|**Quante volte può essere**<br>**rilasciata**|Non sono previste limitazioni|
+|**Validità**|Solo per la manifestazione per la quale è stata rilasciata,<br>intendendo con manifestazione l’inizio delle operazioni<br>preliminari|
+|**Modalità di Emissione**|Oltre alle modalità di richiesta ed emissione previste all’Art.<br>16.3, può essere rilasciata direttamente dal Moto Club presso<br>il quale il richiedente è tesserato, a condizione che<br>quest’ultimo sia maggiorenne e di cittadinanza italiana e che il<br>pagamento avvenga mediante transazione con carta di<br>credito o eventuale utilizzo di un credito aperto risultante dalla<br>scheda contabile del Moto Club.|
+
+
+64
+
+65
+
+## Pagina 35
+
+Licenze
+
+Licenze Agonistiche
+
+**I titolari di Licenza Fuoristrada Regionale One Event possono richiedere la Licenza Fuoristrada sia Nazionale che Regionale, versando per intero l’importo previsto per queste due Licenze Annuali.**
+
+## **Mancata partecipazione del pilota**
+
+Richiedere al Co.Re. solo la sostituzione con un’altra Fuoristrada One Event per lo stesso pilota� **e della stessa tipologia (Nazionale o Regionale)**
+
+- PRECISAZIONI
+
+# • **NAZIONALE**
+
+|Età|14 anni compiuti|
+|---|---|
+|**A chi può essere rilasciata**|**Tesserati Member**<br>**Tesserati Sport (senza l’applicazione del passaggio) che**<br>**però non siano già titolari nel 2026 di Licenza FMI,**<br>**eccezion fatta per la Licenza Fuoristrada Regionale e per**<br>**eventuali Licenze Fuoristrada One Event conseguite.**|
+|**Quante volte può essere**<br>**rilasciata**|**Massimo 2 volte nel corso della stagione sportiva**|
+|**Validità**|������������������������������������������������<br>���������������������������������������������������������<br>�����������������������|
+
+
+**I titolari di Licenza Fuoristrada Nazionale One Event possono richiedere la Licenza Fuoristrada sia Nazionale che Regionale, versando per intero l’importo previsto per queste due Licenze Annuali. La Licenza Fuoristrada One Event, sia regionale che nazionale, può essere emessa direttamente dal Moto Club presso il quale il richiedente è tesserato, a condizione che quest’ultimo sia maggiorenne e di cittadinanza italiana e che il pagamento avvenga mediante transazione con carta di credito o eventuale utilizzo di un credito aperto risultante dalla scheda contabile del Moto Club.**
+
+Il Presidente del Moto Club è responsabile a tutti gli effetti dell’operato svolto ed è soggetto a provvedimenti e sanzioni disciplinari in caso di documentazione non conforme e/o incompleta. Nel caso infatti in cui vengano riscontrate delle inadempienze da parte del Moto Club, gli Uffici competenti procederanno a bloccare la Società Sportiva nella procedura di emissione diretta delle Licenze One Event, sia Fuoristrada che E-Bike, per tutta la stagione sportiva 2026.
+
+|**~~MANCATO~~**<br>CAUSE|**~~UTILIZZO LICENZA FUORISTRADA ONE EVENT~~**<br>IL MOTO CLUB POTRÀ:|
+|---|---|
+|**Annullamento**<br>**Manifestazione**|Richiedere al Co.Re. la sostituzione con un’altraFuoristrada<br>One Event per lo stesso pilota e della stessa tipologia;<br>Richiedere al Co.Re. l’annullamento della Licenza emessa.|
+
+
+- La manifestazione ha inizio con l’apertura delle operazioni preliminari. Pertanto in caso di annullamento della manifestazione dopo l’apertura delle o.p., non sarà possibile richiedere né la sostituzione né l’annullamento della licenza.
+
+- La mancata partecipazione del pilota deve essere comprovata da valide motivazioni, come ad esempio un infortunio.
+
+- Il Co.Re. ricevuta la richiesta da parte del Moto Club dovrà interfacciarsi con la sede centrale (licenze@federmoto.it) per le opportune verifiche.
+
+- Eventuali titoli acquisiti dai possessori di Licenza Fuoristrada One Event non saranno ritenuti validi per l’assegnazione di voti plurimi.
+
+# 22.5 ASSISTENTE TRIAL
+
+|**Età**|**Validità**|**Precisazioni**|
+|---|---|---|
+|**18 anni compiuti**|Unicamente per svolgere il<br>servizio di Assistente Trial<br>nelle gare territoriali e<br>nazionali.|È su<br>ciente il Certificato di<br>Idoneità per Attività Sportiva<br>NON Agonistica. In sostituzione<br>NON possono essere ritenuti<br>validi certificati di idoneità<br>agonistica rilasciati per altri sport.|
+
+
+# 22.6 E-BIKE
+
+|Età|12 anni compiuti|
+|---|---|
+|**A chi può essere rilasciata**|Solamente ai Tesserati Member<br>(NO Tesserati Sport)|
+|**Validità**|Solo per partecipare ad allenamenti ed a competizioni<br>agonistiche con l’ausilio di E-Bike|
+|**Limitazioni**|Per quanto concerne l’allenamento, oltre alla condizione che<br>sia e<br>ettuato con l’ausilio di E-Bike, è prevista la clausola che<br>venga e<br>ettuato esclusivamente in impianti omologati FMI|
+|**Precisazioni**|È possibile e<br>ettuare il passaggio a Licenza Fuoristrada,<br>**sia Nazionale che Regionale,**inviando via PEC la<br>richiesta e la relativa integrazione economica|
+
+
+66
+
+67
+
+## Pagina 36
+
+Licenze
+
+Licenze Agonistiche
+
+# 22.7 E-BIKE ONE EVENT
+
+|Età|14 anni compiuti|
+|---|---|
+|**A chi può essere rilasciata**|Tesserati Member e/o<br>Tesserati Sport (senza l’applicazione del passaggio)<br>che non siano titolari nel 2026di alcuna Licenza FMI eccezion<br>fatta per eventuali altre Licenze E-Bike One Event conseguite.|
+|**Quante volte può essere**<br>**rilasciata**|Non sono previste limitazioni|
+|**Validità**|Solo per la manifestazione per la quale è stata rilasciata,<br>intendendo con manifestazione l’inizio delle operazioni<br>preliminari|
+|**Precisazioni**|Eventuali titoli acquisiti dai possessori di LicenzaE-Bike<br>One Event non saranno ritenuti validi per l’assegnazione di<br>voti plurimi.|
+|**Modalità di Emissione**|Oltre alle modalità di richiesta ed emissione previste all’Art. 16.3,<br>può essere rilasciata direttamente dal Moto Club presso il quale<br>il richiedente è tesserato, a condizione che quest’ultimo<br>sia maggiorenne<br>e<br>di<br>cittadinanza<br>italiana<br>e<br>che<br>il<br>pagamento avvenga mediante transazione con carta di credito<br>o eventuale utilizzo di un credito aperto risultante dalla scheda<br>contabile del Moto Club.|
+
+
+- **PRECISAZIONI**
+
+   - La manifestazione ha inizio con l’apertura delle operazioni preliminari. Pertanto in caso di annullamento della manifestazione dopo l’apertura delle o.p., non sarà possibile richiedere né la sostituzione né l’annullamento della licenza.
+
+   - La mancata partecipazione del pilota deve essere comprovata da valide motivazioni, come ad esempio un infortunio.
+
+   - Il Co.Re. ricevuta la richiesta da parte del Moto Club dovrà interfacciarsi con la sede centrale (licenze@federmoto.it) per le opportune verifiche.
+
+# **23.  ATTIVITÀ INTERNAZIONALE**
+
+# 23.1 LICENZA OPEN
+
+La Licenza Open non è una Licenza Internazionale, ma è il titolo che consente ai piloti FMI, già titolari di idonea Licenza Agonistica, di prendere parte unicamente alle manifestazioni nazionali che le singole Federazioni iscrivono a Calendario FIM Europe Open per consentire la partecipazione di piloti stranieri.
+
+- **Termini di richiesta:** dal 1° gennaio 2026
+
+Il Presidente del Moto Club è responsabile a tutti gli effetti dell’operato svolto ed è soggetto a provvedimenti e sanzioni disciplinari in caso di documentazione non conforme e/o incompleta.
+
+Nel caso infatti in cui vengano riscontrate delle inadempienze da parte del Moto Club, gli Uffici competenti procederanno a bloccare la Società Sportiva nella procedura di emissione diretta delle Licenze One Event, sia Fuoristrada che E-Bike, per tutta la stagione sportiva 2026.
+
+|**MANCAT**|**O UTILIZZO LICENZA E-BIKE ONE EVENT**|
+|---|---|
+|CAUSE|IL MOTO CLUB POTRÀ:|
+|**Annullamento**<br>**Manifestazione**|Richiedere al Co.Re. la sostituzione con un’altra�E-Bike<br>One Eventper lo stesso pilota;<br>�Richiedere al Co.Re. l’annullamento della Licenza emessa.|
+|**Mancata partecipazione**<br>**del pilota**|Richiedere al Co.Re. solo la sostituzione con un'altra E-Bike<br>One Event per lo stesso pilota|
+
+
+- **Modalità di richiesta:** direttamente dal pilota attraverso la sezione specifica presente su MyFMI.
+
+- **Tempistica:** almeno 7 giorni antecedenti la data della manifestazione alla quale si intende partecipare.
+
+- **Modalità di emissione:** unicamente in formato digitale
+
+- **Tipologia:** Circuit Racing oppure Offroad oppure Trial Assistant
+
+- **Costo:** €50,00 da versare mediante transazione con carta di credito. Coloro che desiderano prendere parte a manifestazioni iscritte a Calendario FIM Europe Open sia di Circuit Racing che Offroad devono richiedere n.2 Licenze FMI Open all’importo di €50,00 cadauna.
+
+|Età massima|Non può essere richiesta dai piloti nati dal 1.1.1946al<br>31.12.1950|
+|---|---|
+|**A chi può essere rilasciata**|Licenziati FMI|
+
+
+68
+
+69
+
+## Pagina 37
+
+Attività Internazionale
+
+Licenze
+
+|**Licenze NON valide per**<br>**richiedere la Licenza FMI**<br>**OPEN**|1) Licenza**Fuoristrada Regionale**<br>2) Licenza Velocità One Event<br>3) Licenze Fuoristrada One Event<br>4) Licenza E-Bike<br>5) Licenza E-Bike One Event|
+|---|---|
+|**A chi NON può essere**<br>**rilasciata**|1) Piloti che non abbiano il benestare del STS<br>2) Piloti giudicati UNFIT dalla Commissione Medica<br>3) Piloti che abbiano in corso provvedimenti disciplinari<br>che inibiscano la partecipazione a manifestazioni<br>4) Piloti che abbiano il certificato di idoneità agonistica<br>scaduto e non ancora rinnovato<br>Unicamente le gare iscritte a Calendario FIM Europe Open.<br> <br> <br> <br> <br> <br> <br> <br>|
+|**Manifestazioni**|Nel<br>caso<br>in<br>cui<br>una<br>manifestazione<br>sia<br>iscritta<br>contemporaneamente a Calendario FIM Europe Open ed a<br>CalendarioNMFP della FIM, il pilota potrà valutare se richiedere<br>la Licenza Internazionale per usufruire anche della copertura<br>assicurativa ad essa legata.|
+|**Nulla Osta/Starting**<br>**Permission**|La Licenza FMI OPEN include già uno starting permission<br>permanente per prendere parte a queste manifestazioni.|
+|**STATUS della LICENZA**|È indicato nel QR CODE presente sulla Licenza, in quanto la<br>Licenza FMI OPEN può perdere di validità dopo il suo rilascio<br>nel caso in cui il pilota subisca provvedimenti e/o subentrino<br>condizioni che avrebbero precluso l’emissione della licenza.|
+
+
+- **PRECISAZIONI**
+
+   - La validità della Licenza FMI OPEN decade anche nel caso in cui il pilota prenda parte a competizioni, classi, categorie e/o cilindrate alle quali non sarebbe autorizzato a partecipare sulla base della Licenza Agonistica in suo possesso e dei Regolamenti Sportivi di Specialità.
+
+   - La validità della Licenza FMI OPEN decade anche nel caso in cui il pilota prenda parte a determinate competizioni, come le gare internazionali che si svolgono su percorsi cittadini.
+
+   - Si rammenta la responsabilità in solido da parte del pilota in caso di utilizzo improprio della Licenza FMI OPEN, comportante anche il venir meno della copertura assicurativa.
+
+   - **I titolari di Licenza Assistente Trial possono conseguire unicamente la Licenza FMI OPEN Trial Assistant.**
+
+- **PROCEDURA**
+
+   - 1) Richiesta tramite MyFMI da parte del pilota
+
+   - 2) Verifica da parte degli Uffici Federali
+
+   - 3) In caso di richiesta accolta, il pilota esegue il download della Licenza OPEN su MyFMI
+
+   - 4) In caso di richiesta respinta, viene riaccreditato sulla carta l’importo versato.
+
+- **PRECISAZIONI**
+
+Nel caso in cui la richiesta sia stata avanzata per errore e non sia stata ancora accolta dalla Federazione, sarà possibile rigettare la pratica ed avviare la procedura di restituzione dell’importo.
+
+Nel caso in cui la richiesta sia stata avanzata per errore e sia stata già accolta dalla Federazione, NON sarà possibile rigettare la pratica ed avviare la procedura di restituzione dell’importo.
+
+**I titolari di Licenza FMI OPEN OFFROAD,  a partire dal 18° anno di età, sono autorizzati a svolgere il ruolo di Assistente Trial  nelle manifestazioni di Trial iscritte a calendario FIM Europe Open, senza richiedere un’ulteriore Licenza FMI OPEN.**
+
+23.2 LICENZA INTERNAZIONALE
+
+La Licenza Internazionale è il titolo che consente ai piloti FMI, già titolari di idonea Licenza Agonistica, di prendere parte alle manifestazioni internazionali iscritte a Calendario FIM o FIM Europe.
+
+- **Modalità di richiesta** : invio della documentazione via PEC dal Moto Club a licenze@pec.federmoto.it.
+
+- **Tempistica** : almeno 15 giorni antecedenti la data della manifestazione alla quale si intende partecipare.
+
+- **Modalità di emissione e trasmissione** : in formato PDF e via email al pilota ed al Moto Club.
+
+- **Tipologia:** Annuale o One Event
+
+- **Costo** : l’importo varia a seconda della tipologia di Licenza Internazionale, del Campionato e se la licenza richiesta è annuale oppure one event. La tabella con gli importi delle Licenze Internazionali 2026 sarà disponibile sul sito federale www.federmoto.it nella seconda metà di dicembre 2025.
+
+70
+
+71
+
+## Pagina 38
+
+Attività Internazionale
+
+Licenze
+
+|**A chi può essere rilasciata**|Licenziati FMI|
+|---|---|
+|**Licenze NON valide per**<br>**richiedere la Licenza**<br>**Internazionale**|**Licenza Fuoristrada Regionale **<br>**Licenze Fuoristrada One Event**|
+|**A chi NON può essere**<br>**rilasciata**|1) Piloti che non abbiano il benestare del STS<br>2) Piloti giudicati UNFIT dalla Commissione Medica<br>3) Piloti che abbiano in corso provvedimenti disciplinari che<br>inibiscano la partecipazione a manifestazioni<br>4) Piloti che abbiano il certificato di idoneità agonistica scaduto<br>e non ancora rinnovato|
+|**Manifestazioni**|Unicamente le gare iscritte a Calendario FIM o FIM Europe.<br>Il possesso della Licenza Internazionale NON garantisce la<br>partecipazione alla manifestazione, i cui criteri di ammissione<br>possono essere subordinati alle normative previste dalla<br>FIM, FIME e dai Promotori.|
+|**Nulla Osta/Starting**<br>**Permission**|Da richiedere se previsto via email all’Ufficio Sportivo di<br>riferimento|
+
+
+- **DOCUMENTI NECESSARI**
+
+|**TIPOLOGIA**<br>**DOCUMENTO**|**Pilota**<br>**Maggiorenne**|**Pilota**<br>**Minorenne**|**Precisazioni**|
+|---|---|---|---|
+|**Fascicolo di**<br>**richiesta licenza**<br>**internazionale**||||
+|**Copia**<br>**documento di**<br>**riconoscimento**<br>**del pilota**||||
+||||Certificato con validità biennale|
+|**Certificato ADEL**<br>**for**<br>**INTERNATIONAL**<br>**LEVEL**<br>**ATHLETES**|||dalla data del conseguimento,<br>attestante il completamento del<br>corso e-learning, disponibile<br>sulla piattaforma ADEL<br>raggiungibile al link:<br>https://adel.wada-ama.org|
+|**Versamento**|||Bonifico Bancario sull’IBAN<br>della FMI<br>IT47U0100503309000000010102|
+
+
+|**Dichiarazione**|
+|---|
+|**assenso per**<br>**Licenza**<br>**Internazionale**|
+|**Copia documento**|
+|**di riconoscimento**|
+|**di entrambi i**<br>**genitori o**|
+|**dell’esercente la**<br>**responsabilità**<br>**genitoriale**|
+
+
+- **PRECISAZIONI**
+
+   - Per la Licenza FIM/FIME di Assistente Trial inviare solo i primi due fogli del fascicolo di richiesta licenza internazionale, copia del documento di riconoscimento dell’interessato e copia versamento.
+
+   - Per la Licenza del Mondiale Endurance Team, i Team e le Scuderie devono essere preventivamente in possesso della Licenza di Team o Scuderia Nazionale. Anche per questo tipo di richiesta licenza internazionale, inviare solo i primi due fogli del fascicolo di richiesta licenza internazionale, copia del documento di riconoscimento del titolare e copia versamento **della quota alla quale si precisa che i Team devono corrispondere anche l’IVA.**
+
+   - Nel caso in cui il pilota abbia già sottoscritto una licenza internazionale nel corso del 2026, è sufficiente che il Moto Club trasmetta via PEC a licenze@pec.federmoto.it il primo foglio del fascicolo di richiesta licenza internazionale accompagnato dalla copia del versamento, a meno che non siano intervenute modifiche e/o aggiornamenti documentali che implichino il rinvio della documentazione in forma totale o parziale.
+
+   - **Solamente per le Licenze Internazionali One Event è possibile richiedere, in caso di mancato utilizzo e/o annullamento della manifestazione, la cancellazione della licenza internazionale già emessa e/o ordinata. Tale procedura è soggetta ad un costo, da versare alla FMI, stabilito direttamente dalla Federazione Internazionale.**
+
+   - **Per la Licenza Internazionale Annuale non è possibile la procedura di cancellazione della Licenza, anche nel caso in cui la stessa risulti solamente ordinata.**
+
+72
+
+73
+
+## Pagina 39
+
+Attività Internazionale
+
+Licenze
+
+- **PROCEDURA**
+
+   - 1) Invio della documentazione richiesta tramite PEC del Moto Club a licenze@pec.federmoto.it
+
+   - 2) Verifica da parte dell’Ufficio Licenze
+
+   - 3) L’Ufficio Licenze procede ad ordinare alla Federazione Internazionale la Licenza richiesta, sia essa FIM o FIM Europe.
+
+   - 4) Il pilota/genitore riceve dalla Federazione Internazionale un’email con dei documenti da firmare elettronicamente.
+
+   - 5) Firma dei documenti da parte del pilota o del genitore in caso di minore.
+
+   - 6) Materializzazione della licenza internazionale.
+
+   - 7) Invio della licenza internazionale per email al pilota ed al Moto Club.
+
+- 23.3    PARTECIPAZIONE DEI PILOTI NON FMI ALLE MANIFESTAZIONI FMI
+
+I piloti, NON titolari di Licenza FMI, possono partecipare alle manifestazioni nazionali che si svolgono sotto l’egida della Federazione Motociclistica Italiana, solo nel caso in cui le stesse siano iscritte a:
+
+- Calendario FIM Europe Open
+
+- Calendario **NMFP della FIM**
+
+- Entrambi i Calendari
+
+Se la manifestazione è iscritta unicamente a Calendario FIM Europe Open, il pilota deve essere titolare di idonea Licenza rilasciata dalla sua Federazione e Starting Permission (OBBLIGATORIO). Se la manifestazione è iscritta unicamente a Calendario **NMFP della FIM** , il pilota deve essere titolare di idonea Licenza FIM.
+
+In quest’ultimo caso non è obbligatorio lo Starting Permission, dal momento che la licenza FIM prevede una copertura assicurativa operante in occasione di manifestazioni iscritte a Calendario NMFP e che sulla licenza FIM è presente un QR Code in grado di verificare in tempo reale lo status di un pilota. I cittadini extracomunitari devono appurare se necessitano o meno di visto per entrare in Italia (visto per gara sportiva).
+
+- **VISTO PER GARA SPORTIVA**
+
+|**TIPOLOGIA VISTO**<br>**SPORTIVO**|**DURATA**|
+|---|---|
+|**Visto di tipo C di breve**<br>**periodo**|Massimo 90 gg. consecutivi (3 mesi)|
+|**Visto di tipo C Multi Visa**|Ingressi multipli nei Paesi dell’Area Schengen per un massimo<br>di 90 gg. consecutivi oppure un totale di 90 giorni non<br>continuativi da e<br>ettuare nell’arco di 6 mesi.|
+
+
+- **PRECISAZIONI**
+
+   - Al di là della tipologia di visto, terminati i 90 giorni, non potrà essere avanzata un’altra richiesta prima di altri ulteriori 90 giorni.
+
+   - Nel caso in cui il pilota partecipi ad una serie di manifestazioni in Europa, la richiesta di visto deve essere trasmessa alla Federazione Motociclistica del primo Paese Europeo ospitante quel campionato.
+
+   - Il visto per gara sportiva riguarda solo le competizioni agonistiche e non gli allenamenti.
+
+- **PROCEDURA**
+
+   - 1) La Federazione di appartenenza invia alla FMI (Ufficio Sportivo di pertinenza) la richiesta di visto per gara sportiva almeno 30 giorni prima dell’evento presentando la lista dei nominativi da includere.
+
+   - 2) La FMI procede ad effettuare le seguenti verifiche:
+
+      - Controllo della lista dei componenti delle delegazioni*
+
+      - Verifica che i minori siano accompagnati da maggiorenni facenti parte o della delegazione o da un familiare che sia in possesso di regolare visto di diversa tipologia, quale ad esempio turismo, invito.
+
+         - *La lista dei nominativi deve includere unicamente: a) atleti b) tecnici c) medici d) dirigenti
+
+74
+
+75
+
+## Pagina 40
+
+FMI2026
+
+Certificazione medica e Coperture assicurative
+
+## Pagina 41
+
+Certificati
+
+# Certificazione medica
+
+# **24. CERTIFICAZIONE MEDICA**
+
+|**TITOLI FEDERALI**|**CERTIFICAZIONE MEDICA**|
+|---|---|
+|Tessera Member|Non è previsto alcun obbligo per il rilascio|
+|**Tessera Member One Day**|Certificato di Idoneità Sportiva NON Agonistica se richiesto per l'attività|
+|Tessera Sport|Certificato di Idoneità Sportiva NON Agonistica|
+|**Tessera Sport One Day**|Certificato di Idoneità Sportiva NON Agonistica|
+|Tessera MiniSport|Certificato di Idoneità Sportiva NON Agonistica|
+|Licenza Assistente Trial|1) Certificato di Idoneità Sportiva NON Agonistica**_oppure_**<br>2) Certificato di Idoneità Sportiva Agonistica per<br>Motociclismo Fuoristrada|
+|Licenza MiniRoad|Certificato di Idoneità Sportiva Agonistica per Motociclismo Velocità|
+|Licenza Velocità/Velocità<br>Elite/Velocità One Event|Certificato di Idoneità Sportiva Agonistica per Motociclismo Velocità|
+|Licenza MiniO<br>road|Certificato di Idoneità Sportiva Agonistica per Motociclismo Fuoristrada|
+|**Licenza Fuoristrada**<br>**Nazionale/Fuoristrada**<br>**Regionale/Fuoristrada**<br>**One Event**|Certificato di Idoneità Sportiva Agonistica per Motociclismo Fuoristrada|
+|Licenza E-Bike/E-Bike<br>One Event|Certificato di Idoneità Sportiva Agonistica per Motociclismo Fuoristrada|
+|Licenza|Certificato di Idoneità Sportiva Agonistica per Motociclismo Velocità|
+|MiniRoad/Velocità/Velocità<br>Elite + ESTENSIONE<br>FUORISTRADA|+<br>Certificato di Idoneità Sportiva Agonistica per Motociclismo Fuoristrada|
+|Licenza Minio road/<br>Fuoristrada/Fuoristrada<br>Elite + ESTENSIONE<br>VELOCITÀ|Certificato di Idoneità Sportiva Agonistica per Motociclismo Fuoristrada<br>+<br>Certificato di Idoneità Sportiva Agonistica per Motociclismo Velocità|
+
+
+# 24.1 VALIDITÀ DEI CERTIFICATI
+
+|Tipologia|Validità|
+|---|---|
+|**Certificato di Idoneità per**<br>**Attività Sportiva NON**<br>**Agonistica**|Annuale (365 giorni dalla data del rilascio)|
+|**Certificato di Idoneità per**<br>**Attività Sportiva**<br>**Agonistica**|Annuale (365 giorni dalla data del rilascio)|
+
+
+# 24.2 PROCEDURA IN CASO DI SCADENZA CERTIFICAZIONE MEDICA
+
+Nel caso in cui la validità della certificazione medica acquisita scada nel corso della stagione sportiva, è necessario effettuare una nuova visita e consegnare il nuovo certificato al Presidente del Moto Club, il quale è tenuto alla conservazione in originale dello stesso, per un lasso cronologico di dieci anni, fatte salve eventuali disposizioni legislative a livello regionale.
+
+Il Presidente del Moto Club è responsabile civilmente e penalmente della conservazione in originale della certificazione acquisita e della correttezza della stessa. Nel caso di trasferimento ad altro Moto Club in corso di stagione, il pilota deve consegnare al nuovo Moto Club una copia conforme all’originale del Certificato di Idoneità Sportiva.
+
+_Nella pagina successiva il Diagramma  con gli step procedurali da adempiere, validi sia per le Tessere Sport e MiniSport che per qualsiasi tipo di Licenza Agonistica._
+
+È rispettivamente responsabilità del pilota e del Presidente del Moto Club il sottoporsi a nuova visita medica e l’aggiornamento del dato a sistema informativo federale.
+
+78
+
+79
+
+## Pagina 42
+
+Certificazione medica
+
+Strutture autorizzate
+
+# **DIAGRAMMA**
+
+
+<!-- Start of picture text -->
+CERTIFICATO<br>SCADUTO<br>Il Pilota rinnova Il Pilota NON rinnova<br>il certificato il certificato<br> di idoneità sportiva  di idoneità sportiva<br>La Tessera<br>MiniSport/Sport<br>Consegna il nuovo<br>assume la valenza<br>Certificato<br>della Tessera Member.<br> al Presidente<br>La Licenza perde<br>del Moto Club<br>validità<br><!-- End of picture text -->
+
+
+<!-- Start of picture text -->
+Il Moto Club  Il pilota rieffettua<br>inserisce a sistema  il download<br>la nuova scadenza  della Tessera<br>del certificato o della Licenza<br><!-- End of picture text -->
+
+# 24.3 STRUTTURE AUTORIZZATE AL RILASCIO
+
+||**IDONEITÀ**<br>**SPORTIVA NON**<br>**AGONISTICA**|**IDONEITÀ**<br>**SPORTIVA**<br>**AGONISTICA**|**PRECISAZIONI**|
+|---|---|---|---|
+|Medici di medicina<br>generale||NO|Relativamente ai<br>propri assistiti|
+|**Pediatri di libera scelta**||NO|Relativamente ai<br>propri assistiti|
+|**Medici specialisti in**<br>**medicina dello sport**|||Per il rilascio<br>dell’idoneità<br>agonistica devono<br>essere iscritti<br>nell’Albo regionale<br>degli specialisti<br>autorizzati allo<br>scopo ed operanti<br>presso strutture<br>autorizzate|
+|**Medici della Federazione**<br>**Medico Sportiva Italiana –**<br>**FMSI**||||
+|**Strutture Sanitarie**<br>**Nazionali autorizzate**||||
+|**Centri FMSI autorizzati**<br>**alla certificazione**||||
+|**Centri di Medicina dello**<br>**Sport**|||Autorizzati alla<br>certificazione dalla<br>Regione|
+
+
+- **PRECISAZIONI GENERALI**
+
+   - Non sono valide certificazioni rilasciate all’estero.
+
+   - Non sono validi certificati di idoneità agonistica rilasciati per sport diversi dal Motociclismo, anche in presenza di analoga tabella per quanto concerne gli accertamenti clinici da sostenere.
+
+   - I soggetti portatori di una qualsiasi disabilità non possono richiedere la Tessera MiniSport o Sport ma unicamente la Licenza Agonistica secondo le modalità riportate all’Art. 24.6.
+
+80
+
+81
+
+## Pagina 43
+
+Certificazione medica
+
+Esami richiesti
+
+# 24.4 ESAMI CLINICI RICHIESTI PER IDONEITÀ SPORTIVA NON AGONISTICA
+
+_Si applica quanto previsto nella Nota integrativa del Ministero della Salute del 16 giugno 2015, esplicativa del D.M. della Salute del 8.08.2014 recante le “Linee Guida di indirizzo in materia di certificati medici per l’attività sportiva non agonistica”._
+
+- Anamnesi completa ed Esame obiettivo comprensivo di misurazione della pressione arteriosa.
+
+- Elettrocardiogramma a riposo (basale) debitamente refertato, effettuato almeno una volta nella vita.
+
+- Elettrocardiogramma a riposo (basale) debitamente refertato con periodicità annuale per coloro che hanno superato i 60 anni di età e che associano altri fattori di rischio cardiovascolare.
+
+- Elettrocardiogramma a riposo (basale) debitamente refertato con periodicità annuale per coloro che, a prescindere dall’età, abbiano patologie croniche conclamate, comportanti un aumentato rischio cardiovascolare.
+
+_Inoltre il medico certificatore, tenuto conto delle evidenze cliniche e/o diagnostiche rilevate, si può avvalere di una prova da sforzo massimale e di altri accertamenti mirati agli specifici problemi di salute._
+
+_Nei casi dubbi il medico certificatore si può avvalere della consulenza del medico specialista in medicina dello sport o, secondo il giudizio clinico, dello specialista di branca._
+
+# 24.5 ESAMI CLINICI RICHIESTI PER IDONEITÀ SPORTIVA AGONISTICA
+
+|**Tipologia Licenze**|**Tipologia**<br>**Visita Medica**|**Validità**|**Esami clinici**|
+|---|---|---|---|
+|Licenza<br>- MiniRoad<br>- Velocità<br>- Velocità Elite<br>- Velocità One Event|**A**|**1 anno**|- Visita medica<br>- Esame completo delle urine<br>- Elettrocardiogramma a riposo<br>- Esame neurologico<br>- Elettroencefalogramma prima visita<br>(ripetizione nel corso degli anni successivi<br>su richiesta medico certificatore)<br>- Visus<br>- Senso cromatico|
+|Licenza<br>- MiniOffroad<br>- Fuoristrada Nazionale<br>- Fuoristrada Regionale<br>- Fuoristrada One Event<br>- E-Bike/E-Bike One Event|**B**|**1 anno**|- Visita medica<br>- Esame completo delle urine<br>- Elettrocardiogramma basale e dopo sforzo<br>(test di Master)<br>- Spirometria<br>- Visus<br>- Senso cromatico|
+|- Licenza Fuoristrada con<br>Estensione Velocità|**B+A**|**1 anno**|- Visita medica<br>- Esame completo delle urine<br>- Elettrocardiogramma basale e dopo sforzo<br>(test di Master)<br>- Spirometria<br>- Visus<br>- Senso cromatico<br>- Esame neurologico<br>- Elettroencefalogramma prima visita<br>(ripetizione nel corso degli anni successivi<br>su richiesta medico certificatore)|
+|- Licenza Velocità con<br>Estensione Fuoristrada|**A+B**|**1 anno**|- Visita medica<br>- Esame completo delle urine<br>- Esame neurologico<br>- Elettroencefalogramma prima visita<br>(ripetizione nel corso degli anni successivi<br>su richiesta medico certificatore)<br>- Visus<br>- Senso cromatico<br>- Elettrocardiogramma basale e dopo sforzo<br>(test di Master)<br>- Spirometria|
+
+
+_Si applica quanto previsto dal D.M. 18.02.1982 in materia di Tutela sanitaria dell’attività sportiva._
+
+82
+
+83
+
+## Pagina 44
+
+Certificazione medica
+
+Piloti diversamente abili
+
+- **PRECISAZIONI**
+
+A giudizio del medico certificatore, al di sopra dei 40 anni di età o laddove esistessero fattori di rischio cardiovascolare, si raccomanda l’esecuzione di test ecg massimale a sostituzione di ecg basale/ecg con test di Master. Per i piloti di età compresa fra i 75 e gli 80 anni, i quali possono richiedere la Licenza Agonistica unicamente per gareggiare nelle specialità riportate nel box a pagina 51, oltre allo svolgimento di una visita medica effettuata dallo specialista di Medicina dello Sport, secondo il Protocollo stabilito ai fini del rilascio della certificazione agonistica, ai sensi del D.M. del 18 febbraio 1982, sarà necessario approfondire la ricerca dei possibili fattori di rischio salute per gli atleti, l’adeguata valutazione funzionale medico-sportiva e l’integrazione, conformemente alle Linee guida applicabili in materia, dei seguenti esami diagnostici:
+
+- Test ergometrico incrementale massimale con Monitoraggio elettrocardiografico
+
+- Ecocardiogramma color doppler
+
+A tal fine la Federazione ha predisposto un apposito FORM – disponibile su richiesta all’indirizzo e-mail: licenze@federmoto.it - da presentare al Medico certificatore, il quale dovrà compilarlo in aggiunta al classico certificato di idoneità sportiva agonistica.
+
+- **LIMITI**
+
+I limiti entro cui può essere ritenuta ammissibile la concessione dell’idoneità agonistica ad atleti disabili sono di esclusiva competenza del Medico Certificatore e sono quelli individuati nel Medical Code della Federazione Motociclistica Internazionale (FIM), che prevede espressamente che alcune forme di disabilità escludano tassativamente il rilascio della Licenza.
+
+Il Medico Certificatore, in caso di dubbi o maggiori informazioni, può contattare la Commissione Medica FMI (medica@federmoto.it).
+
+La Commissione Medica FMI, su richiesta del medico o del Tesserato portatore di una qualsiasi disabilità, nominerà un Comitato Tecnico di valutazione specificatamente composto da esperti a seconda della specialità sportiva motociclistica per la quale si richiede la Licenza, sentito il parere del Coordinatore del Comitato di Specialità Sportiva.
+
+Il Comitato Tecnico individuato dalla Commissione Medica avrà un ruolo unicamente consultivo ed esprimerà sui singoli casi pareri non vincolanti, fermo restando che il Medico Certificatore autonomamente potrà decidere in merito al rilascio o meno del certificato di idoneità agonistica, indipendentemente dal parere della Commissione Medica FMI.
+
+- **PROCEDURA PER RICHIESTA LICENZA PER PILOTA DISABILE**
+
+# 24.6 PILOTI DIVERSAMENTE ABILI
+
+- **PREMESSA**
+
+Coloro che sono portatori di una qualche disabilità non possono richiedere la Tessera MiniSport o Sport, ma unicamente la Licenza Agonistica, sottoponendosi a visita medico-sportiva per il rilascio dell’idoneità, alla stregua di quanto previsto per i piloti normodotati.
+
+Il Medico certificatore è responsabile del rilascio dell’idoneità agonistica, mentre il Presidente del Moto Club è responsabile dell’inoltro della richiesta di Licenza, il cui conseguimento prevede che i portatori di qualsiasi disabilità partecipino alle medesime competizioni organizzate per tutti i piloti.
+
+   - Il Moto Club deve inviare via PEC al Comitato Regionale di pertinenza la documentazione prevista per il rilascio di qualsiasi licenza, integrando ad essa una copia del Certificato di Idoneità Agonistica ed una copia della Certificazione rilasciata dall’INAIL o dall’INPS attestante la invalidità/disabilità permanente ed il grado della stessa.
+
+   - Il Comitato Regionale deve trasmettere quanto pervenuto alla Commissione Medica (medica@federmoto.it), unicamente per presa visione, con almeno trenta giorni di anticipo rispetto alla prima manifestazione alla quale l’interessato intenda prendere parte.
+
+- **PRECISAZIONI**
+
+   - Il Certificato di Idoneità Agonistica NON può indicare eventuali limitazioni per attività riservate a soggetti portatori di disabilità e pertanto non di competenza della FMI.
+
+84
+
+85
+
+## Pagina 45
+
+Coperture Assicurative
+
+SMS
+
+- La Licenza emessa potrà indicare eventuali prescrizioni o limitazioni circa il suo utilizzo.
+
+- I piloti affetti da paraplegia/tetraplegia non possono conseguire la Licenza Agonistica, ad eccezione della Licenza Velocità One Event – anche in numero superiore alle due consentite all’art. 21.4 – limitatamente a determinate manifestazioni sportive e/o turni di prove libere in pista, espressamente autorizzate dal STS.
+
+**A partire dal sesto rilascio, non è prevista la corresponsione dell’importo fissato in tabella per la Licenza Velocità One Event.**
+
+- I piloti disabili potranno richiedere la Licenza Velocità Elite all’importo di € 220,00.
+
+# **25. COPERTURE ASSICURATIVE**
+
+La copertura assicurativa legata al possesso di idoneo titolo federale è operante nel rispetto delle clausole previste dal Contratto Assicurativo, la cui Sintesi è pubblicata sul sito istituzionale www.federmoto.it.
+
+Nel periodo compreso tra il 1 ottobre ed il 31 dicembre 2025 i nuovi tesserati e nuovi licenziati per la stagione 2026 godranno delle coperture assicurative previste per l’anno sportivo 2025.
+
+|SMS|339.9958551|
+|---|---|
+|**Sintassi Tessera**<br>**Sport**|Nome-Cognome-T-numero di Tessera Sport (senza barre e S finale)|
+|**Sintassi Tessera**<br>**MiniSport**|Nome-Cognome-T-numero di Tessera MiniSport (senza barre e K finale)|
+|**Sintassi Licenza**|Nome-Cognome-L-numero di Licenza (comprensivo della lettera)|
+|**Quando inviare**<br>**l’SMS**|Prima di iniziare l’attività di allenamento|
+|**Da quando è valido**|Dal momento dell’invio e fino alle ore 24:00|
+|**Per quali specialità**<br>**va inviato**|Per tutte le specialità Offroad, anche se effettuatein impianto|
+|**Quando NON va**<br>**inviato**|Turni di Prove Libere di Velocità;<br>Manifestazioni competitive;<br>Allenamenti collegiali gestiti dai Tecnici Federali|
+|**Costo**|Possibile costo extra bundle: verificare con il proprio operatore telefonico|
+|**Risposta**|Solo in caso di incongruenze/anomalie, l’utente riceve un sms di avviso<br>per mancata attivazione della copertura assicurativa|
+
+
+In caso di infortunio avvenuto in allenamento e/o in manifestazioni, la denuncia deve essere effettuata dal diretto interessato o dai familiari, secondo le modalità indicate nel Contratto Assicurativo al quale si rimanda.
+
+Di seguito vengono riportati dei principi generali per le attività di allenamento:
+
+- IMPIANTO/CIRCUITO: deve essere provvisto di Omologa FMI
+
+- Qualsiasi attività di allenamento effettuata in impianti, al di là della specialità praticata in quel momento, deve avvenire in impianti/circuiti omologati dalla FMI.
+
+- ORGANIZZATORE: Moto Club o Società in possesso di Licenza di Organizzatore
+
+- • INVIO SMS per le specialità del Fuoristrada
+
+86
+
+87
+
+## Pagina 46
+
+FMI2026
+
+MyFMI
+
+## Pagina 47
+
+Procedure
+
+# MyFMI
+
+# **PROCEDURE**
+
+**Profilo** - riepilogo dati personali del tesserato:
+
+- **I miei dati**
+
+# **26. PORTALE MYFMI**
+
+MyFMI è la piattaforma della FMI dedicata a tutti i tesserati, tramite la quale è possibile accedere a specifici servizi. Il portale è accessibile attraverso:
+
+- sito _https://myfmi.federmoto.it_
+
+- home page _federmoto.it_ - voce “MyFMI” (in alto a destra in arancione)
+
+- home page del sito _https://sigma.federmoto.it_ – voce iscrizioni: dal portale Sigma, per effettuare l’iscrizione alle manifestazioni, il tesserato verrà indirizzato alla pagina di login del portale MyFMI
+
+   - I dati anagrafici non possono essere modificati: se si riscontrano errori, è necessario cliccare sulla voce “Clicca qui”, attraverso la quale si viene indirizzati alla pagina di richiesta di revisione dati
+
+      - L’e-mail di richiesta verrà inviata all’ufficio Tesseramento e al proprio Moto Club
+
+   - Gli altri dati (residenza, corrispondenza, contatti, attività di interesse e consensi privacy per ricevere le comunicazioni FMI) possono essere modificati autonomamente (le modifiche effettuale aggiorneranno automaticamente anche l’anagrafica presente nel sistema gestionale del tesseramento)
+
+- **Consensi privacy**
+
+È possibile gestire autonomamente i consensi per l’utilizzo dei propri dati
+
+Si ricorda ai possessori di Licenza FMI che per effettuare la registrazione al portale MyFMI o recuperare le credenziali di accesso è necessario inserire il <u>numero di Tessera</u> e non il numero di Licenza.
+
+- **FUNZIONALITÀ DI MYFMI CON TESSERA FMI IN CORSO DI VALIDITÀ**
+
+Al primo accesso verrà richiesto di confermare i dati anagrafici: si raccomanda di verificare i dati anagrafici e di confermarli. Qualora uno o più dati anagrafici siano errati, è necessario contattare il Moto Club per la correzione (i dati vengono acquisiti automaticamente dal sistema gestionale del tesseramento). È possibile modificare autonomamente i dati di residenza ed i propri contatti. Effettuato l’accesso, la pagina di MyFMI presenta sezioni e servizi:
+
+**Bacheca** - riepilogo dati del Tesserato:
+
+# **Tesseramento**
+
+   - **Tessera digitale** – consente di:
+
+      - visualizzare la Tessera federale digitale valida per la stagione sportiva in corso
+
+      - - inserire la propria foto sulla Tessera seguendo la procedura descritta
+
+      - - inviare la Tessera in formato pdf al proprio indirizzo email, in modo tale da visualizzarla sullo smartphone/tablet ed, eventualmente, stamparla
+
+      - - visualizzare lo storico delle Tessere
+
+   - **Tesseramento online Moto Club** – consente di:
+
+      - effettuare il tesseramento tramite un Moto Club aderente al servizio “Tesseramento online” (per maggiori dettagli si rimanda all’art.9)
+
+   - **Tesseramento Moto Club Italia – consente di:**
+
+      - effettuare il tesseramento con il Moto Club Italia (per maggiori dettagli si rimanda all’art.14)
+
+- Nome, cognome e data di nascita
+
+- Moto Club di appartenenza
+
+- Tessera federale
+
+- Licenza Agonistica (se in possesso del tesserato)
+
+- Numero di Moto iscritte al Registro Storico FMI (se in possesso del tesserato)
+
+- Numero di iscrizioni a Campionati o manifestazioni motociclistiche (alle quali il tesserato sia eventualmente iscritto)
+
+**Licenze** - consente di:
+
+- inserire la propria foto sulla Licenza seguendo la procedura descritta
+
+- inviare la Licenza in formato pdf al proprio indirizzo email, in modo tale da visualizzarla sullo smartphone/tablet ed, eventualmente, stamparla
+
+- visualizzare lo storico delle Licenze
+
+- richiedere la Licenza Open e consultare lo stato della richiesta
+
+90
+
+91
+
+## Pagina 48
+
+Registrazione e recupero credenziali
+
+# MyFMI
+
+# **Hobby card**
+
+In questa sezione è possibile visualizzare e scaricare la propria Hobby Card.
+
+# **Servizi effettuati**
+
+In questa sezione vengono elencati i servizi effettuati nella qualità di Addetto al percorso o Addetto Zona Trial.
+
+# **Convenzioni**
+
+In tale sezione vengono elencate le aziende partner della FMI. Cliccando sul nome dell’azienda e seguendo le procedure descritte ciascun Tesserato/Licenziato potrà usufruire di agevolazioni e scontistiche dedicate.
+
+**Moto d’epoca** – consente di:
+
+- Iscrivere la propria moto d’epoca al Registro Storico FMI, richiedere i servizi per moto già iscritte e consultare lo stato di avanzamento delle richieste
+
+- Visualizzare tutte le proprie moto iscritte al Registro Storico FMI
+
+- Sottoscrivere la polizza assicurativa per moto iscritte al Registro Storico FMI
+
+# **Motocavalcata**
+
+Tramite questa sezione è possibile iscriversi alle manifestazioni relative alla specialità "Motocavalcata".
+
+# Manifestazioni
+
+È la sezione specifica attraverso la quale Tesserati e Licenziati possono iscriversi a Campionati e/o a singole manifestazioni/gare attraverso un collegamento diretto sul portale SIGMA.
+
+# **Laboratorio di formazione**
+
+In questa sezione è possibile visualizzare ed iscriversi ai corsi di formazione organizzati dalla FMI.
+
+- **FUNZIONALITÀ DI MYFMI PER NON TESSERATI**
+
+   - Non essendo tesserati alla FMI, il portale è operativo a funzionalità ridotte. È consentito:
+
+   - visualizzare i propri dati anagrafici
+
+   - effettuare il tesseramento online ai Moto Club che aderiscono al servizio “Tesseramento online” (per la cui procedura si rimanda all’art.9)
+
+   - Effettuare il tesseramento con il Moto Club Italia (cliccare su _Tesseramento_ c _Tesseramento Moto Club Italia_ )
+
+- **FUNZIONALITÀ DI MYFMI PER POSSESSORI DI TESSERE ONE DAY**
+
+Il portale è operativo a funzionalità ridotte. È consentito:
+
+- visualizzare i propri dati anagrafici
+
+# **Allenamenti**
+
+È la sezione da cui è possibile la prenotazione di allenamenti in impianto omologato FMI.
+
+# **Turismo**
+
+Tramite questa sezione è possibile iscriversi alle manifestazioni mototuristiche e scaricare la APP dedicata.
+
+- visualizzare la Tessera One Day valida per la singola giornata
+
+- effettuare il tesseramento online ai Moto Club che aderiscono al servizio “Tesseramento online” (per la cui procedura si rimanda all’art.9)
+
+- Effettuare il tesseramento con il Moto Club Italia (cliccare su _Tesseramento_ c _Tesseramento Moto Club Italia_ )
+
+- Iscriversi alle manifestazioni consentite con la Tessera Member One Day
+
+# **Corsi di formazione**
+
+- **Elenco corsi** : è possibile iscriversi ai corsi di formazione organizzati dalla FMI
+
+- **Le mie iscrizioni:** è possibile consultare i corsi ai quali ci si è iscritti
+
+92
+
+93
+
+## Pagina 49
+
+<!-- Start of picture text -->
+FMI2026<br><!-- End of picture text -->
+
+Importi servizi e modalità di pagamento
+
+## Pagina 50
+
+Importi, servizi e modalità di pagamento
+
+Importi, servizi e modalità di pagamento
+
+# **27. IMPORTI SERVIZI E MODALITÀ DI PAGAMENTO**
+
+Di seguito i servizi erogati dalla FMI Sede Centrale: i versamenti relativi le Licenze dei piloti stranieri, le Licenze internazionali e le modifiche inerenti la denominazione del M.C. devono essere effettuati a mezzo bonifico bancario sul seguente IBAN:
+
+**IT 47 U 01005 03309          000000010102**
+
+||||**MODALITÀ DI**|**PAGAMENTO**||
+|---|---|---|---|---|---|
+|**SERVIZIO**|**IMPORTO**|||||
+|||**BONIFICO**|**CARTA DI**<br>**CREDITO**|**BANCOMAT**|**UTILIZZO**<br>**CREDITO**|
+|TESSERA MEMBER MC ITALIA|80,00||X|||
+|LICENZA MINIOFFROAD E MINIROAD PILOTI STRANIERI|60,00|X||||
+|LICENZA FUORISTRADA NAZIONALE  PILOTI STRANIERI|200,00|X||||
+|LICENZA FUORISTRADA REGIONALE PILOTI STRANIERI|100,00|X||||
+|LICENZA FUORISTRADA REGIONALE ONE EVENT PILOTI STRANIERI|40,00|X||||
+|LICENZA FUORISTRADA NAZIONALE  ONE EVENT PILOTI STRANIERI|80,00|X||||
+|LICENZA ASSISTENTE TRIAL PILOTI STRANIERI|90,00|X||||
+|LICENZA VELOCITÀ PILOTI STRANIERI|200,00|X||||
+|LICENZA VELOCITÀ ELITE PILOTISTRANIERI|450,00|X||||
+|LICENZA VELOCITÀ ELITE FEMMINILE PILOTI STRANIERI|200,00|X||||
+|LICENZA VELOCITÀ ELITE PILOTI DISABILI STRANIERI|220,00|X||||
+|LICENZA VELOCITÀ ONE EVENT PILOTI STRANIERI|80,00|X||||
+|ESTENSIONE FUORISTRADA-VELOCITÀ PILOTI STRANIERI|40,00|X||||
+|LICENZA E-BIKE PILOTI STRANIERI|40,00|X||||
+|LICENZA E-BIKE ONE EVENT PILOTI STRANIERI|10,00|X||||
+|LICENZA OPEN|50,00||X|||
+|LICENZA INTERNAZIONALE|~~*~~|X||||
+|MODIFICA DENOMINAZIONE MOTO CLUB|100,00|X||||
+
+
+*** Gli importi delle Licenze Internazionali sono riportati sul sito www.federmoto.it.**
+
+I dettagli relativi al pagamento delle Tessere Member One Day e Sport One Day saranno disponibili sul Sistema Informativo federale e/o MyFMI.
+
+96
+
+97
+
+## Pagina 51
+
+Importi, servizi e modalità di pagamento
+
+Importi, servizi e modalità di pagamento
+
+Di seguito i servizi erogati dai Comitati Regionali: i versamenti relativi alle quote di Affiliazione, Riaffiliazione, Tesseramento e Licenze Agonistiche devono essere effettuati mediante accredito sul conto corrente bancario del competente Co.Re. con l’indicazione della causale di versamento.
+
+Nei seguenti Comitati Regionali: Abruzzo, Basilicata, Calabria, Campania, Emilia R., Friuli V.G., Lazio, Liguria, Lombardia, Marche, Molise, Piemonte, Puglia, Sardegna, Sicilia, Toscana, Umbria, Valle D'Aosta, Veneto il pagamento può anche essere effettuato tramite postazione POS mediante Carta di Credito o Bancomat.
+
+# **Codice IBAN Conti Entrate Comitati Regionali**
+
+|**IT   38   P   0 3 0 6 9    0 3 2 1 5   1 0 0 0 0 0 0 1 6 3 8 6**|
+|---|
+
+
+||||**MODALITÀ DI PA**|**GAMENTO**||
+|---|---|---|---|---|---|
+|**SERVIZIO**|**IMPORTO**|**BONIFICO**|**CARTA DI**<br>**CREDITO**|**BANCOMAT**|**UTILIZZO**<br>**CREDITO**|
+|AFFILIAZIONE|200,00|X|sede Co.Re.se previsto|sede Co.Re.se previsto|X|
+|RIAFFILIAZIONE|100,00|X|sede Co.Re.se previsto|sede Co.Re.se previsto|X|
+|TESSERA MEMBER|40,00|X|X|X|X|
+|**TESSERA** **SPOR** **T**|120,00|X|X|X|X|
+|TESSERA MINISPORT|35,00|X|X|X|X|
+|LICENZA MINIOFFROAD E MINIROAD|60,00|X|X|X|X|
+|LICENZA FUORISTRADA NAZIONALE|200,00|X|X|X|X|
+|LICENZA FUORISTRADA REGIONALE|100,00|X|X|X|X|
+|LICENZA FUORISTRADA REGIONALE ONE EVENT|40,00|X|X|X|X|
+|LICENZA FUORISTRADA NAZIONALE  ONE EVENT|80,00|X|X|X|X|
+|LICENZA ASSISTENTE TRIAL|90,00|X|X|X|X|
+|LICENZA VELOCITÀ|200,00|X|X|X|X|
+|LICENZA VELOCITÀ ELITE|450,00|X|X|X|X|
+|LICENZA VELOCITÀ ELITE FEMMINILE|200,00|X|X|X|X|
+|LICENZA VELOCITÀ ELITE PILOTI DISABILI|220,00|X|X|X|X|
+|LICENZA VELOCITÀ ONE EVENT|80,00|X|X|X|X|
+|ESTENSIONE FUORISTRADA-VELOCITÀ|40,00|X|X|X|X|
+|LICENZA E-BIKE|40,00|X|X|X|X|
+|LICENZA E-BIKE ONE EVENT|10,00|X|X|X|X|
+
+
+98
+
+99

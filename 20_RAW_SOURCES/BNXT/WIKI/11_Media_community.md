@@ -1,0 +1,169 @@
+# 11_Media_community
+
+- [10 Things…living with the 2024 KTM EXC 250](../RAG/bnxt-18f4a433f5eec4140c6ab96fa50b373c67d1128378ab61e4676c74fe5fed4fc3.md) — RAG_FONTI
+- [2025 Red Bull Romaniacs Prologue Adventure Ultimate Class Onboard – Yamaha Tenere 700](../RAG/bnxt-d780935e54370520f2e5e5f48152f5effd2a554fc0f484fd5ff258fd1e51048e.md) — RAG_FONTI
+- [2026 Beta X-Pro Enduro model line-up test video](../RAG/bnxt-97f2ba6ddccfd0b6a4eab86dcfd031cee381c3bba1e3ea8baec514d03d1ee907.md) — RAG_FONTI
+- [2027 Beta RR Race line-up: Tech tweaks and motor revisions across the eight-bike range](../RAG/bnxt-7b5c4fc8091ed9e30b2b120cd866ae2662ce64f75c400cd4aee394249a1751d9.md) — RAG_FONTI
+- [2027 FIM EnduroGP calendar announced: eight rounds and Isle of Man debut](../RAG/bnxt-7334795aaa970b6e20e4ff5e332360a3971bab261f89379537b730d58927b51e.md) — RAG_FONTI
+- [2027 Husqvarna TE 300 Pro and FE 350 Pro revealed](../RAG/bnxt-f08bcd0a65431e349cf27e9908054183e103d898a80eec9716bdcea77e55b96d.md) — RAG_FONTI
+- [2027 KTM 6DAYS range revealed ahead of centenary ISDE](../RAG/bnxt-04acccf23f49e8549524a53aba1b73e4ab24e433b833d13923ec8cb0b2e561bd.md) — RAG_FONTI
+- [574 Days Between EnduroGP Wins for Brad Freeman and Beta](../RAG/bnxt-3111e9f20074a87b698e77d546a03311c5ad560445405d64f57a9bd8b6cdb32e.md) — RAG_FONTI
+- [Abonnements Enduro Magazine - Boutique CPPRESSE](../RAG/bnxt-5163c1a79de90637b5d0f41282ffb1b3a2bd07777e1cd20193d7248b1782f0ca.md) — RAG_FONTI
+- [adventure-rally-bikes](../ALTRI_DOCUMENTI/bnxt-f946c0a94188fcf56f49403a2a1775f1f72f53d4a1e2ecaaca2c8a774d6e066a.md) — INDICI
+- [Archives des enduro extrême - Enduro Magazine](../RAG/bnxt-9c4dcaad3c6675ec27cf94f81e814b8ad2d19fa5fcf3a7d536c92d5317b41708.md) — RAG_FONTI
+- [Archives des endurogp - Enduro Magazine](../RAG/bnxt-299cb8a5b585063565c7aa191d77b6bb47f8a3760f13838019547c53e101f683.md) — RAG_FONTI
+- [Archives des Enduromag Days - Enduro Magazine](../RAG/bnxt-ad25afa5e565cdaaf9cb790e57b984fc99f62d54e41f3eb55a14d9a423d12c60.md) — RAG_FONTI
+- [Archives des Hard Enduro - Enduro Magazine](../RAG/bnxt-6b5a6e4d85bda61738bb0b0afbaab3db20f21e27dfe650a86c01a9326e87ea45.md) — RAG_FONTI
+- [Archives des hard enduro - Enduro Magazine](../RAG/bnxt-e3e5a868f1e074a91e772b70eca5846db930e45a555558264a3b1c088a702dfc.md) — RAG_FONTI
+- [Archives des Magazine - Enduro Magazine](../RAG/bnxt-1fab8723dbbc82aced0bf75fde5535954105ece6fd01fa8e6195a146399e6ca7.md) — RAG_FONTI
+- [Archives des Matos - Enduro Magazine](../RAG/bnxt-5948eee940a1125957ce73764d091c15ca9d556e190c4588187697787112711e.md) — RAG_FONTI
+- [Archives des Rallye - Enduro Magazine](../RAG/bnxt-99ae8a71c673d97c77bf355b27c70ac9c2ea51252eaf2d1119431a70d92f4b6c.md) — RAG_FONTI
+- [Archives des Scène internationale - Enduro Magazine](../RAG/bnxt-46e553b3c6bc0d31cd51438ba26e13bd1b4988c843c1755d1ae6286a06cebd00.md) — RAG_FONTI
+- [ASSOLUTI D’ITALIA & COPPA ITALIA ENDURO](../RAG/bnxt-6b4d5affb7b8dbf650922e1e1d939934a70b8614ec09159eee982ec2eebe0e22.md) — RAG_FONTI
+- [Aziende - Solo Enduro](../RAG/bnxt-cea86565ea5ad17fbe4ac5f738adade9fece475d0340a1d919e0bcee2dd174f5.md) — RAG_FONTI
+- [Beta axe XTrainer 250 and launch all-new 200 replacement for 2027](../RAG/bnxt-c9c65c728db98bb9908cb67e9431fea6a34d3e5b6aed85203df7476a28f06113.md) — RAG_FONTI
+- [Beta Trofeo Master Enduro - Endurista Magazine](../RAG/bnxt-56e6b42245c57cd7f4989ff7f22d0d3d06f5fab9d365d79cae7016d0368e3a7a.md) — RAG_FONTI
+- [BiiVOUAC - L'aventure Enduro VTT par équipe | FullAttack](../RAG/bnxt-76626f452804d3f4d3f50575409e8bc0e2428ae5cc07ee21d1246c92d19b8ec7.md) — RAG_FONTI
+- [British Enduro](../ALTRI_DOCUMENTI/bnxt-c5589555fc43c4c8d8415e96561d675b8d66fa62a4e65a9c53835a64f508edfd.md) — INDICI
+- [Campionato off-road FMI - Solo Enduro](../RAG/bnxt-87c09b79ef47f3996ff931a84cf27fd3b3e6e9182663819d3ecf5bc3fc46abc1.md) — RAG_FONTI
+- [Campionato Regionale - Solo Enduro](../ALTRI_DOCUMENTI/bnxt-3cae2d3ff4ce25fea7401b912f12c1f2f2ce81e63e800b2988a23da266c6cc33.md) — INDICI
+- [Campionato Regionale - Solo Enduro](../ALTRI_DOCUMENTI/bnxt-968b608f0c3a76679938365148d9e7b90fb66c2be82fb10ece3126ce46e307dd.md) — INDICI
+- [Chris Birch builds a Unicorn KTM 500 “ultimate all-rounder”](../RAG/bnxt-0faf045476d37817d110e64164043241d084aaff66f40a278b91d02e7ba47821.md) — RAG_FONTI
+- [Compétitions Enduro 2026-2027 Calendrier sport](../RAG/bnxt-adb993880e3a826fdb98ff0a7bd8a538ec81016be23260d4ca00d9a7efeef23b.md) — RAG_FONTI
+- [CP Presse - Apps on Google Play](../RAG/bnxt-8c4b22661b9b767cdbc6dd91105acc2536cc414f035db4c352c29c448e7e8e98.md) — RAG_FONTI
+- [CRF 450 RALLY 2025 - Endurista Magazine](../RAG/bnxt-0538e6465841b0171dd64b6d9cdcfcdd4911384d031ef2baa606456a286a0269.md) — RAG_FONTI
+- [Cross - Solo Enduro](../RAG/bnxt-240d40b913a008d77a942b4850694c4ebb0c153fc158e0303fa3102855453508.md) — RAG_FONTI
+- [daily 5 nov 2013.pdf](../RAG/bnxt-c42989b9be91ca31c531bc2fd4c4d6b0c1928bae3f6f1d497c55f8712c642abe.md) — RAG_FONTI
+- [Ducati sale rumours - Is Volkswagen preparing to part ways?](../RAG/bnxt-9e68edd7f1e52483e805a4638b538ee59475630fbfab619b54f3392823ac1416.md) — RAG_FONTI
+- [ECCO PERCHé ADORO L'ENDURO - Endurista Magazine](../RAG/bnxt-e6dd58e4de5e50c6fbbee567ab972db3a5fb188e77063315a6060675c2ec64c8.md) — RAG_FONTI
+- [Electric Motion overhauls Escape R with bigger battery and new motor](../RAG/bnxt-e42124ffac32ef19ff93c76e8de6490089308265d5cf2160eb300ea8042a6f09.md) — RAG_FONTI
+- [ENDURO - Magazine des enduristes et randonneurs](../RAG/bnxt-ab5392423bb00c85e271c8a229695efbe436f5ad09aef6fdc7c536a62e262751.md) — RAG_FONTI
+- [Enduro - Solo Enduro](../RAG/bnxt-df19108cafa3cfec1b3838abe3f0cbd52f51b8aa2e9389193b7dd8d89040e393.md) — RAG_FONTI
+- [Enduro Action - Homepage](../ALTRI_DOCUMENTI/bnxt-fc3da16fde2ddcd6f040f965039ea17a518706cba7fb3710479de6e7ba04ab92.md) — INDICI
+- [Enduro Action rivistra di enduro - Moto4 rivista di quad](../ALTRI_DOCUMENTI/bnxt-ba06a950a796a2a3785c49719ada80e3ce636394fb55236459244e7faf348edb.md) — REVISIONE_CONTENUTO
+- [Enduro Classic n°10 en approche ! - Enduro Magazine](../RAG/bnxt-5f71063fbab1405cb1745cc7a7a96b76956ae66ac16fa1b3812649790a75fa3f.md) — RAG_FONTI
+- [Enduro Classic n°11 - Boutique CPPRESSE](../RAG/bnxt-5358e880322fd70d456b8775c84d349f9aada71b8b0b2f45eba514b385b17608.md) — RAG_FONTI
+- [Enduro Classic n°11 : le hors-série rétro de l'été fait son retour ! - Enduro Magazine](../RAG/bnxt-f957efe8cb5a953c1b73cb20c6e4e0ef7cdcb83f9486b54eeaa048a5cba26985.md) — RAG_FONTI
+- [Enduro Mag Days 2026 : ça passe en électrique ? - Enduro Magazine](../RAG/bnxt-ef25f49f2fe8591fbfb7e10f8a48d1576dabf4ded7c546b7fe760105a25abb3d.md) — RAG_FONTI
+- [Enduro Magazine - Boutique CPPRESSE](../RAG/bnxt-45163668623f98797ff43d2e3def9888c3332eabc425c44c4c93e77d0c87c879.md) — RAG_FONTI
+- [Enduro Magazine - Essais](../RAG/bnxt-7f246e79eb63f743e7b087713fe9339d0ae5db491a465e29053145aa716b8274.md) — RAG_FONTI
+- [Enduro Magazine - Le magazine moto 100% enduro, raid et rallye](../ALTRI_DOCUMENTI/bnxt-b50e157b75b32c57ccc23ff2837b20af5b220280ff8420d7a159055d5525a80d.md) — INDICI
+- [Enduro Magazine N°134 est arrivé ! - Enduro Magazine](../RAG/bnxt-bbb5fc66dc27f4723fb0e873c8d170aa278927b7fc945170a4b4ccc447e299cd.md) — RAG_FONTI
+- [Enduro Magazine n°140 - Boutique CPPRESSE](../RAG/bnxt-bd79cab7be3673123ccc9f1d35ada464ed4fcb55f5375d3ca9a56083de5347cc.md) — RAG_FONTI
+- [Enduro Magazine n°140 : le nouveau numéro en kiosque - Enduro Magazine](../RAG/bnxt-932a54e2720fd381b9628373d2a1eb827553f31a74b7193a14767a1ef66bad27.md) — RAG_FONTI
+- [Enduro Magazine vous donne rendez-vous au Salon du 2 Roues de Lyon - Enduro Magazine](../RAG/bnxt-6e7ad13c0f91ef3ca6e8087b58c6db7332d1329eeb3b3abaad720338b041fcf1.md) — RAG_FONTI
+- [Enduro Magazine vous donne rendez-vous au Salon du 2 Roues à Lyon ! - Enduro Magazine](../RAG/bnxt-fc485a5ce7c2b88d8f41683e5744158a2d3d2293612a3cc8facf1fb3ccc5d3d1.md) — RAG_FONTI
+- [Enduro, quad et tout-terrain : quelle assurance pour rouler hors des routes ? - Enduro Magazine](../RAG/bnxt-5575b58eb4ed73bb2e5c909ed2cf62b0a1fbdc1dd42921449aaca891526e5213.md) — RAG_FONTI
+- [Enduro21 | Bikes](../ALTRI_DOCUMENTI/bnxt-63d8a364abc733de5ac130a14cd4084552f30a3fadabb21395b2ddeb8279f04d.md) — INDICI
+- [Enduro21 | Features](../ALTRI_DOCUMENTI/bnxt-e5a09398753fb4b2fb9af88d9332d94f24944ecf4c45669b5cc3cde22fcd43f7.md) — INDICI
+- [Enduro21 | Gear & Tech](../ALTRI_DOCUMENTI/bnxt-a13f97163dac9b4de4f950553f3e105e05d0c8f8cd82e1519cf4484861fbde13.md) — INDICI
+- [EnduroGP](../ALTRI_DOCUMENTI/bnxt-edddb1b9b58d4e2bccdc650cba519e061920ba52b47cbc463f1e6e8c8655e7c4.md) — INDICI
+- [EnduroGP France: Josep Garcia crowned EnduroGP and E1 World Champion](../RAG/bnxt-95020b15456026affe3a6bf02300ce055427a8412d6df0066765b0e1aa800e25.md) — RAG_FONTI
+- [EnduroGP France: Zach Pichon dominates at home to win Day 1 in Saint-Agrève](../RAG/bnxt-f04575144fa1f491e086765a9dc47942f9e4472aea0549733851ca352194a987.md) — RAG_FONTI
+- [EnduroGP France: Zach Pichon sends Saint-Agrève wild with Akrapovic Super Test win](../RAG/bnxt-330fb88f6e08c4bace8524ce8e96b01ca1dd4ad3b0effc5a362708a6c21a6dae.md) — RAG_FONTI
+- [Enduromag Days 2026, onzième édition : l'état de plenitude ? - Enduro Magazine](../RAG/bnxt-fac3e51629d4eb98c4434fe82eb47885a81044e12abe2933c15ba4f10177c586.md) — RAG_FONTI
+- [Epoca/G5 - Solo Enduro](../RAG/bnxt-c80ab2bc21c5ec2ab748c7affa54babfa5d2326f6a0995265750358756b931c9.md) — RAG_FONTI
+- [Erzberg Bike Check: Enduro21 Husqvarna TE 250 test mule set-up for the Iron Giant](../RAG/bnxt-99544f30182d9e205fc4e5573709b7384a3c9a1739acd6ee88255113fa44d6f7.md) — RAG_FONTI
+- [Extreme Enduro](../ALTRI_DOCUMENTI/bnxt-7f9e201c59ae7f6646d9647610d564df29b454486eaad9a2c6dd2ea6ffcf6a0d.md) — INDICI
+- [FAQ – Enduromag Days 2026 - Enduro Magazine](../RAG/bnxt-30c04922e7e75784e200b0e158afa7d7e5cfad0428ace00a1e52a97eddca1304.md) — RAG_FONTI
+- [First look: 2026 Red Bull KTM Factory Racing Enduro Team](../RAG/bnxt-9dc4043fc9ae51055c184653971f86ea86f02911ce736d84777c662c5451a500.md) — RAG_FONTI
+- [First test: GASGAS EC 300 GP – the best-looking new bike you can buy?](../RAG/bnxt-6d6c1420b74893c2fbe37ac097572b903cf8a97dd0cdb844b23f828c094cec0c.md) — RAG_FONTI
+- [Five minutes with: Canadian enduro ace Shelby Turner - the next world champion in the making?](../RAG/bnxt-18dea49c12a35d9336e4f151eb1903df1ddb77e7b39cfa75a3242c7c4422f78b.md) — RAG_FONTI
+- [Former KTM marketing boss joins Gravity Sports Group](../RAG/bnxt-5320469ad5be8b3341b4faf80ad7ce7fb342b769cdb35169c6276474da03e959.md) — RAG_FONTI
+- [Galfer expands Triumph partnership for 2026 6DAYS](../RAG/bnxt-8fe2fd6549866d8c5429db7b0ab85a8e4ce6566363da8d991218f698626531e1.md) — RAG_FONTI
+- [Game-changer or gimmick – Ducati's adaptive maintenance system explored and explained](../RAG/bnxt-6c8d42a68881a640666a116cf19e4478f576c44ee3c341ad70e7dc5f131aca71.md) — RAG_FONTI
+- [GASGAS ES 700 dual sport off-road model](../RAG/bnxt-66ee7d45c168c63c91d8278809dff9731a5437e2f80bd94538c03a8bb22b12d1.md) — RAG_FONTI
+- [Grand Rallye VTT - TransVerdon 2026, le rallye All Mountain](../RAG/bnxt-9b5cff0bf5e7f0806d370051e70d12364b67b3faa44f40a11a9f4c1282a893b4.md) — RAG_FONTI
+- [Grand Rallye VTT TransVerdon 2026 : cinq jours de pur VTT en itinérance ! - Enduro Magazine](../RAG/bnxt-b0fec96999ca36f27aa709b4ac34de53c3344f0b6cfa466d78bc6b0690296ee0.md) — RAG_FONTI
+- [Green - Solo Enduro](../ALTRI_DOCUMENTI/bnxt-a380aa1f1ebdd2414f3b253f5294ee5ead9aaf6c1a5e73690e42e32570f08fab.md) — INDICI
+- [Hard Enduro](../ALTRI_DOCUMENTI/bnxt-64c93172384fd93f2e47854433398e309295f38053476ba2cc9fadb342320521.md) — INDICI
+- [Hard Enduro World Championship](../ALTRI_DOCUMENTI/bnxt-4ec2b7d183584de144745d119b7bdba0f36c1cee562d4c4c9344e27a336932b7.md) — INDICI
+- [Hero MotoCorp reveal Dakar Edition 210 Adventure and Vida Dirt.E electric bikes](../RAG/bnxt-ba869db046c3d1eb7830384ab3216aa795aeb547145ba8511480b978686c215d.md) — RAG_FONTI
+- [Homepage - Endurista Magazine](../RAG/bnxt-297b108b4ca9d4e1e456b6722b82a1dc2ba4892ef1e21a5b709ffb26bbbb94bf.md) — RAG_FONTI
+- [Honda and Yamaha pit electric MX bikes head-to-head – enduros to come?](../RAG/bnxt-01898f52a9d059ff41a9c8b056e4e4684efaf3306765105596aa0af7f2e02d2e.md) — RAG_FONTI
+- [Honda celebrates 50 years of Finke Desert Race with tricked-up CRF450RX for customers Down Under](../RAG/bnxt-9cab08cca560ebe507fb4ab6784cfd65465e3139a38c433eb5e9e270f6c1ff37.md) — RAG_FONTI
+- [Honda Montesa 4Ride returns for 2027 - full specs and price revealed](../RAG/bnxt-b5d8bfec311a316396573f44a032a3143f21d066d88d5acf2d5099b2ff35ef92.md) — RAG_FONTI
+- [Kove's new 350 Rally could unlock the world's biggest bike market](../RAG/bnxt-059863e19c914f2a1ab37e4a003af76f42d6784f0e5507cfd7bdf2e9313af2ad.md) — RAG_FONTI
+- [KTM 690 RALLY 2027: READY TO START? - Endurista Magazine](../RAG/bnxt-b73d868e09e5beb70c5f74ec9ab14863c6861c0a52a06b03fa9d1600cfaf8437.md) — RAG_FONTI
+- [KTM and Husqvarna expand electric ranges with fresh junior models](../RAG/bnxt-be6c59171650625ec5885bbb67f8077afb99cf7e66f3ebb07725a6249faf62de.md) — RAG_FONTI
+- [KTM hints at incoming 350 EXC two-stroke – and confirms 250 resurrection](../RAG/bnxt-ac300c5b91a63891d0e530b237bc2344d57871137b044d9be1e0be445546ab42.md) — RAG_FONTI
+- [KTM’s 2027 300 EXC HARDENDURO is back – here’s what you get](../RAG/bnxt-fda31cd774ad74c0cb18bc2fd5e6b03dd90d00a678cf9eee88c2cd418a8c26c2.md) — RAG_FONTI
+- [LA POLITICA NON FA ENDURO - Endurista Magazine](../RAG/bnxt-5602285226711fa0ffd379f13ade809cf7f38459d1b7c3d3589cfbde42970dcf.md) — RAG_FONTI
+- [La targa e l'Enduro! - Endurista Magazine](../RAG/bnxt-6dc2a223d07642056d0b2cfbece60f17f3e9570a5826822a947c19a4a81ebd10.md) — RAG_FONTI
+- [Les 9 meilleurs sites pour s'équiper en moto et enduro - Enduro Magazine](../RAG/bnxt-06d9c7738075b411b5c83321d75e77cb37227929824f8f60f2a92488f093c57f.md) — RAG_FONTI
+- [Long term test: Saying hello to our new, 2026 Yamaha WR250F](../RAG/bnxt-23cad18354736e3f0740594c644235ded4b9a97f17145f8f61d12e81cf6dbff6.md) — RAG_FONTI
+- [Love them or loathe them? Five electric enduro bikes we’re excited about in 2026](../RAG/bnxt-7c326e8bec3692af48c2b485efe49de8114fa6eb8d962907ab5166e94a50f530.md) — RAG_FONTI
+- [Marocco Desert Motoraid - Endurista Magazine](../RAG/bnxt-578ba8b9c334592e24c80723370d68c2b2f117e907086261c22a72c94361cda2.md) — RAG_FONTI
+- [MAROCCO DESERT MOTORAID - Endurista Magazine](../RAG/bnxt-abe22f15db31a66f40bd10716d4de3a9ce06aecd57b616c4f7216867dc1ebf49.md) — RAG_FONTI
+- [Metzeler Karoo™ 4, con la Tiger 1200 RaLLY PRO - Endurista Magazine](../RAG/bnxt-dd54ee9866a0cd803b00cc5c025ac65d046dead0e269c524d80220291fdbbdb4.md) — RAG_FONTI
+- [METZELER, PNEUMATICI DA enduro - Endurista Magazine](../RAG/bnxt-7bfaa1efd3c1a992196698fdce221e56d112f7ef3e01cfc1ef69eb4a517b116d.md) — RAG_FONTI
+- [MOTOAPPENNINICA 2024 - Endurista Magazine](../RAG/bnxt-8b22b5985fb49964b16a3e913be93c20f0855d122f93d93fbcc6c063c9cb079d.md) — RAG_FONTI
+- [Motocross Sito Ufficiale - News & Rivista - Motocross.it](../RAG/bnxt-db2127cce5e206986af424b7876ee60dc5f336e6ede0367c62cbdb9c21653f96.md) — RAG_FONTI
+- [MOTOMORINI X-Cape 650 - Endurista Magazine](../RAG/bnxt-ce1114d314bfeb0a01757e42f62b46a17c2f0745a05488ba25a2eba4992dcb6b.md) — RAG_FONTI
+- [Motorally & Raidtt - Solo Enduro](../ALTRI_DOCUMENTI/bnxt-ff97b3730c58e4799a374d0f7f3f8832f1a4fc63ee101decceb518e64fdf4dfd.md) — INDICI
+- [Motorally - Solo Enduro](../RAG/bnxt-bd8993231b57f874e446c4b6fce69a49038bf829c59a0217de81ede2715620dc.md) — RAG_FONTI
+- [NATA PER L'ESTREMO: KTM 300 EXC HARDENDURO 2027 - Endurista Magazine](../RAG/bnxt-36260a04c0895a26c0e82bcbd919a585672e48509bf4033d7e0ffa7d06fb8bf6.md) — RAG_FONTI
+- [NEW RATRACE, DECIMA EDIZIONE - Endurista Magazine](../RAG/bnxt-a76243866718bf92c757f1418e148c077e1d1239ce1d73fdca151e5ee0b01672.md) — RAG_FONTI
+- [News - Endurista Magazine](../RAG/bnxt-d4d94c68655939e328d1a9399efb67e5979e80fdc57c5861b0c1dccd5592b82f.md) — RAG_FONTI
+- [News - Solo Enduro](../RAG/bnxt-83f1c3e8ac18d3bbfa5d5e4afb555a22bf78ac2ba2e99b0f2de3e73ded363694.md) — RAG_FONTI
+- [News Archivi - Endurista Magazine](../ALTRI_DOCUMENTI/bnxt-25f03567ba0fe939006ff2a445806c338f8e5b8d6356f4ed70d8feacd8994bf9.md) — INDICI
+- [Newsletter Solo Enduro](../ALTRI_DOCUMENTI/bnxt-345df009ac08590d6a31f0629bdf8c17b4c10ace5c024115be0cf6dcaca082f7.md) — DA_RECUPERARE
+- [OLIMPIA RALLY - Endurista Magazine](../RAG/bnxt-42b640e2fea2fc45403f764fd957a6f0a3f1596771c6f24243b0d31bb369a98c.md) — RAG_FONTI
+- [Only Enduro - The #1 source for Enduro and Off-Road news](../RAG/bnxt-7a1c6f12ec8708fa4e20ef09b8132c28d39d447e03c6e163c79f90b78969a7f6.md) — RAG_FONTI
+- [orari teorici.pdf](../RAG/bnxt-e3d84443fe89febaa103c643874171bfac0d4e96186fe4328b4bebb41e03a001.md) — RAG_FONTI
+- [Outsiders Academy : bilan de la saison Enduro Kid 2026 - Enduro Magazine](../RAG/bnxt-59772879510766d6761a657d78326765867147c0b786d5de09062eca864843bc.md) — RAG_FONTI
+- [Petit rouleur à moto : ce qu'Allianz met en avant quand votre deux-roues sort peu - Enduro Magazine](../RAG/bnxt-140623e870899a9ab5b5a2bee06898cb81337404009131b9d2db5e3e1aa844f8.md) — RAG_FONTI
+- [PILLOLE DI ENDURO - Endurista Magazine](../RAG/bnxt-d93c408bed1af181d92ec5c2a1f44ed8c38f9b2cc99e757a32809fc54c9065fc.md) — RAG_FONTI
+- [Politique de confidentialité - Enduro Magazine](../RAG/bnxt-fca254f05e2db70f8816fa5253d3e8b7e77367763a463c72ab2d6da79076f508.md) — RAG_FONTI
+- [Pro Bike Gallery: First look at Billy Bolt’s 2026 Husqvarna Factory Racing TE 300](../RAG/bnxt-86b8196ccae4e4da350b5567587348a1e3b99f1d4c5c9ef2a55d4ef078d5dce6.md) — RAG_FONTI
+- [Pro Bike Gallery: First look at Mani Lettenbichler’s 2026 KTM 300 EXC Race Bike](../RAG/bnxt-0f16e663d319d0f1557826f42e3e54154c1cbd509f9ef80b881f99b473ed0a7a.md) — RAG_FONTI
+- [Pro Bike: 2025 Yamaha Tenere 700 GYTR Race Bikes – how good does this look!](../RAG/bnxt-518a67628912dfb48a712dd93efd76da8f7e4c3be2b4fe7c6d1a6c015494b75d.md) — RAG_FONTI
+- [Pro Bike: 2026 Yamaha Tenere 700 Rally Race Bike – Built upon Dakar history](../RAG/bnxt-3dcbcfa2b0811ec606cab0b58518e522dfe646df4377bf4a689338fe17bc4a5c.md) — RAG_FONTI
+- [Pro Bike: Josep Garcia Walkaround Tour of his 2026 Red Bull KTM 250 EXC-F](../RAG/bnxt-6bd9dc46a49f3e8df4f353fe38a55336743c64f3a58d99494151f9ef97e6c883.md) — RAG_FONTI
+- [Pro bike: Mario Román's Romaniacs-winning CFMoto 450MT](../RAG/bnxt-6e8f9af1e9316a4d438234beae65a60cd8860a223e56524734828565e3988803.md) — RAG_FONTI
+- [Pro bike: Zachary Pichon’s 2026 TM 300FI EN – the fastest bike in the GP paddock that isn't orange](../RAG/bnxt-3bd01d97d1f1e9601226445e9caf5f209e89c26248b5837a2c715bc5a139a18d.md) — RAG_FONTI
+- [Prossimi Eventi › Gare › Gare Singole ›  – Solo Enduro](../RAG/bnxt-9c6bb1b1aa2aea08f990bf11c27ed4e5257cb3dcd4a7260a17164b55bafd7de8.md) — RAG_FONTI
+- [Quick look: Rieju Aventura Rally 307 and new fuel injected MR 300i enduro two-stroke](../RAG/bnxt-87321617feb4270a42d66901433438577af8ebaaf910271b45e832d454f98b61.md) — RAG_FONTI
+- [Race prep: Enduro21’s KTM 350 EXC-F gets ready for a 3hr Cross-Country](../RAG/bnxt-c2a73fe9e1286b9a1eb0cb5cc2b95b48c8966156b7bb9efbf4ee4c5a410c1d2a.md) — RAG_FONTI
+- [Radian EXR – 70hp electric enduro bike with 30-second battery swaps](../RAG/bnxt-af9ad51b07308f3982759fb62d95eed39197e8edb996adf872576a7007340816.md) — RAG_FONTI
+- [Rally](../ALTRI_DOCUMENTI/bnxt-b679d4eff0d0884623726dde2689dd15f23c06292d38e9a8ca798f7ae3c3e0c8.md) — INDICI
+- [Rallye : l'Américain Skyler Howes rejoint ZXMoto - Enduro Magazine](../RAG/bnxt-1f8a6bfc41897706e4b37224917ba6c363454e7576dcfc1eb9027606a3813549.md) — RAG_FONTI
+- [Raven joins centenary 6DAYS party with fresh special-edition Ren goggles](../RAG/bnxt-1980af520f87c0d0fa455394898eb0dde5863a16aa7f5c85d1a42c845e85a60b.md) — RAG_FONTI
+- [Real World Testing KTM’s 2024 250 EXC – taking it to the woods](../RAG/bnxt-01a87dae035db0e3361d066ac0367c1bb0d61791bfc2dd82081748dbbad85507.md) — RAG_FONTI
+- [Red Bull Romaniacs | Prologue: Kabakchiev wins Gold as Mario Roman makes history in Adventure Ultimate](../RAG/bnxt-1f0647ed0bed58ab569a185397e297e4508f57701340af6458415c27dbf85bab.md) — RAG_FONTI
+- [Reprogrammation moto : ce que change une nouvelle cartographie - Enduro Magazine](../RAG/bnxt-52009caa9abfb5c02b7548425ab971af3dc90ff44e640d1912e8badc4008851b.md) — RAG_FONTI
+- [Riaan Neveling, nouveau directeur marketing chez GSG - Enduro Magazine](../RAG/bnxt-9722b98dc1eba2303fb3bc361b707c28ff2b6e2569fe3a49329ba4895d51d9ab.md) — RAG_FONTI
+- [Ridefinire il futuro dell’enduro - Endurista Magazine](../RAG/bnxt-f21b81a3c3477eed0224489f0beadd480e1a1632ecc12aa427dd9bd05fd466ec.md) — RAG_FONTI
+- [Rieju MR 300i Hard Enduro 2027: fully equipped and ready to race for €11,199](../RAG/bnxt-4961c9c6dc61f3ce86e660895b4d301c554a4f90b2e1b1c3b4d007abf41fafbe.md) — RAG_FONTI
+- [Rieju start work on new Spanish factory to support model expansion and international growth plans](../RAG/bnxt-0499aff0b51040d3899afd2cec7c32f76b25b45c0f9599bc664f5295ec413793.md) — RAG_FONTI
+- [Rivista](../RAG/bnxt-679ef7519103acf82a59fcdef773acd477ebb1d997437303f3dfdf0de3583187.md) — RAG_FONTI
+- [Romaniacs has an adventure bike class? Let’s go!](../RAG/bnxt-57ccf4154221712a2bfd9cf514fde0d628a0bfb2982c23a1a087d18b2b71d6ab.md) — RAG_FONTI
+- [RR X-PRO – Betamotor S.p.A.](../RAG/bnxt-3ed843ca9dfc8b441f23e7b68301af9c29e266311e7de39876965f9cbd05bc0e.md) — RAG_FONTI
+- [Small changes pay big dividends for Josep García in EnduroGP title fight](../RAG/bnxt-bab6470686a4349dbce457ca83ef3586be8ae84496878a7715c2eaf09561a43a.md) — RAG_FONTI
+- [Solo Enduro - la casa degli Enduristi italiani](../ALTRI_DOCUMENTI/bnxt-9b487363113ef20697c87306f8ab2cfe13c517567983ad07156481708e60c5db.md) — REVISIONE_CONTENUTO
+- [Solo Enduro - Solo Enduro](../RAG/bnxt-3f23d25b28110c2898eaaf73bf1b813141e6d3ff13409476c0eff955884b2182.md) — RAG_FONTI
+- [Solo Enduro - The magazine for Italian enduro riders - English - Solo Enduro](../ALTRI_DOCUMENTI/bnxt-bca2175da852e16b068c58a4e906e2e37599cae4706584725e825119d78f86c4.md) — REVISIONE_CONTENUTO
+- [Stark reveals limited-run VARG Factory Editions](../RAG/bnxt-5e125dfe4eb2990942ed29e472b9a7c54faf513e944f80343b9387d7ee19059d.md) — RAG_FONTI
+- [Stark Varg given ‘highly requested’ new traction control system FOC](../RAG/bnxt-671a6387c3f57c34ee9cd166988921e77c32475c9119e06eef8bd0171dcf3dea.md) — RAG_FONTI
+- [Statistiche Soloenduro - Solo Enduro](../ALTRI_DOCUMENTI/bnxt-31fe9737bfbc45731c92ee5b5b276dcc793c22a329878953bd32d9deffe7bc16.md) — REVISIONE_CONTENUTO
+- [Stivali da Moto Fuoristrada: Motocross, Enduro, Trail | Sidi Sport  – Sidi Sport Srl](../RAG/bnxt-1fbd6bb40dcf51b9e2e900859c30ed6ecc78ec065f39fc69231df92cc399353d.md) — RAG_FONTI
+- [Suzuki DR-Z4S – Ticking the old-school trail bike boxes](../RAG/bnxt-3359c165663102a8a91e558cd3ad43f461db07629118c420094609abfd7e521b.md) — RAG_FONTI
+- [TAURUS GTX Stivali da Turismo: Microfibra morbida e TPU resistente per prestazioni durature | Sidi Sport Srl](../RAG/bnxt-f386a38abe7432ad1c85b711d88eb9aca7844b2842a2424d83d05e7a24acc4db.md) — RAG_FONTI
+- [TEST BETA ENDURO GAMMA 2022](../ALTRI_DOCUMENTI/bnxt-d47107886d24441186d8ff1607e6837d4b09298f2f955c03d530d1d4358918fc.md) — DA_RECUPERARE
+- [Test moto Archivi - Endurista Magazine](../ALTRI_DOCUMENTI/bnxt-11f39eb43c2f8351462ab69e8c605e456d58f59d9ae6b7d848b160cbcad872cb.md) — INDICI
+- [Tested: 2026 Yamaha WR125R Big Thinking Dual Sport Baby](../RAG/bnxt-823703dea02e6c164e09877f112fb9de345d805006e00ab7655716612de469d8.md) — RAG_FONTI
+- [Tested: Ducati Desmo250 MX – Friendly, fast, and mightily impressive](../RAG/bnxt-e0b11d14de5834bd6fa348f89cd9c8e0ee430048397da52a2e19353ff9ea66ce.md) — RAG_FONTI
+- [Tested: Ducati Desmo450 EDS first ride – the new benchmark?](../RAG/bnxt-939fbcb801848e983be95a855e06f1c2659f34448479ac9635a43a3ee0efa3d1.md) — RAG_FONTI
+- [Tested: SR75 Suzuki Off-Road Experience Centre](../RAG/bnxt-a4aae61069776f1dd4a6974c21fca67576e4dec13fc632da78249be2721e4c54.md) — RAG_FONTI
+- [Tested: Yamaha Téneré 700 Extreme – Enhanced Off-road Performance](../RAG/bnxt-6fe403ddda6604ef9f789bc66cd53b055cc58f787b0c52f95b9f09f587638b14.md) — RAG_FONTI
+- [Testing Every 2026 KTM Enduro Model at KTM Off-Road Experience](../RAG/bnxt-453a54cb3a287a672c38f53b93b8e53a0ba2022143fd9e0c167886afbd340d18.md) — RAG_FONTI
+- [Tickets : Enduromag Days #2026 - Billetweb](../RAG/bnxt-8cd53d86b9cc1f744e8252deb48ec89632cbdd822fa3254dc8bc73f8d73c51b8.md) — RAG_FONTI
+- [Trial - Solo Enduro](../RAG/bnxt-05dc8077e331ec598bec4146eba40f6dbd952ba2e808de3bc12af380e064da5a.md) — RAG_FONTI
+- [Triumph ENDURO, ALLA FRUSTA - Endurista Magazine](../RAG/bnxt-9f94fb038734f9234d0ac033cfcda6cba977bf2df1fcbdafc79c6adaa7c0b06c.md) — RAG_FONTI
+- [Turismo - Solo Enduro](../RAG/bnxt-f266e488ed41708b0aa99946e69f154ef391b3e4003f47f3c90e3eb83c33e04e.md) — RAG_FONTI
+- [Video test review of the 2026 Suzuki DR-Z 4S Dual Sport](../ALTRI_DOCUMENTI/bnxt-c6628355a85d99112ec2730fde684cf08d96b3a0aaec85f044e0595cdcfedb5d.md) — INDICI
+- [Video: 2026 Honda RedMoto Enduro Test Review with Steve Holcombe](../ALTRI_DOCUMENTI/bnxt-3c480b3c4b499513265c581bde516a844bdef13cc97c5323a4e4548c756000ba.md) — INDICI
+- [Vidéo : les nouvelles TM Enduro 2027 à l'essai - Enduro Magazine](../RAG/bnxt-08f52934849ab074b6e7b59be504125e649942183a201b6f02673b9f0c29cb5c.md) — RAG_FONTI
+- [VII° MOTORALLY ALTA VALLE DEL TEVERE: UMBERTIDE CHIUDE LA STAGIONE TRICOLORE TRA SPETTACOLO E PASSIONE - Solo Enduro](../RAG/bnxt-8d980427ec7a69aa91599442c393485f1a5cbd70bdeea4660a4de1a226ae02a5.md) — RAG_FONTI
+- [Yamaha announces 2027 WR enduro range with significant 450F changes](../RAG/bnxt-97cc8823c6197cebfb529350dedcf0a458ed9398c678de1ee1155c491f0c92b7.md) — RAG_FONTI
+- [‎CP Presse App - App Store](../RAG/bnxt-e677638012307464751edfc51e3f8ef2ec646bcee84b17ec9cbce6167131b0b8.md) — RAG_FONTI

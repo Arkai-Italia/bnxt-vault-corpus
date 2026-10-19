@@ -1,0 +1,31 @@
+---
+id: "bnxt-e04bbf4512a3ded1671fd133a98aec0cf58425d20a299a1afab7cea7a83ccbc7"
+titolo: "Tread - SXS Edition Owner's Manual - Mounting the Wireless Remote"
+url: "https://www8.garmin.com/manuals/webhelp/GUID-F0AC3576-CD83-465E-983D-7AD585ADB59E/EN-US/GUID-074EA334-C48C-479A-8726-FC749E4E3955.html"
+categoria: "Approfondimenti_web"
+stato: "RAG_FONTI"
+verifica_fatti: "NON VERIFICATO"
+fonti_originali_locali: ["E:\\LIBRI BNXT COLLEGAMENTI GEN\\ORIGINALI_NON_TRATTATI\\FILE\\GEN__d10561b359e2fefaeea74acf.html"]
+sha256_corpo: "b1214ecc89f6e5059fd7256bb35dad4caeb9bf1e38de6fd9d5d1707ead690a2c"
+---
+
+# Tread - SXS Edition Owner's Manual - Mounting the Wireless Remote
+
+# Mounting the Wireless Remote
+
+1. Select an appropriate location for the remote control ([Wireless Remote Mounting Considerations](https://www8.garmin.com/manuals/webhelp/GUID-F0AC3576-CD83-465E-983D-7AD585ADB59E/EN-US/GUID-84827275-92DB-4709-847E-E41323F60C3F.html)).
+2. Test the range at the selected location by holding the wireless remote at the location, pressing a few buttons, and confirming the correct operation.
+3. Thoroughly clean and dry the mounting surface using a mixture of water and isopropyl alcohol.
+
+   The mounting surface must be free of dirt, debris, wax, or coatings.
+4. Place the wireless remote on the mount, and rotate the remote until you hear a click.
+5. Remove the backing from the adhesive.
+6. Carefully orient the wireless remote in the mount with the
+   Fusion® logo at the bottom.
+
+   NOTICE
+
+   It is extremely difficult to remove the adhesive. Some mounting surfaces might be damaged after removing the adhesive.
+7. Press the wireless remote in the mount firmly onto the mounting surface, maintaining pressure for at least 60 seconds.
+
+[Home](https://www8.garmin.com/manuals/webhelp/GUID-F0AC3576-CD83-465E-983D-7AD585ADB59E/EN-US/index.html)[Appendix](https://www8.garmin.com/manuals/webhelp/GUID-F0AC3576-CD83-465E-983D-7AD585ADB59E/EN-US/GUID-E1A8D420-7F46-470B-B85D-0429910CA109.html)[Tread Audio](https://www8.garmin.com/manuals/webhelp/GUID-F0AC3576-CD83-465E-983D-7AD585ADB59E/EN-US/GUID-7930AF38-1731-46E4-997B-7A37BA986A3E.html)[Wireless Remote Mounting Considerations](https://www8.garmin.com/manuals/webhelp/GUID-F0AC3576-CD83-465E-983D-7AD585ADB59E/EN-US/GUID-84827275-92DB-4709-847E-E41323F60C3F.html)[Mounting the Wireless Remote](https://www8.garmin.com/manuals/webhelp/GUID-F0AC3576-CD83-465E-983D-7AD585ADB59E/EN-US/GUID-074EA334-C48C-479A-8726-FC749E4E3955.html)

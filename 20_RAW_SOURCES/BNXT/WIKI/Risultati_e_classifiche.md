@@ -1,0 +1,45 @@
+# Risultati_e_classifiche
+
+- [2025 – Classifica C. R. Motocross e Minicross](../RAG/bnxt-115c3f5f9578250372188ade93b6e696bde4d8d56d771a76987fb2cc05dccd98.md) — RAG_FONTI
+- [2026 – Classifica C.R. Enduro e Minienduro](../RAG/bnxt-94aef7bdb9bf3efa0dd97174583545c4b9f62578e653e9d345b1bd234003ddd1.md) — RAG_FONTI
+- [2026 – Classifica campionato regionale enduro aggiornata alla terza gara](../RAG/bnxt-63a559d0675cc202b5a3f19bb1a7740c7774901d0a22c9244c6a911d8ed0279a.md) — RAG_FONTI
+- [2026 – Classifica campionato regionale minienduro aggiornata alla quarta gara](../RAG/bnxt-471d8b2f45c43c96fd9f1bf807d78560f6a32314e30a6dd1529c90fd7761f6b4.md) — RAG_FONTI
+- [2026 – Classifica campionato regionale motocross aggiornata alla settima gara](../RAG/bnxt-79a6bb8e0a1d294828b8574baddbd540752c1603fcb906070354ba83e6ffc04b.md) — RAG_FONTI
+- [2026 – Classifica Trofeo Nord Est motocross](../RAG/bnxt-7403e5553c44293de1c89f8f811aa064e4bd9117336c342c7fa567d8afc1c98e.md) — RAG_FONTI
+- [2026 – Classifica Trofeo Triveneto enduro aggiornata alla terza gara](../RAG/bnxt-638e4aabfdda0dc16ad40395a4e876bd5eebdf40323a20a6eff580cf82cf5d8f.md) — RAG_FONTI
+- [2026 – Classifica Trofeo Triveneto minienduro aggiornata alla quarta gara](../RAG/bnxt-abc86559646fb948bcb9aaea08a6b4e7e15b35bd6f9328dfdefcf64bbac55f0c.md) — RAG_FONTI
+- [2026 – Classifica Trofeo Triveneto motocross aggiornata alla prima gara](../RAG/bnxt-00dfd70f8f5be3b23e3affd935a51094c3220814135bfb936093abe6e54fd76d.md) — RAG_FONTI
+- [2026_Classifica Campionato Enduro Regionale](../RAG/bnxt-96402f99d543ecab5ffde3e94f57916bc3ef43b75e59e0673245d35961301b89.md) — RAG_FONTI
+- [2026_Classifica finale Campionato Minienduro Regionale](../RAG/bnxt-42eabe8946eb74a08616699dc34dbfa9f04c2299c63c5a09614d36211d3f98d3.md) — RAG_FONTI
+- [Classifica Assoluti e Coppa Italia Enduro 2019](../RAG/bnxt-0506196f7ae6b4721c01923d5fdc91bd7a9a4797bf7f0c5c2a7085cfddb313af.md) — RAG_FONTI
+- [Classifica Campionato Enduro Contry Regionale 2023](../RAG/bnxt-dcbd7681b9a9d0e3388e078cde641e12f79e9ac024bed9089c54740af86223bc.md) — RAG_FONTI
+- [Classifica Campionato Enduro Regionale 2023](../RAG/bnxt-7562113cbe70b4cdad0c2ceb74469ba750eafc3f6b114cd43221d01699da4c19.md) — RAG_FONTI
+- [Classifica Campionato Enduro Regionale 2024 in attesa di approvazione](../RAG/bnxt-140e273d47a9d1ab11394c7a658cf9611f7d3c301c886f0b2eb35d1021754a79.md) — RAG_FONTI
+- [Classifica Campionato Enduro Regionale 2025](../RAG/bnxt-555e341a811e56900315556dc75e030fa2186f84f33899d69193ab4d9403536c.md) — RAG_FONTI
+- [Classifica Campionato Italiano Enduro Under 23 – Senior 2019](../RAG/bnxt-21f9404d93e559f6de4dd179f46435b51559b02454076747aed8ece17d92cc2d.md) — RAG_FONTI
+- [Classifica Campionato Italiano MiniEnduro 2019](../RAG/bnxt-5f200ce5133c61914f017fdb448f53de5383b0198c227ffe9547470358756345.md) — RAG_FONTI
+- [Classifica Campionato Italiano Motoraid 2019](../RAG/bnxt-0d4abaa95186e7090518f60439705673103c837fa963a3fda2cbe04b36560b3c.md) — RAG_FONTI
+- [Classifica Campionato Italiano Motorally 2019](../RAG/bnxt-7eead4f4de2cf9f1a4017f92f676f3aec4506a86fced7c82c9e9dd140a016b4b.md) — RAG_FONTI
+- [Classifica Campionato Italiano Raid TT 2019](../RAG/bnxt-fffb40e50c311b70d0f92bf30981dfd6ba6dd35bea9ff888a3b5b6b0503558a0.md) — RAG_FONTI
+- [Classifica Campionato Minienduro Regionale 2023](../RAG/bnxt-aa420844ca12c826f49d69942be67361f88b923ee7b7f2c754f2cccbe36239b3.md) — RAG_FONTI
+- [Classifica Campionato Minienduro Regionale 2024 dopo la 5° prova](../RAG/bnxt-ba0d6b342b5640e49314fe0933ecd599db9d4aada1913da5fcf7ff2ed860f145.md) — RAG_FONTI
+- [Classifica Campionato Minienduro Regionale 2025](../RAG/bnxt-30f9b9daf2112d7b45efc35921265d23724f90c2afdc767e57da3bf568d7375e.md) — RAG_FONTI
+- [Classifica Campionato Minienduro Triveneto 2024 dopo la 5° prova](../RAG/bnxt-2b10bd5c3cc14fd370faa0bcab809ff0f0770d7d18f6c428307b716e6d51c747.md) — RAG_FONTI
+- [Classifica Campionato Motocross Regionale 2025](../RAG/bnxt-2d05733ee9a1dfe6ab7cbf8ee7e1ae11c84e5d8c2334cf90aaf34c298d3e1e47.md) — RAG_FONTI
+- [Classifica CRL Enduro dopo la 3 prova.pdf](../RAG/bnxt-0f2c0a14dae0478d0802b33f4e3e55a8d0c6ef05e1dfb4747e41c3403d746ffd.md) — RAG_FONTI
+- [Classifica finale Trofeo Extreme Enduro FMI 2020](../RAG/bnxt-9153c0b196c949042cd8214e00179006dc4e896443295727aa52a5876879c844.md) — RAG_FONTI
+- [Classifica Minienduro Triveneto 2022](../RAG/bnxt-80706fdae018d3f8469227c25409808c12352ee35ad805256c82f090cd238046.md) — RAG_FONTI
+- [Classifica Trofeo Enduro Sprint Regionale 2025](../RAG/bnxt-4927d7ecfa24d17ad88315415f675d948fa9519131c20d5d2ffec78d95c0aefb.md) — RAG_FONTI
+- [Classifica Trofeo Extreme Enduro FMI 2019](../RAG/bnxt-d958f6b6b900f5b3c8448e918317372e30dc9aeb8fbdbf07fbf7ab337f62f2f5.md) — RAG_FONTI
+- [Classifica Trofeo Triveneto 2025](../RAG/bnxt-95cb65f3eaf136b589b18b8fb52ab02c80a9059e1f1e85fd0fc56f786ef7fcb6.md) — RAG_FONTI
+- [Classifica Trofeo Triveneto Enduro Country 2023](../RAG/bnxt-5b9d7228828a0047a6c6234220bdcc147b67bcf198182237a05d7b65f977c1ab.md) — RAG_FONTI
+- [Classifica Trofeo Triveneto Minienduro 2025](../RAG/bnxt-8a0f69526b620c6f8e24b3c01db6a89b2d39760dd08e1f5a0eb13a8380a6d5e5.md) — RAG_FONTI
+- [Classifiche Campionato Enduro Country 2017](../RAG/bnxt-f1c457c87eeaafcbf69ce733e5ebf6ebe58a2220aa57824ca42b5a8cbbdf78b0.md) — RAG_FONTI
+- [Classifiche Campionato Enduro Fvg 2021](../RAG/bnxt-682922c35f5a04d79a85a81ef75a6a7cc5c4c84ddfb819177c1ceca1fea50fb8.md) — RAG_FONTI
+- [Classifiche Campionato Enduro TRV 2021 al 10 ottobre](../RAG/bnxt-d08821635f55f0c87bf2fb575971534f6b96508d679e744566641bf0af6ea84f.md) — RAG_FONTI
+- [Classifiche campionato Regionale Motocross FVG 2021](../ALTRI_DOCUMENTI/bnxt-5df05d4293d6f938941802d9e0b1b31bb1e417222670b14a795aa54cce70c85d.md) — REVISIONE_CONTENUTO
+- [Classifiche minienduro FVG aggiornate dopo Grado](../RAG/bnxt-76dbe0208a5972c4c755012cb0406270b2407f2369a5fbbafd0200ea0c4088e9.md) — RAG_FONTI
+- [Classifiche minienduro TRV aggiornate dopo Grado](../RAG/bnxt-17cb630f3690c68d768e5bacdebe62c1cb27812b61a92bfc9b41517f94463ec7.md) — RAG_FONTI
+- [Classifiche Provvisiorie Campionato MiniEnduro Triveneto 2021](../RAG/bnxt-94424f57134a219432492c133c599b25ca05ff3317136f509da244e9711df1e1.md) — RAG_FONTI
+- [Classifiche provvisorie Campionato Enduro FVG 2021](../RAG/bnxt-4a676ac0c1dd7f4f7f2db9429a77e36f9ee61aaa36567f8a1b24c4e3fa577e19.md) — RAG_FONTI
+- [FICR — archivio cronometraggio enduro italiano](../ALTRI_DOCUMENTI/bnxt-cc0ce5a9c48cc2cfed81a48d2ef544c87bda118f6c4e41db22ef850ef84ab0ea.md) — REVISIONE_CONTENUTO

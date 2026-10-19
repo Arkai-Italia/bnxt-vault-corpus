@@ -1,0 +1,84 @@
+---
+id: "bnxt-b528ddf700cd2eefd5a132dbfb8d548a0a004c61eeb0160dd9cf56c46aeea3a8"
+titolo: "6DAYS docuserie — episodio 2, Behind the Iron Curtain"
+url: "https://fim-moto.tv/player/videos/719d513a-2f9d-4e3d-94c1-b91b4c5a1a86/6days-behind-the-iron-curtain-fim-international-six-days-of-enduro-documentary-ep-2"
+categoria: "Audio_e_testimonianze"
+stato: "RAG_FONTI"
+verifica_fatti: "NON VERIFICATO"
+fonti_originali_locali: ["E:\\LIBRI BNXT COLLEGAMENTI GEN\\ORIGINALI_NON_TRATTATI\\FILE\\VAULT__BNX-0387_6DAYS_docuserie_episodio_2_Behind_the_Iron_Curtain_19c759e3e3_20261016T093141620912Z.html"]
+sha256_corpo: "127518f71f617c720bbef7f23522907a6214fc4cdbfdfcc10bbe81a25888caf6"
+---
+
+# 6DAYS docuserie — episodio 2, Behind the Iron Curtain
+
+[![FIM-MOTO.TV header logo.png](https://origins-ottv2-payload-s3.origins-digital.com/fimmototv/FIM-MOTO.TV%20header%20logo.png?h=60&dpr=2)](https://fim-moto.tv/)
+
+* [Home](https://fim-moto.tv/)
+* World Championships
+* National Championships
+* [Movies & Vlogs](https://fim-moto.tv/movies_and_vlogs)
+* [Calendar](https://fim-moto.tv/calendar)
+
+Search
+
+Open main menu
+
+# 6DAYS – BEHIND THE IRON CURTAIN | FIM International Six Days of Enduro | Documentary - Ep. 2
+
+Share
+
+11 September 2026
+
+Accessible only to  Registered User.
+
+* [FIM 6DAYS | 100th Edition Anniversary Docuseries](https://fim-moto.tv/categories/6050a45c-ca3f-4292-bb81-937f32515670)
+
+FIM 6DAYS – 100th Edition Anniversary Docuseries
+
+To celebrate the 100th edition of the FIM International Six Days of Enduro (6DAYS), the FIM presents a special documentary series tracing the history and evolution of one of motorcycle sport’s most legendary competitions.
+
+From its pioneering early years and unforgettable moments to the challenges and emotions of the modern 6DAYS, the series brings together archive footage, remarkable stories and the people who have shaped the event across generations.
+
+Presented by Antoine Méo, Enduro legend and multiple 6DAYS winner, each episode takes viewers through a different chapter of this extraordinary story, building towards the historic 100th edition in Portugal.
+
+A new episode every Sunday, culminating with two special episodes dedicated to the centenary edition itself.
+
+#6DAYS The Original Enduro Since 1913.
+
+#FIM #6DAYS100Edition #6DAYSPortugal26
+
+![](https://onrewind.imgix.net/thumbnails/176d220d-939c-4b85-ba49-b74ae78feb24/img-66810.jpg?auto=format&fit=max&w=50&q=50&max-age=31536000&stale-while-revalidate=86400&v=aHR0cHM6Ly9v)![](https://onrewind.imgix.net/thumbnails/176d220d-939c-4b85-ba49-b74ae78feb24/img-66810.jpg?auto=format&fit=max&w=800&q=95&max-age=31536000&stale-while-revalidate=86400&v=aHR0cHM6Ly9v)
+
+14:27
+
+[6DAYS – THE NEW CENTURY | FIM International Six Days of Enduro | Documentary - Ep. 5](https://fim-moto.tv/player/videos/1bc887b5-ece1-49a9-bc8f-82847d3f45d6/6days-the-new-century-fim-international-six-days-of-enduro-documentary-ep-5)
+
+![](https://onrewind.imgix.net/thumbnails/176d220d-939c-4b85-ba49-b74ae78feb24/img-79659.jpg?auto=format&fit=max&w=50&q=50&max-age=31536000&stale-while-revalidate=86400&v=aHR0cHM6Ly9v)![](https://onrewind.imgix.net/thumbnails/176d220d-939c-4b85-ba49-b74ae78feb24/img-79659.jpg?auto=format&fit=max&w=800&q=95&max-age=31536000&stale-while-revalidate=86400&v=aHR0cHM6Ly9v)
+
+09:37
+
+[6DAYS – THE WORD THAT CHANGED | FIM International Six Days of Enduro | Documentary - Ep. 4](https://fim-moto.tv/player/videos/2b678bfd-ff12-4218-b2e5-cb14a89eb3ca/6days-the-word-that-changed-fim-international-six-days-of-enduro-documentary-ep-4)
+
+![](https://onrewind.imgix.net/thumbnails/176d220d-939c-4b85-ba49-b74ae78feb24/img-40550.jpg?auto=format&fit=max&w=50&q=50&max-age=31536000&stale-while-revalidate=86400&v=aHR0cHM6Ly9v)![](https://onrewind.imgix.net/thumbnails/176d220d-939c-4b85-ba49-b74ae78feb24/img-40550.jpg?auto=format&fit=max&w=800&q=95&max-age=31536000&stale-while-revalidate=86400&v=aHR0cHM6Ly9v)
+
+10:09
+
+[6DAYS – THE LAST TROPHY | FIM International Six Days of Enduro | Documentary - Ep. 3](https://fim-moto.tv/player/videos/c3e786ff-b70d-47a8-a853-96d388b67782/6days-the-last-trophy-fim-international-six-days-of-enduro-documentary-ep-3)
+
+![](https://onrewind.imgix.net/thumbnails/176d220d-939c-4b85-ba49-b74ae78feb24/img-97389.jpeg?auto=format&fit=max&w=50&q=50&max-age=31536000&stale-while-revalidate=86400&v=aHR0cHM6Ly9v)![](https://onrewind.imgix.net/thumbnails/176d220d-939c-4b85-ba49-b74ae78feb24/img-97389.jpeg?auto=format&fit=max&w=800&q=95&max-age=31536000&stale-while-revalidate=86400&v=aHR0cHM6Ly9v)
+
+11:13
+
+[6DAYS – THE BEGINNING | FIM International Six Days' Enduro | Documentary - Ep. 1](https://fim-moto.tv/player/videos/1724032c-50cd-4a20-8cb0-10ed2f32ffad/6days-the-beginning-fim-international-six-days-enduro-documentary-ep-1)
+
+[![Hertz-1.png](https://origins-ottv2-payload-s3.origins-digital.com/fimmototv/Hertz-1.png)](https://www.hertz.com/)[![MOTUL-1.png](https://origins-ottv2-payload-s3.origins-digital.com/fimmototv/MOTUL-1.png)](https://www.motul.com/)
+
+[![FIM-moto.tv logo.02.png](https://origins-ottv2-payload-s3.origins-digital.com/fimmototv/FIM-moto.tv%20logo.02.png)](https://fim-moto.tv/)
+
+* [Legal Mentions](https://www.fim-moto.com/en/legal-mentions)
+* [Terms and Conditions](https://fim-moto.tv/terms_and_conditions)
+* [Privacy Policy](https://fim-moto.tv/privacy_policy)
+
+`2.6.4`
+
+Powered by Origins Digital

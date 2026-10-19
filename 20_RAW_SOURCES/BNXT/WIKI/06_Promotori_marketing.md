@@ -1,0 +1,38 @@
+# 06_Promotori_marketing
+
+- [AMA 2025 — Modulo rendicontazione tessere vendute (non statistiche soci)](../RAG/bnxt-4ff14bb8f62da7e888a2cc7a1faa3fc7fe53263b5afe51c1619443e433fb976f.md) — RAG_FONTI
+- [Cycle News — Media kit 2022 (storico)](../RAG/bnxt-ce7381d078e3e5ceed6dad26ee683afb8c17b21dd35af3560023670f44fffc96.md) — RAG_FONTI
+- [David Chapar Alonso se proclama campeón de la Copa de España de Mototurismo 2026 - Centro de Prensa RFME](../RAG/bnxt-fe250f80f43a86f8d1185f76570644c467104b9ce1dce1902a42cc045fd32482.md) — RAG_FONTI
+- [Enduro - Centro de Prensa RFME](../RAG/bnxt-adb9d8373da76d063cc62c7c965cfdbb7baa7577cbd97d316930f8dd82e025fb.md) — RAG_FONTI
+- [FIM & ABC Communication extend SuperEnduro agreement](../RAG/bnxt-4db4b0534350c7e4fc93a4f00027c918ca27c7291da9200c82636ec5648f5f78.md) — RAG_FONTI
+- [For moto workshops — work orders with client approval and a maintenance log · ENDURO.FAMILY](../RAG/bnxt-e521a872e357d5bb53afc049f5368f6a8ee6785c2a6f6fcfb6efd54cb14bc7a2.md) — RAG_FONTI
+- [For race organizers — from the event listing to the podium, no Excel · ENDURO.FAMILY](../RAG/bnxt-c6fe53f1105f1dd5a89e04911b33878e97ca063583e037cb2239bc84b677b8df.md) — RAG_FONTI
+- [Hard Enduro - Centro de Prensa RFME](../RAG/bnxt-d5ac3fbcb2db59a0f605bdb5ffa59e5d4de522ecf74fdae51584a865fdf6f916.md) — RAG_FONTI
+- [Infront Moto Racing Announcement | MXGP](../RAG/bnxt-b800c20280875ae4b3576c8810ff3e105af60ef5462ce3cde92631e46eadf9ae.md) — RAG_FONTI
+- [Infront Moto Racing | MXGP](../RAG/bnxt-f703a8d53be029911a88a47660d40a645d41b571328215b44c17115b3e42864a.md) — RAG_FONTI
+- [Infront moves into motocross with Youthstream acquisition](../RAG/bnxt-00e54f23531578e500cbe2bdb43ac648ad53cbdc1142eb326c0d0cac3218561d.md) — RAG_FONTI
+- [Le Monde du Motocyclisme- Détail d'une actualité](../RAG/bnxt-621530a66b11b92a8aaa7de4197bd42cdf058629d61a4a2cd564ff56132d5b10.md) — RAG_FONTI
+- [Le Monde du Motocyclisme- Détail d'une actualité](../RAG/bnxt-87c9f3e71f2332b76307fccb7083338e67d14225f7b6e010a44ca88cb0dfb50f.md) — RAG_FONTI
+- [Motocross - Centro de Prensa RFME](../RAG/bnxt-214f747d2ba2c1990ee613ffbb3af24bdfd22c3b48457f3bd8be4c59ecc6599a.md) — RAG_FONTI
+- [Mototurismo - Centro de Prensa RFME](../RAG/bnxt-e95b96bbd7e46ea6b980aaea43559bbca68a9420fb50890177b068b65b726ce8.md) — RAG_FONTI
+- [MXGP Official Guide 2018 — storico](../ALTRI_DOCUMENTI/bnxt-7b1b5d2d020caeee375226a257acfb56a84812709fe8c3ec20249fbf0d68437a.md) — REVISIONE_CONTENUTO
+- [News - Honda RedMoto Racing](../ALTRI_DOCUMENTI/bnxt-cb3df313f4d2ab822679537b0a9e7f4d4df8c88509c2639cb35cb174e3766683.md) — INDICI
+- [Our team - Honda RedMoto Racing](../RAG/bnxt-0446f0c4ed2a57daef91a614298573323a9987fbada861d6114575ea84435732.md) — RAG_FONTI
+- [Platform — the enduro business ecosystem · ENDURO.FAMILY](../RAG/bnxt-5da2e3bb3792092f5c64b76ea54be54b3b9dd5fb6b0fa2b209bfeaa29b14c2dd.md) — RAG_FONTI
+- [RFME Sponsorship information](../RAG/bnxt-08126dcac4ec0a8f499beb3e4a3670a8c9c4cff7d0757ce41207a31250bce039.md) — RAG_FONTI
+- [RFME Sponsorship information](../ALTRI_DOCUMENTI/bnxt-1b523f811b561346dc79d2c532617c07b6d13760f5f971d9fe3b317db2b48966.md) — REVISIONE_CONTENUTO
+- [RFME Sponsorship information](../RAG/bnxt-436e09fcdefbf644f570649c794b629e554f6bdfaf5a7af257dd14ee7ebab10a.md) — RAG_FONTI
+- [RFME Sponsorship information](../RAG/bnxt-7250d9920568c1a590432f50f7dee536b0746780e9790ef6ba01cfdfffd584eb.md) — RAG_FONTI
+- [RFME Sponsorship information](../RAG/bnxt-7531b98ca4ffe0e2a9438431ceaeb0a950ef9b59b7aa2fd50b05675d2fa8a8a1.md) — RAG_FONTI
+- [RFME Sponsorship information](../RAG/bnxt-76f639839b1515fdb3cf5010197ac8564063979d3d29f28bcb0b2e77ddb1a976.md) — RAG_FONTI
+- [RFME Sponsorship information](../RAG/bnxt-7789fdacf462f9ff4219116749a9651d9f84d1697b31be6ae27bf96d1a07b45d.md) — RAG_FONTI
+- [RFME Sponsorship information](../RAG/bnxt-832885a91e92f15bfb6326bf6868086f016c7e3f8cdcb33102336885566b8320.md) — RAG_FONTI
+- [RFME Sponsorship information](../RAG/bnxt-e3aab8c0fd0cd4ceecccfffc065affc1a3bde356c92b1d922f2fc216453b6b6a.md) — RAG_FONTI
+- [Sports Sponsorship](../RAG/bnxt-f802b7b70324e8c61d037a3b174d66be162f9c4349764648042992a9adb6a363.md) — RAG_FONTI
+- [SuperEnduro Promoter – SuperEnduro](../RAG/bnxt-ee20ea3b4d9e6610beac8f6b5ca31a0f1a05091d0472870ceb0060fb00d809c1.md) — RAG_FONTI
+- [Supermoto - Centro de Prensa RFME](../RAG/bnxt-9547a004b5d44e0c7ef5d391b3b1d6691aac89ec1b0eacee5dbabe43cfe6a8e5.md) — RAG_FONTI
+- [The ENDURO.FAMILY Residence — get a subscription · ENDURO.FAMILY](../RAG/bnxt-22327f14e13214599ea70c31093e365afe714df30e779d2218974c1dfbcbd49e.md) — RAG_FONTI
+- [The World of Motorcycling- News detail](../RAG/bnxt-15ea7e79c4b819fde9669e051ce82e49b2aea2e3661891afd95bfd3edbdf2b34.md) — RAG_FONTI
+- [The World of Motorcycling- News detail](../RAG/bnxt-9141d20219bbce59f1e05685910e7abe7021256bcbb147b44f3e8cad01eb7d81.md) — RAG_FONTI
+- [The World of Motorcycling- News detail](../RAG/bnxt-91f73fdecdbebe3d29f664bc2f1cc1ccfb813b1288789934a85b2092df957372.md) — RAG_FONTI
+- [Согласие участника (Waiver) — ENDURO.FAMILY](../RAG/bnxt-435486496febc3abfaa99e299e4e2bfeef7c8279906a3602c19791a8d9e1b7df.md) — RAG_FONTI

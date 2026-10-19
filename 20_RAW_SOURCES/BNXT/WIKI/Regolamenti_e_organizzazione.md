@@ -1,0 +1,130 @@
+# Regolamenti_e_organizzazione
+
+- [2026 Assistance Regulations ( pdf | 732822 )](../RAG/bnxt-1ffe638c22325f985a79f261725cf98548bf5967111fa0c4ba947d21722150c1.md) — RAG_FONTI
+- [2026 FIM Enduro World Championship Regulations.pdf](../RAG/bnxt-8065a3b670982b163e0afbffaf1e12fe2498122efcf76119e3f7670c28ec7314.md) — RAG_FONTI
+- [2026 FIM International Six Days  Enduro Regulations  ISDE .pdf](../RAG/bnxt-df8f266318c846d5f341bda130c5b4a5e04ad2e1b1f9e66a86b9873bd0813fd4.md) — RAG_FONTI
+- [2026 FIM W2RC Sporting Regulations 260303.pdf](../RAG/bnxt-ad459fbd783a251b678b76bdc57d1f6c0ae54d1cb40d9624d603fc07123258a2.md) — RAG_FONTI
+- [2026 – regolamento campionato motocross regionale](../ALTRI_DOCUMENTI/bnxt-33b24e79ff289d237d5a785445586cd66dd17c1afab98d65ef1d4fd62fc682d1.md) — REVISIONE_CONTENUTO
+- [2026 – Regolamento campionato regionale enduro](../ALTRI_DOCUMENTI/bnxt-0787bb3895582e9f9ca1dd8798f010aa83ca56740f3f21b54f4cd860bed7bed9.md) — REVISIONE_CONTENUTO
+- [2026 – Regolamento Campionato Regionale Motocross d’epoca Gr. 5](../RAG/bnxt-2b23bd4f61b729771ca755fb2a3d633665e5491d7cd3067aa24c0a07941da082.md) — RAG_FONTI
+- [2026 – Regolamento Minienduro Regionale – Trofeo Mario Ferrero](../ALTRI_DOCUMENTI/bnxt-6ee5847df408b350c0dd761f1f49a3a92aec796da91b68b65988e4d799af3b7d.md) — REVISIONE_CONTENUTO
+- [2026 – Regolamento Motocross e Minicross](../ALTRI_DOCUMENTI/bnxt-c537c2cc3435bb648cd3cfc5ea5603c75fd435a7a3f4aed4cab718d25d04fbd2.md) — REVISIONE_CONTENUTO
+- [2026 – Regolamento Motoraid](../ALTRI_DOCUMENTI/bnxt-64b849fb5d0cffdcf4e4efe89fbc0d754b4be34418827466c0cbe39dcbbe650e.md) — REVISIONE_CONTENUTO
+- [2026 – Regolamento Regionale Enduro Rev.01](../ALTRI_DOCUMENTI/bnxt-0d3fafd6abb09a64a5ee3e850e95b486ebee60b80ab475af51449a74c24dcedf.md) — REVISIONE_CONTENUTO
+- [2026 – Regolamento Supermoto Interregionale](../ALTRI_DOCUMENTI/bnxt-bc40aa1a288f2a46aaf04832ca2c00d95976be3c06b50880ca733825f1459736.md) — REVISIONE_CONTENUTO
+- [2026 – Regolamento Trofeo Nord Est motocross](../ALTRI_DOCUMENTI/bnxt-ddbc083e476902757eeadd181131381fddee0a09ee06c1b44492dff496dfd902.md) — REVISIONE_CONTENUTO
+- [2026 – Vademecum organizzazione gare ENDURO](../RAG/bnxt-6f41880eccb16d075b623cf1fbc8e8bd29cfbac5bb5ea41513f714e6d55d1ddc.md) — RAG_FONTI
+- [2026-3 EGP 6DAYS SE HE TECHNICAL RULES 12 03 2026.pdf](../ALTRI_DOCUMENTI/bnxt-de328c3b02640c59614abac9f1ff9ee1b9603a6f13bd7c9883ee8f2314b8fb4c.md) — REVISIONE_CONTENUTO
+- [2026_CIRCOLARE COSTI E SERVIZI CO.RE.](../RAG/bnxt-a7a8badc22b86d3967ef4bc628b68a1485845e5e7631264c483208251ea76f33.md) — RAG_FONTI
+- [2026_CIRCOLARE FMI 2026 AGGIORNATA AL 20/11/25](../RAG/bnxt-dff67bdb9c54787c94f978020ebceacb128e3208c66c27e122c5357a263c756d.md) — RAG_FONTI
+- [2026_CIRCOLARE MANIFESTAZIONI REGIONALI](../RAG/bnxt-b2aa82d3f2384c5f198b272f8fc30fb581c29b1f025cf5c5119223b27ca2e710.md) — RAG_FONTI
+- [2026_REGOLAMENTO REGIONALE MOTOCROSS E MINICROSS](../ALTRI_DOCUMENTI/bnxt-4fd4c37de267e498c35fd593d755da27bda82718e4e40462be99f6b908d62f10.md) — REVISIONE_CONTENUTO
+- [4010_Enduro_16feb](../RAG/bnxt-4da62df2ece34d553a48b022b37a4febb5e4ba34ece5fd57c6061060f327a369.md) — RAG_FONTI
+- [Assoluti d’Italia Enduro 2021](../RAG/bnxt-57b78035a6799e21503056e9c8baf62e36091ed02f8cc68f22d34f384a0159f3.md) — RAG_FONTI
+- [Assoluti, Coppa Italia, Coppa FMI Enduro 2022](../RAG/bnxt-487a61744043d42a48aab9fdbe4ffe6fca19c887705c8e917d1fb9ded6aa9e6a.md) — RAG_FONTI
+- [Campionato Italiano Enduro Major 2018](../RAG/bnxt-88573808a36360edaf266c912658bb567c6e028eb0c1c7be96bd54afad522680.md) — RAG_FONTI
+- [Campionato Italiano Enduro Major 2021](../RAG/bnxt-4a310ef18ba148fa496abd63367de9cab583ae583a83ce76bff135bae2e9eee9.md) — RAG_FONTI
+- [Campionato Italiano Enduro Senior 2021](../RAG/bnxt-334acc5bc2b76377e5997153796fa8c2d5eb98946a13d79c43ab835392db7684.md) — RAG_FONTI
+- [Campionato Italiano Enduro Under 23 2021](../RAG/bnxt-9c7b5af9fd2a72147c13c659afc20249f041f3bd9377244454c1b15767dfb0e6.md) — RAG_FONTI
+- [Campionato Italiano MiniEnduro 2021](../RAG/bnxt-5f77ca365741b8209bcba560d519df190c01bc788578fb0a3fa8647f7731c057.md) — RAG_FONTI
+- [Campionato Italiano Motorally 2021](../RAG/bnxt-e105240836d60ef4afc090df7bbe39d29f2d559baf102d14b2b3c49fdc9e6030.md) — RAG_FONTI
+- [Campionato Italiano Raid TT 2021](../ALTRI_DOCUMENTI/bnxt-ee1ff1a647ef4754ce8aee1927bfae764da7480329deded4185428f5a0a80e06.md) — REVISIONE_CONTENUTO
+- [CIRCOLARE CERTIFICAZIONE MEDICA 2021](../RAG/bnxt-ab1db3247f88dbe1897e780e75912aa825834364a8bce83bd92b5df401164b74.md) — RAG_FONTI
+- [CIRCOLARE CERTIFICAZIONE MEDICA 2022](../RAG/bnxt-901110a34d1fad46ba00720eb4621f39227cbdc5d6184a20bb851b418c25b944.md) — RAG_FONTI
+- [CIRCOLARE CERTIFICAZIONE MEDICA 2023](../RAG/bnxt-346215aab45c2260d154455647b3475d59467c12386e9a03924136d226825ba0.md) — RAG_FONTI
+- [CIRCOLARE COSTI E SERVIZI CO.RE. 2024](../ALTRI_DOCUMENTI/bnxt-3d6f55fa99d0f378ebfdadebe7af18a391201a5e35d748e1713af75cad472505.md) — REVISIONE_CONTENUTO
+- [CIRCOLARE COSTI E SERVIZI CO.RE. 2025](../RAG/bnxt-ae0ed406f9b737d1ff4e1204c984ccc70d8e19422086df2b3892f343baf00cf1.md) — RAG_FONTI
+- [Circolare FMI 2021 al 17/03/21](../RAG/bnxt-775e68c181f546a97615101d137f4f8b35b06c9e3dac527484a5d1b74e3c76fd.md) — RAG_FONTI
+- [Circolare Fmi 2022](../RAG/bnxt-4ca417c26ea4424d080846495e8146a35cb65965f2816af33819a8d10c0d7a16.md) — RAG_FONTI
+- [Circolare Fmi 2023 al 22/11/2022](../RAG/bnxt-7dabd7b32dcacf75add1f9b68a822f6cfc198702b1217fa6d3cc5f82ebee68db.md) — RAG_FONTI
+- [Circolare FMI 2024](../RAG/bnxt-82e8127c78cb71e1d77efc544cc81cff20d8e6a689f5431e911caeefc2eedb0c.md) — RAG_FONTI
+- [Circolare FMI 2025](../RAG/bnxt-5667a4b17af80a87bd5ea493dda9adad1d790ca50d0b3a00213f7e219942bddd.md) — RAG_FONTI
+- [Circolare FMI 2025](../RAG/bnxt-cdad572b1bcbb3304c1e32148ddc3da31597063713b6595e4a6086c3c91f033e.md) — RAG_FONTI
+- [Circolare Manifestazioni Regionali 2025](../RAG/bnxt-d632192c5e371b641dd4e23ce51bf3b2d7eaac970596c8f9fa6f7601cfbf7fd2.md) — RAG_FONTI
+- [Circolare Sportiva 2022](../RAG/bnxt-d4500c10f9aaa63ba63e94f79fa92775fd96ba49b1b0287270dcaacc10736bf0.md) — RAG_FONTI
+- [Circolare Sportiva 2025](../RAG/bnxt-27e9ab2f93fb0943ac3bc8e2c4a1df7f927c6484eb10e62ccb729ba29244b120.md) — RAG_FONTI
+- [Circolare Sportiva FMI 2021 al 20/01/21](../RAG/bnxt-39fd86f9744302f528aad96041134d5370b5b4854d6f24e3859121ebc3d049f7.md) — RAG_FONTI
+- [Circolare Sportiva FMI 2023](../RAG/bnxt-3c4d24daa8ff171141d25f83fa9099d2285772ed3a8de49aed51a77b43ae1760.md) — RAG_FONTI
+- [Circolare Sportiva Fmi 2023](../RAG/bnxt-3d306de5dd06764247f77814629ad888a0c6d76cc728589a93b9345527b39d2d.md) — RAG_FONTI
+- [Circolare Sportiva FMI 2024](../RAG/bnxt-639e5766d7573b95acfc825fee530f2320f6531a7bd8e1bef6fced86a63d30bf.md) — RAG_FONTI
+- [Circolare Sportiva FMI 2025](../RAG/bnxt-bae9563b21052b67a80fb24d325ee0ed27916640e6fc50d80c86bb95bef880f2.md) — RAG_FONTI
+- [Circolare Sportiva FMI 2026](../RAG/bnxt-42edd1ab606dcbb04432bc147c77765eed34a9bb390b628268b2d06de2b1c573.md) — RAG_FONTI
+- [Circolare Sportiva FMI 2027](../RAG/bnxt-6d470e79a23bcefa27a48f6ee5c684e1ade816a8e7b91a3791bdad993141c851.md) — RAG_FONTI
+- [Clicca qui per scaricare e consultare il vademecum per l'utilizzo del sito di Denuncia online](../RAG/bnxt-6fb06fd89d8de440d2aad650361ed23ee2c439b55ebbc5509b9c19cc4142f802.md) — RAG_FONTI
+- [Condizioni Polizza 2021/2022](../RAG/bnxt-04c53ce4486266344fe37b677143c0103ec79507d54be238d259b34d62562668.md) — RAG_FONTI
+- [Controlli fonometrici Principali modifiche al regolamento.pdf](../RAG/bnxt-336609bf37bcb8cdb353a025b15eaa86bd5f874970ca1aa908e340267b481198.md) — RAG_FONTI
+- [Diseño de Dorsal y Normativa de Números 2026](../RAG/bnxt-d5beb749cb2c0a238eb07fb04eb18a30a4cbd03463c1071b39f4e5e21ac7863c.md) — RAG_FONTI
+- [Dorsal 2026 en formato de impresión](../RAG/bnxt-c0b59218aca2dcea8f81e10fbe1c799d1a079a3b646d0c6a8a9cb2d178f74ee2.md) — RAG_FONTI
+- [Download here the 2026 Fim Europe Mini Enduro Rules](../RAG/bnxt-faab40d38a759d7d9f72ef11b47b321fc4f4ccdc3018ea25085a46ee11cf5b84.md) — RAG_FONTI
+- [Download here the 2026 Fim Europe Super Enduro Rules](../RAG/bnxt-bdaa3e980831cc777624b84b8cba753e18deded4c8513189940c36860818c4e2.md) — RAG_FONTI
+- [Download the 2026 Fim Europe Enduro EC Rules](../RAG/bnxt-5b97db468203c4001ed32c115cb1eb2a1f3d113dd2cef7676f440f526b70f099.md) — RAG_FONTI
+- [EGOLAMENTO TROFEO ITALIA ENDURO 2025](../RAG/bnxt-7efd492aeb011837253d87c3d5a207b6aededa127449638707f37bb504dbb639.md) — RAG_FONTI
+- [Enduro Principali Modifiche al Regolamento.pdf](../RAG/bnxt-c76dc502d1553f03682660c6211a4c91d1573b3c265c3327111d7a990d9aaeac.md) — RAG_FONTI
+- [FIM Sporting Regulations ( pdf | 2163236 )](../RAG/bnxt-7ef7d43da5920a1e6092579bcac9c9061088750132f6b887d65b09f1bb539eef.md) — RAG_FONTI
+- [FIM Supplementary Regulations - DAKAR 2026 ( pdf | 10483397 )](../RAG/bnxt-0be8ee0b77e939ce4e1ebd6a5529a824c42880670e92389140203185ea60bc21.md) — RAG_FONTI
+- [FIM Technical Regulations ( pdf | 3102680 )](../ALTRI_DOCUMENTI/bnxt-e186064ee9539ee47e63df69c6f93ad4163781fccab97ae3a588ef00e9dd3ce6.md) — REVISIONE_CONTENUTO
+- [Hard Enduro Cup Entry Form](../RAG/bnxt-439ab8f503bb99a7be40b1a3ae28021fed87c689b4259e0a723e99dfcf11564c.md) — RAG_FONTI
+- [Italiano Enduro Major 2022](../RAG/bnxt-442ba4dad2225b149766fd1a38dfdbc87eaf7670d7057f586e0c2c18ce9c6271.md) — RAG_FONTI
+- [Italiano Enduro Under 23 – Senior](../RAG/bnxt-d9c9a6e3aeacfbb7116628eb174f132b207058f05411e99be2a8ea35c0c8f56f.md) — RAG_FONTI
+- [Italiano MiniEnduro 2022](../RAG/bnxt-f617d8fa5180a1ad6f82055aaa6f8141f11e75bdb0afac3460600e0ce6531777.md) — RAG_FONTI
+- [Italiano Motorally e Raid TT 2022](../ALTRI_DOCUMENTI/bnxt-0f994b495c53c71f1d58052b4ae5bb4f62afbbc46ebae9c44cedf50816c13d60.md) — REVISIONE_CONTENUTO
+- [LISTA PARTENTI TRANSITALIA MARATHON 2026](../RAG/bnxt-a923d3ab62bb7800afdb21e9d40db64ed38cc1b882c08364dd7e4d24a7dffb3a.md) — RAG_FONTI
+- [Listado de Dorsales Fijos 2026](../RAG/bnxt-61a9d60ffd7368590dda68434b0e31f7ee481a32cfe58cbe6944c53b4a7d0e6f.md) — RAG_FONTI
+- [LO STATUTO DELLA FEDERAZIONE MOTOCICLISTICA ITALIANA](../RAG/bnxt-794f6667c6e3f1c6f9e7f49d67bd2c4067b11cf9609e1ff4ed0cf4e2279bb110.md) — RAG_FONTI
+- [Modulo Denuncia infortuni](../RAG/bnxt-6ebf31604ba783d897b38a7f086e756511c993553f966dc833d876287493c934.md) — RAG_FONTI
+- [Modulo Denuncia Responsabilità Civile Terzi](../RAG/bnxt-76cd718c8e6d4f82066be8f602ebbdc21ce9280827297723217992f86a438d14.md) — RAG_FONTI
+- [Motocross Principali Modifiche al regolamento.pdf](../RAG/bnxt-5f4ac9c239d27de024513f5c75a55b62e12030aaee7979921d9d2ff2f9cca873.md) — RAG_FONTI
+- [Motorally Principali modifiche al Regolamento.pdf](../RAG/bnxt-1fc3f8ac50cf6c20dc513d3515e0ed73517415545f54b11ada3f18934fa79abe.md) — RAG_FONTI
+- [NATIONAL CLASS — d3e281e2-1765-4881-81af-9d5d460a9ae0_SR Serbia Regulation National 20.01.2026_1.pdf](../RAG/bnxt-41b87cb6995e09474ec43e814876f62b827592a82843755738530b93e89b344d.md) — RAG_FONTI
+- [Normativa de Cascos 2026](../RAG/bnxt-395a7f0723714fed80e64966ac8113da04e4931f2507e1a7909978032370e93a.md) — RAG_FONTI
+- [Normativa Reserva de Dorsales 2026](../RAG/bnxt-58c3d8b4bfaaa0b8e6d0e8d50983fa633e9fb002314d2dd69ccbe16f1742fd2d.md) — RAG_FONTI
+- [Number plate guidelines — Number-plate-guidelines-2026-27.pdf](../RAG/bnxt-b6664c5182b0990eaaedc5a32118d28e4509a84f752801714db762ed2c2d117d.md) — RAG_FONTI
+- [Protocolo de Organizadores 2026](../RAG/bnxt-10bf88b6401cacacaaff9904f4c7727b4e5e0ab9b2a1e71155c2a1276df52083.md) — RAG_FONTI
+- [Provvedimento STS 1.26 – Regolamento Enduro](../RAG/bnxt-cdd5967e18d8287480d1661efe20ec923b435a27627546e943214baf1841b58d.md) — RAG_FONTI
+- [Provvedimento STS 2.24 – Norme Motorally](../RAG/bnxt-71ff2d0439ae397fea33f0415b1927b9f0ceb7f3e03db50b735c323af247d83a.md) — RAG_FONTI
+- [Provvedimento STS 21.26 – Regolamento Enduro 2](../RAG/bnxt-47c4a3fb50e0b7034d6d176b47ee7301f74996fe15bb539db88f8b3d9c59a438.md) — RAG_FONTI
+- [Provvedimento STS 31.23 – Norme Minienduro](../RAG/bnxt-25fdc89819d779cee6e9ad2ea6fd0517d670a52285322c84e8dca8184d572c69.md) — RAG_FONTI
+- [Provvedimento STS 59.26 – Regolamento Motorally 2](../RAG/bnxt-0258a44c5ed861e5be89e44acbb36990337bda05e15a3d938e2328f0ff5706c4.md) — RAG_FONTI
+- [Provvedimento STS 6.24 – Norme Enduro](../RAG/bnxt-5f5d5390202c8f7b328bc70a98be5cf1ae8f6d1af36042f59f1975d533c64e56.md) — RAG_FONTI
+- [Provvedimento STS 64.26 – Regolamento Enduro 3](../RAG/bnxt-155ef170b8e1fd49868831b70aa8e54bd4aa8f01c4e50b15d4e466b442e9a6b9.md) — RAG_FONTI
+- [Provvedimento STS 7.26 – Regolamento Motorally](../RAG/bnxt-fbb6467bfd787cd0bac9cd5911a6ff77544e93dac088f3a871bce36cbe61eed9.md) — RAG_FONTI
+- [Reglamento de Carburantes 2026](../RAG/bnxt-9542b604d04860354927cab26a7c6558eab7db0386880a2397b6b65962812e03.md) — RAG_FONTI
+- [Reglas Deportivas y Técnicas 2026](../RAG/bnxt-2bc32dcd38cc7a75b27336d6159f16a77d7f0bd66150ab7f01c0801ca446dc8d.md) — RAG_FONTI
+- [Regolamento Campionato Enduro Regionale 2024](../ALTRI_DOCUMENTI/bnxt-f97d657c3ad72cf668c6451abd82fc544e01d01bfff50550af7794c65b2019d7.md) — REVISIONE_CONTENUTO
+- [Regolamento Campionato Enduro Regionale e Triveneto 2021](../RAG/bnxt-1c6f6265f38ad7c26734d0cfcc60ffba35c46d17fd0cdae644741a5a70c6a3a9.md) — RAG_FONTI
+- [Regolamento Campionato Enduro Sprint 2024](../ALTRI_DOCUMENTI/bnxt-29e9a0acb085dfe0ad70984b01d644f357f692c63e1d3d2d8031aacdbb86f550.md) — REVISIONE_CONTENUTO
+- [Regolamento Campionato Motocross e Minicross Regionale 2021](../RAG/bnxt-2eccf4a1a7f70e02158df6be94c98613e2e1852eac708aa07da25a1f033b8c88.md) — RAG_FONTI
+- [Regolamento Campionato Motocross e Minicross Regionale rev. 08/05/25](../ALTRI_DOCUMENTI/bnxt-fb132ec33b54621caa04f9cb96aabd99f2d1a539c70bd4a4bf809f796ddc8e45.md) — REVISIONE_CONTENUTO
+- [Regolamento Campionato Motocross FVG 2018](../RAG/bnxt-52b72b0949ac7d1d3fd23895fe766a12b525bd221aebdf233eb4060f2911ed62.md) — RAG_FONTI
+- [Regolamento Campionato Motocross Regionale 2023](../ALTRI_DOCUMENTI/bnxt-890606e93ad7fec490fa190af796d28107d1b8aec166a9cf57fbe5d3039d95bd.md) — REVISIONE_CONTENUTO
+- [Regolamento Controlli Fonometrici](../RAG/bnxt-c0c178d974dbc3f2bc4f92c61cb3cb3df035774c95072d8ccc3e2bb28f75c168.md) — RAG_FONTI
+- [Regolamento Controlli Fonometrici 2025](../RAG/bnxt-13ae6cf23d100637f0a5cf51d8efea41eb4d07ddabec650080b55e69084cee10.md) — RAG_FONTI
+- [Regolamento Controlli Fonometrici 2026](../RAG/bnxt-1ee709bc0970f558fe5d28dbf4ab576b6703653ec40e3c699708868d8a788ce9.md) — RAG_FONTI
+- [Regolamento Enduro 2026](../RAG/bnxt-5ca493378ca6cc8a4b6e6e94615bf686248f92899d6034a398013ac186c559d8.md) — RAG_FONTI
+- [Regolamento Manifestazioni Motociclistiche](../RAG/bnxt-b5e5a2172b8fe753a80803a83525d49cd5259ed9a6df89a8b2bc3d2ab86dab97.md) — RAG_FONTI
+- [Regolamento Minienduro Regionale e Triveneto 2024](../ALTRI_DOCUMENTI/bnxt-55969938870ee882b42a33d0dfa8ee16c2361885d617b1abe873ed224713e16a.md) — REVISIONE_CONTENUTO
+- [Regolamento Motocross 2026 Update 23.04.2026.pdf](../RAG/bnxt-69ca785a64f82fb97e97f5fcbb1ecd15633b5b8d4dde177ab761d57e7fd3e6a4.md) — RAG_FONTI
+- [Regolamento Motorally 2026](../RAG/bnxt-f7e33933931ddede82e92022ca11dfdfef42c32b1c1a2c1a8d47d1f496e8016a.md) — RAG_FONTI
+- [REGOLAMENTO PARTICOLARE MOTOCROSS LOMBARDIA 2026](../RAG/bnxt-d033cfe511b39036ffd99fcaa8430d1a096651df496b3f0fa0b3f4e88dbcc383.md) — RAG_FONTI
+- [Regolamento Supermoto 2026 Update 08.05.2026.pdf](../RAG/bnxt-5b0bc4d4e6e3c314958088d9d8adf6663888eb8c99fcdb51ca1e2c7defb761a5.md) — RAG_FONTI
+- [REGOLAMENTO TROFEO ITALIA EPOCA CROSS 2026](../RAG/bnxt-da7e0e0265f2dee2558f69154b621aad3ec24c25bb79f499f6c0faf2c379166d.md) — RAG_FONTI
+- [REGOLAMENTO TROFEO ITALIA FEMMINILE 2026](../RAG/bnxt-f30eb8ca4405fdfbbed6cf442cfb43e4965659527e13b885381d8ee114cf7bf2.md) — RAG_FONTI
+- [REGOLAMENTO TROFEO ITALIA MINICROSS 2026](../RAG/bnxt-2a9b43ed5899c763d147ca3374d2d68bbb99576c031d0f43aa1b43140c2b007d.md) — RAG_FONTI
+- [REGOLAMENTO TROFEO ITALIA MOTOCROSS 2026](../RAG/bnxt-20aa0c7785e4221d61b0a25230190871968a40131b1afa470c7fd550d192229f.md) — RAG_FONTI
+- [REGOLAMENTO TROFEO PESENTI 2026](../RAG/bnxt-95082cfe4758f4091275fd2618775bdda208e15b3cffe4f1d363c5da69d1ada8.md) — RAG_FONTI
+- [Regolamento Trofeo Triveneto Enduro e Minienduro 2025](../RAG/bnxt-879ef966f6351a51f10d9888c368bd76cda13f1860366b00ab235f847c43ca82.md) — RAG_FONTI
+- [Regolamento Trofeo Triveneto Enduro e Minienduro 2025](../RAG/bnxt-da9ced5ea4f18b73db5d3c25c81b57e24e39d8d8d8db57c56eda82d9cf2e66f9.md) — RAG_FONTI
+- [Richiesta servizio cronometraggio C.R. enduro](../RAG/bnxt-a48e14a1eb42e0f3317fefaef33760ca005b37765f6691ee775d9195c9993d0f.md) — RAG_FONTI
+- [SR-EUROPE CUP — 289674bc-926b-4475-a396-dbbd08143555_SR- 2026 FIME SEEC -Riesa (GER).pdf](../ALTRI_DOCUMENTI/bnxt-9ad668c0f798f2499ec51717017bf0a59bcec52c7fae1ebb7a7939c613fc8986.md) — REVISIONE_CONTENUTO
+- [SR-EUROPE CUP — SR_SuperEnduro_FFM.pdf](../ALTRI_DOCUMENTI/bnxt-ea29d78a0b7a130876f14dcd270383b2bd590d778d010fc7d85d030fd2142f06.md) — REVISIONE_CONTENUTO
+- [SR-EUROPE CUP — SR_SuperEnduro_Gliwice_POL.pdf](../RAG/bnxt-1aca5f75d74b7bc8531c22cc0a14c2bda124f6ada78d334c4a21abe69d3ef0e1.md) — RAG_FONTI
+- [SR-EUROPE CUP — SR_SuperEnduro_MAMS.pdf](../RAG/bnxt-eaaaea8492c777ef9f6e567fefd8b0c00ac96110559c446ac73345a93cad0aea.md) — RAG_FONTI
+- [STATUTO MOTO CLUB IN FORMA DI ASSOCIAZIONE SPORTIVA DILETTANTISTICA ADEGUATO AI SENSI DELLA DELIBERA N. 1566 DEL CONSIGLIO NAZIONALE DEL CONI DEL 20/12/2016 VERSIONE 2019](../RAG/bnxt-c861c331c678276e400fa748996593fbabb8a78543933055250bcaba25f374c6.md) — RAG_FONTI
+- [Supermoto Principali modifiche al Regolamento.pdf](../RAG/bnxt-f93949a2f01974e2d646c5619af6f5dad888f102ece884a3fa70d0d843ee438b.md) — RAG_FONTI
+- [Supplementary regulations — 3c96e4bd-63c6-49ff-a021-d6209ea49055_SR - 2026 FIM SEWC - Douai (FRA).pdf](../ALTRI_DOCUMENTI/bnxt-e3d5a6e2e61f41f4a9eb88140f609c163c6f1c593777bd1257c0ce3a381b84ee.md) — REVISIONE_CONTENUTO
+- [Supplementary regulations — 859bdc4a-26a8-43fc-8cf4-7f33e301ce97_SR - 2026 FIM SEWC – Riesa (GER).pdf](../ALTRI_DOCUMENTI/bnxt-f7a539444ffbca04adc6eb9b2d91fe6218b73ad07722e32410daf959e0e4148a.md) — REVISIONE_CONTENUTO
+- [Supplementary regulations — be3c35f8-26ca-482e-8cb6-63a47f5a427e_SR - 2026 FIM SuperEnduro World Championship - Bilbao (ESP).pdf](../ALTRI_DOCUMENTI/bnxt-57d49b4e80cb1be5ddd0f01da910cc0e95a9cfc7cf1234975f652e3e73f9a6dd.md) — REVISIONE_CONTENUTO
+- [Supplementary regulations — c908da22-2d6d-4290-9bbb-b4daabb06b78_SR - 2026 FIM-SEWC-Belgrade (SER).pdf](../ALTRI_DOCUMENTI/bnxt-1fc62552c8f9c380f53fb435fb50c3dacbdc50da5e15cd670177244e8406323d.md) — REVISIONE_CONTENUTO
+- [Supplementary regulations — SR-2026-FIM-SuperEnduro-World-Championship-Gliwice-POL_13.11.2025.pdf](../ALTRI_DOCUMENTI/bnxt-b2bc025e30f03b0ae2fe4dd610e5d0eb85cbe1af2a46ac6f8b66fd59fe63d117.md) — REVISIONE_CONTENUTO
+- [Supplementary regulations — SR_-_2026_FIM_SuperEnduro_World_Championship_-_Budapest__HUN_.pdf](../ALTRI_DOCUMENTI/bnxt-c496c5ccc5ad4e044c96da9c3a898f284c6389e0fb5d758082dc41529e57d84e.md) — REVISIONE_CONTENUTO
+- [Supplementary regulations — SR_-_2026_FIM_SuperEnduro_World_Championship_-_Newcastle__GBR_.pdf](../ALTRI_DOCUMENTI/bnxt-5ea8daccf4ded4e148c7f7e419224471a7b12e87242e3e147b12da7d858c1a5f.md) — REVISIONE_CONTENUTO

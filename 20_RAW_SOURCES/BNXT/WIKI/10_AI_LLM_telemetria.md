@@ -1,0 +1,58 @@
+# 10_AI_LLM_telemetria
+
+- [2208.05192 Real-Time Oil Leakage Detection on Aftermarket Motorcycle Damping System with Convolutional Neural Networks](../RAG/bnxt-f80ce39215f6f5b4730bcc3ae083476f265ab34fb3f59a7fed1073cffbea526d.md) — RAG_FONTI
+- [About — suspension data acquisition from Brescia — BYB Tech](../RAG/bnxt-2531adaf4129add98789b4b820e8dc899f0593affef9724aa55f7430f2a050da.md) — RAG_FONTI
+- [AI Motorcycle Diagnostics & DIY Repair Guides | Vojo](../RAG/bnxt-6115afc14739a354e5dcd0de819e2792cf35f7105bc0a27fb772989f454dc125.md) — RAG_FONTI
+- [App Use Instructions - Motoklik](../RAG/bnxt-09eda9a47b2f370e93d2491198840014e5cf8d239ea91d6ab8ec1d83d733f3c3.md) — RAG_FONTI
+- [App Use Instructions - Motoklik](../RAG/bnxt-ad63a4ebfed61ce5d30f77c7abd1afb1e655aa8629a4755e07b82c8e97e2849d.md) — RAG_FONTI
+- [BYB Tech — Suspension data acquisition for MTB, moto, quad and car](../RAG/bnxt-52a8459f152df573c486603d4845ec2a3ed322eb2e5b6f2a642c0d5d355289c1.md) — RAG_FONTI
+- [BYB Telemetry suspension analysis software and app — BYB Tech](../RAG/bnxt-c5ce9da6e7876a81ce398b1a0150a893a49bb1535b495d4575439f359d294524.md) — RAG_FONTI
+- [Chrono user manual — BYB Tech](../RAG/bnxt-f39a5869efcc60465436d2124fc59643f0645344645120907875da96085e031f.md) — RAG_FONTI
+- [Common Motorcycle Warning Signs & Diagnostic Next Steps | Vojo](../RAG/bnxt-e6789936d3dd0ab3f3b6b8306f97dc2df9dba3858f264ef2b508815ad6b5945d.md) — RAG_FONTI
+- [Fix model clarification, catalog boundaries and source notices · maax6/bikefinder-rag@58b0fe9 · GitHub](../RAG/bnxt-353131d48031a2073a84f921f965d44da3901c1e4b3b075272d591eb8f38ce47.md) — RAG_FONTI
+- [Focus user manual — BYB Tech](../RAG/bnxt-c3d5a07a585fa052f1f2dd2efc08381571d61a41126aa791716762fff2553acf.md) — RAG_FONTI
+- [For AI agents — Rider Toolkit](../RAG/bnxt-eca1a51e1883ccacc8eeb2352cd7f0ae5d86035fd167b24bae4c5ce35c17b39e.md) — RAG_FONTI
+- [GitHub - maax6/bikefinder-rag: My first RAG POC · GitHub](../RAG/bnxt-3b3edd2e3959681db8896bf3a511db6f0533d2afa4cbdd63b731a10a518ead1d.md) — RAG_FONTI
+- [How to Clean and Lubricate a Motorcycle Chain | Vojo](../RAG/bnxt-2ae5c0ac0e3f1693271e55a44746f55ac6310202fe7c148204230e57fcf76f9b.md) — RAG_FONTI
+- [https://ridertoolkit.com/robots.txt](../RAG/bnxt-219bdb6c529070546d22a2f111ee81bc7ce908b99f203d354f2c3395c1f771ef.md) — RAG_FONTI
+- [Installation Instructions - Motoklik](../RAG/bnxt-102c4d002677820920413ee2589c1e241513cbb5ec9536b7c18ccfb7b15bd4e3.md) — RAG_FONTI
+- [Installation Instructions - Motoklik](../RAG/bnxt-31cfa39716b09552409d94ba54f3b70d6a0d187950aa20b4194b907e4681e3c9.md) — RAG_FONTI
+- [Installation Instructions - Motoklik](../RAG/bnxt-5f27e7f5096dc198cc9876bd01f7be3bbf359be6c841ee0243c2971b370b4031.md) — RAG_FONTI
+- [Installation Instructions - Motoklik](../RAG/bnxt-71721dff2a8b51060b8e2378db87e956fdb1600734217932018c5acab0e6d725.md) — RAG_FONTI
+- [Miniature pressure sensor M8x1 » Aviorace | Motorsport: components, electronics, connectors and sensors](../RAG/bnxt-4f19bf0348ffff39321dcf86894ec0b9b57b097df660b430029c856226de75a8.md) — RAG_FONTI
+- [Motocross data logger, data acquisition system by Motoklik](../RAG/bnxt-2111e14f1365c2f316d7f7bb1c1b58bef9a1db78a38741ad880c0213edd38699.md) — RAG_FONTI
+- [Motocross Suspension Setup with Motoklik](../RAG/bnxt-1427ffc0c831bc590121f69adba3e437d6ba3bb56c41bb4597924affac3c08b9.md) — RAG_FONTI
+- [MotoDoc — Manuals, diagrams and parts. One conversation.](../RAG/bnxt-0462af3073fc68ddab318d9bb4801683ae69c59a9bcc707400b54b77099e7c0d.md) — RAG_FONTI
+- [Motoklik Empowering Confidence in Motorsport Th](../RAG/bnxt-b8a9fa17b26914f49d37eadaa7ca3932b69d0dbc637629a7a306cd1210d34bce.md) — RAG_FONTI
+- [MOTOKLIK now available for 85cc! - Motoklik](../RAG/bnxt-8d5f5c8da9199e8a1fba552c337732e1c293053a444a49cea0d004a7134f2762.md) — RAG_FONTI
+- [Motoklik System - Motoklik](../RAG/bnxt-e284240f28abaac4b41bcc61d54f9c13b4e3e2482839f7be239cdd087182bebc.md) — RAG_FONTI
+- [Motoklik |  5 secondi](../RAG/bnxt-353634e97c703e97b9108447ff376acb1c163089fab53060486c686424ad0345.md) — RAG_FONTI
+- [Motoklik — Istruzioni installazione sensori KTM/Husqvarna](../RAG/bnxt-ae23a137eb6e597235190d841309fa1457141806ba0965a1b6d8a56e38835c06.md) — RAG_FONTI
+- [MotoManual.ai - AI-Powered Motorcycle Service Assistant](../RAG/bnxt-355f46fe60396dc174f444f08cc54fbacb77fd28888f80693cdda23296772b92.md) — RAG_FONTI
+- [Motorcycle Garage App for Bike Records & Maintenance | Vojo](../RAG/bnxt-7d75d68c1d59833ecc8a6c80949aeddeba1ed7a99532534a4d54b193391391e7.md) — RAG_FONTI
+- [Motorcycle Maintenance Guide: Service Intervals & Checklists | Vojo](../RAG/bnxt-792d1730a338dcb45b083ee135a9a500e5078e7a96d8d53f6a9d8f77b5024d33.md) — RAG_FONTI
+- [Motorcycle Maintenance Tracker & Service Log App | Vojo](../RAG/bnxt-2ab20732d6b480d54f3de9bcdfa2db91cfe034a5d7404546d5074f4421a5fdde.md) — RAG_FONTI
+- [Motorcycle Ride App for Group Rides & Route Planning | Vojo](../RAG/bnxt-99fc01b15734d1d811dd2f07add93a14cdf9507ce108f00e2e2ab12f66e89159.md) — RAG_FONTI
+- [Motorcycle Service History & Maintenance Log App | Vojo](../RAG/bnxt-9bcc70787de44e62f6d87914f63a31f73e6a13209e79be3c683cfe9f2a5dab2f.md) — RAG_FONTI
+- [MXA RACE TEST: THE REAL TEST OF THE 2021 HONDA CRF450 - Motocross Action Magazine](../RAG/bnxt-48333a3df14f251e5c08e055c5bc6ad92f83af360bc4e6cd888978d541586ca8.md) — RAG_FONTI
+- [myKTM APP HARD FACTS](../RAG/bnxt-98cec94e6adb2b7f822722495ebfba838c59889a16b51163e83d6571a2e8d6f6.md) — RAG_FONTI
+- [News - Motoklik](../RAG/bnxt-46c1a5b2ef7371e270e1a8189ae35f3dd1293c39e080b804a03659d9065b7296.md) — RAG_FONTI
+- [News Archives - Page 2 of 3 - Motoklik](../RAG/bnxt-f50e63dbe2c4dd0e41b75850f24377f2b50291b5192272cb01e0402f97b9959f.md) — RAG_FONTI
+- [Pre-Season Motorcycle Maintenance Checklist | Vojo](../RAG/bnxt-d010d8f2f2e59af3141eb1bddd19db14d41c98fd15113793cef8effe1e7f0fbd.md) — RAG_FONTI
+- [Product Terms & Conditions - Motoklik](../RAG/bnxt-10f0b83a7f44258bb7850cd12e34f1904494ec7ac16c1544afcf46f847297262.md) — RAG_FONTI
+- [Professionelle Datenanalyse- und Fahrwerks-Einstellung via App! - Motoklik](../RAG/bnxt-2f8b5194af77102a6eeae093b5c5ec04f2a1a837870c6e69df44f86317513512.md) — RAG_FONTI
+- [Ship the motoplanete dataset (11,418 fiches: prices + categories) · maax6/bikefinder-rag@1d25fe0 · GitHub](../ALTRI_DOCUMENTI/bnxt-fb53caa851f4cc87dd35b33ab888130a1690d5894a3d3c464aa79142c843bc78.md) — INDICI
+- [Structural optimization principles for edge AI in motorsport telemetry | Scientific Reports](../RAG/bnxt-1552d20008b9e9441eb4d98a80270ad9f803cecc8785c3d74f174ae2c9b7e630.md) — RAG_FONTI
+- [Structural optimization principles for edge AI in motorsport telemetry | Scientific Reports](../RAG/bnxt-4d4bdd776910fa0e2bc313934024c2b27b48a0bd5fa0f2a058d7a496872abc1d.md) — RAG_FONTI
+- [Structural optimization principles for edge AI in motorsport telemetry | Scientific Reports](../RAG/bnxt-97217f184b56786053faf0fe3f54808f7b1bb1f46aeb1df3dabadebbca93bf4c.md) — RAG_FONTI
+- [Structural optimization principles for edge AI in motorsport telemetry | Scientific Reports](../RAG/bnxt-ff4a0c366ce05fb3dd5cbd716c6b25bd61adaf95863af9c976eca9aebe82b26a.md) — RAG_FONTI
+- [Suspension data acquisition for motorcycles — BYB Tech](../RAG/bnxt-3b26b8b53aebad3b055e19e26605e474dd44a49017f9603f576f9e415bff6fd0.md) — RAG_FONTI
+- [Suspension data acquisition for motorcycles — BYB Tech](../RAG/bnxt-46c3d79cd158574b6c0f3c78a7d3aca15c36d848b5a794f1ac2748886e281e35.md) — RAG_FONTI
+- [Suspension data acquisition — MTB, moto, quad, car — BYB Tech](../RAG/bnxt-a6795f8509ed95e6672824761cc7d2f45ec5d07a99a000207424ffe0c82b2a60.md) — RAG_FONTI
+- [Suspension data acquisition — MTB, moto, quad, car — BYB Tech](../RAG/bnxt-c944864e9bc3a75104c4327a135c7ec1b747cb3c3b47195834bd2b4638c2bff9.md) — RAG_FONTI
+- [Telemetry software user manual — BYB Tech](../RAG/bnxt-3014b7dd7638f1371ccdfcc85cb8bf7da05b9d06052e2842e69fba23455cda1d.md) — RAG_FONTI
+- [Telemetry user manual — BYB Tech](../RAG/bnxt-5ddbcb1b078a19c8ff3c722c2e82e33cb2bb671a81e2b559f7a71e49959b118f.md) — RAG_FONTI
+- [Test Motoklik: l'intelligenza artificiale che ti setta le sospensioni](../RAG/bnxt-2507a8eacd60be08ba407606a00664e2f216d2c6e5a34c0b618d4de801f22533.md) — RAG_FONTI
+- [User manuals — Telemetry, Chrono and Focus — BYB Tech](../RAG/bnxt-f3cc4013c34a27de6d050576f78e3f4138c8a1be4508dc2e4a3a4ecd3e085dcb.md) — RAG_FONTI
+- [wrench-ai/README.md at main · shayyan24/wrench-ai · GitHub](../RAG/bnxt-917209adb14a5f36808db4f740321f9c0a996b6c3b1c65be5e0e841be1ac9ccf.md) — RAG_FONTI
+- [‎Motoklik App - App Store](../RAG/bnxt-de58cc66cdfbb99e18a8e3391c018916235c6373a5315c196a66439cfd67c8a0.md) — RAG_FONTI

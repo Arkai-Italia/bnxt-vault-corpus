@@ -1,0 +1,33 @@
+# Calendari_e_revisioni
+
+- [- CALENDARIO ENDURO TROFEO ITALIA agg 11-05-26 ( link )](../ALTRI_DOCUMENTI/bnxt-4631f0724c2b69052fb8d99e34577ca1c5b6d16a3e8ab4050b8af74ef5ba2372.md) — REVISIONE_CONTENUTO
+- [- CALENDARIO NAZIONALE MOTOCROSS 2026 rev. 1 ( link )](../RAG/bnxt-938d761a6db38f0d52beb314d7ca7a7a0a13a83c28538ceffa6afeec3d02e34a.md) — RAG_FONTI
+- [- CALENDARIO REGIONALE MX 2026 ( agg. 09-09-26 ) link](../RAG/bnxt-67bcb4d96d65b29e836e76b098c971bddeb12642b0442d3793739a1ff3ebd642.md) — RAG_FONTI
+- [2026 – Calendario Campionato Minienduro rev. 01](../RAG/bnxt-32f41495a0818f0325e81f74aa7d643878912217261518324835d71969de1557.md) — RAG_FONTI
+- [2026 – Calendario Interregionali Enduro rev.02](../RAG/bnxt-8ef6be61a0e7fb93547bec95da82f862c3b19c761533c1eea35cda77f2d5328d.md) — RAG_FONTI
+- [2026 – Calendario Regionale Enduro](../RAG/bnxt-d5c809692e0f2eab3142a828e58c3689cfb1a9d60a7d0af08d34c64ca0eda3dd.md) — RAG_FONTI
+- [2026 – Calendario Regionale Motocavalcate – Mountaintrial rev. 02](../RAG/bnxt-1fa37c589c0e952b67ba3ff61d01f17669032bfb451897fa372ca2d1bf6d21d3.md) — RAG_FONTI
+- [2026 – Calendario Regionale Motocross/Minicross rev.04](../RAG/bnxt-bd1d0db78c512bf46434bddee4b2451f0761aaaee0d1e55465ce73251884b29f.md) — RAG_FONTI
+- [2026 – Calendario Regionale Supermoto rev.03](../RAG/bnxt-0bb04d7fd5293b93e2f1e527b725655540a4e9c010071b86f22915509b729640.md) — RAG_FONTI
+- [2026_Calendario Fuoristrada Regionale rev. 26/05/26](../RAG/bnxt-138add59d9c4e08ff694d993e43ff0fe9213e6a607c951d0b087de7fbf47d90f.md) — RAG_FONTI
+- [Calendario Enduro Liguria agg. 03062026.pdf](../RAG/bnxt-766505e0389478cf3a373cf8565b4d3ee0c4fb5e41c0a5d6a4a72bb432aff30f.md) — RAG_FONTI
+- [Calendario Manifestazioni Fuoristrada 2022](../RAG/bnxt-4e137af82f326c928d4affb0048d152d160a2a82da00c332b588e9f5e32bd304.md) — RAG_FONTI
+- [Calendario Manifestazioni Fuoristrada 2023](../RAG/bnxt-64c978af629ac95e075d078f8b5fded5388507898c216487570e29de6d79469a.md) — RAG_FONTI
+- [Calendario Manifestazioni Fuoristrada 2024](../RAG/bnxt-83bb3ad8c484ea0709084189e1ef54e595fe60b330881d0345cb44edb2919a76.md) — RAG_FONTI
+- [Calendario Manifestazioni Fuoristrada 2025](../RAG/bnxt-5865d2e2e41e6949708d8b824247bb97f899c0bfe88c390a13faa658f29c53db.md) — RAG_FONTI
+- [Calendario Nazionale Enduro FMI 2026](../RAG/bnxt-e0819b54124e2d2e577ac5d4dc47547f6a1c40effba9877d07da40a9b5bf9b39.md) — RAG_FONTI
+- [Calendario nazionale Motocross FMI 2026](../RAG/bnxt-b32a8a307307d72ad56673e25a0e9b255f71527f99524cb1929482345ab56bd9.md) — RAG_FONTI
+- [Calendario Nazionale Motorally FMI 2026](../RAG/bnxt-d16684fd8372dfbb266825b597427eecac18eb3b86fe977a14514cdcea37e9c8.md) — RAG_FONTI
+- [Calendario Nazionale Supermoto FMI 2026](../RAG/bnxt-5d7c8a22de49879269831fe87e546ea504e6ea520150692ea6aabad4f50d9e08.md) — RAG_FONTI
+- [CALENDARIO NAZIONEL MOTOCROSS EPOCA agg. 15-07-26](../RAG/bnxt-258fce7c1aaa743cfc85cdb7ee8bf435987c9b9fb4708197a8bd53b62b95246a.md) — RAG_FONTI
+- [Calendario Sportivo MX Epoca 2026](../RAG/bnxt-f49da104430df495ef98c6af7d99e86541ee0ce108031a9bc269e4f5860d8bb1.md) — RAG_FONTI
+- [NOTE AGGIORNAMENTO CALENDARIO SPEED RACING FORMULA SLALOM ( link )](../ALTRI_DOCUMENTI/bnxt-abaf4aa8d9c86ba223387e409fe53f1b62ee6a62b4654319295a8ef031ec3334.md) — REVISIONE_CONTENUTO
+- [Provvedimento STS 105.26 – Variazione Calendario Enduro 2026 5](../RAG/bnxt-c45c990b9632a6d8c575671aa7993552581a404b56055eac8c9b4fd7b2946b4e.md) — RAG_FONTI
+- [Provvedimento STS 11.26 – Variazione Calendario Enduro 2026 3](../RAG/bnxt-6dcaa72ace3d7c14d6e703b0b131379fc61d111ab7643bc6573d3d45a19e2004.md) — RAG_FONTI
+- [Provvedimento STS 135.26 – Variazione Calendario Motorally 2026 5](../RAG/bnxt-a6ec7021ff5081a8c129652fee2881632e66892a981217c02128ab9ff14f3315.md) — RAG_FONTI
+- [Provvedimento STS 148.25 – Variazione Calendario Enduro 2026](../RAG/bnxt-13ad66ac1f8d09535e0142004ee95e515c7707e04c5eefa14eeab0f5005ad098.md) — RAG_FONTI
+- [Provvedimento STS 15.26 – Variazione Calendario Motorally 2026 3](../RAG/bnxt-1a7c499bb0df9810ba7ffe331bd113fcd6a03bc5e3a770744b8b65d9f26d609a.md) — RAG_FONTI
+- [Provvedimento STS 157.25 – Variazione Calendario Enduro 2026 2](../RAG/bnxt-3ca7db5e41dd82e42efbbe0db3fefae818bde2d4a59d397f545ffacf406fc4b1.md) — RAG_FONTI
+- [Provvedimento STS 158.25 – Variazione Calendario Motorally 2026 2](../RAG/bnxt-4fb34f1dee9e81b0adf0789f8969e4e888243fc70b13696bbc69169d54031bcd.md) — RAG_FONTI
+- [Provvedimento STS 39.26 – Variazione Calendario Motorally 2026 4](../RAG/bnxt-045d431d5b0c93429ff47441456dc7d4a5aca2a51df84ba129ed49a2fcaf245c.md) — RAG_FONTI
+- [Provvedimento STS 89.26 – Variazione Calendario Enduro 2026 4](../RAG/bnxt-8aa33386b7d23964241b4a46ecb19d3a1fbb1dcda533272cdadf6f5519093093.md) — RAG_FONTI

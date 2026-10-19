@@ -1,0 +1,2 @@
+00_SYSTEM/SEARCH_INDEX.json filter=lfs diff=lfs merge=lfs -text
+00_SYSTEM/VAULT_CATALOG.json filter=lfs diff=lfs merge=lfs -text
